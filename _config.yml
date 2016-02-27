@@ -1,13 +1,14 @@
-baseurl: /starter
+baseurl: /bogota
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: bogota
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeBogota
+  #twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
+future: true
 gems:
   - jekyll-feed
