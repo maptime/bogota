@@ -6,8 +6,8 @@ repo: bogota
 github_org: maptime
 maptime:
   chapter: MaptimeBogotá
-  #twitter: TwitterHandle
-  #disqus: YOUR DISQUS USERNAME
+  twitter: MaptimeBogota
+  disqus: maptimebogota
 
 future: true
 gems:
