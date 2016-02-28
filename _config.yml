@@ -6,7 +6,7 @@ repo: bogota
 github_org: maptime
 maptime:
   chapter: MaptimeBogotá
-  #twitter: TwitterHandle
+  twitter: MaptimeBogota
   #disqus: YOUR DISQUS USERNAME
 
 future: true
