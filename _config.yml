@@ -7,7 +7,7 @@ github_org: maptime
 maptime:
   chapter: MaptimeBogotá
   twitter: MaptimeBogota
-  #disqus: YOUR DISQUS USERNAME
+  disqus: maptimebogota
 
 future: true
 gems:
