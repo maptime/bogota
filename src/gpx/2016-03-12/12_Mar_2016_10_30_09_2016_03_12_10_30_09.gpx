@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OSMTracker for Android™ - https://github.com/nguillaumin/osmtracker-android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<wpt lat="4.64978257" lon="-74.06245168">
+		<ele>2627.0</ele>
+		<time>2016-03-12T15:30:21Z</time>
+		<name><![CDATA[Bench]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="4.64978246" lon="-74.06245144">
+		<ele>2627.0</ele>
+		<time>2016-03-12T15:30:23Z</time>
+		<name><![CDATA[Bench]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="4.64978215" lon="-74.0624511">
+		<ele>2626.0</ele>
+		<time>2016-03-12T15:30:25Z</time>
+		<name><![CDATA[Bench]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="4.64978377" lon="-74.06244851">
+		<ele>2627.0</ele>
+		<time>2016-03-12T15:30:41Z</time>
+		<name><![CDATA[Photo]]></name>
+		<link href="2016-03-12_10-30-41.jpg">
+			<text>2016-03-12_10-30-41.jpg</text>
+		</link>
+		<sat>0</sat>
+	</wpt>
+	<trk>
+		<name><![CDATA[Tracked with OSMTracker for Android™]]></name>
+		<trkseg>
+			<trkpt lat="4.64978166" lon="-74.06245134">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:19Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978188" lon="-74.06245129">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:20Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978257" lon="-74.06245168">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:21Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978283" lon="-74.06245135">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:22Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978246" lon="-74.06245144">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:23Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978229" lon="-74.06245165">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:24Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978215" lon="-74.0624511">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:25Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.649783" lon="-74.06245089">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:26Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978316" lon="-74.0624497">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:27Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978331" lon="-74.06244881">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:28Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978336" lon="-74.06244871">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:29Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978344" lon="-74.06244878">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:30Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978353" lon="-74.0624488">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:31Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978356" lon="-74.06244883">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:32Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978358" lon="-74.06244884">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:33Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978359" lon="-74.06244887">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:34Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978362" lon="-74.06244871">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:35Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978364" lon="-74.06244863">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:36Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978369" lon="-74.06244858">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:37Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978371" lon="-74.06244855">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:38Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978373" lon="-74.06244854">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:39Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978375" lon="-74.06244853">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:40Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978377" lon="-74.06244851">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:41Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978374" lon="-74.06244843">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:42Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.64978371" lon="-74.06244844">
+				<ele>2626.0</ele>
+				<time>2016-03-12T15:30:43Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="4.6497837" lon="-74.06244848">
+				<ele>2627.0</ele>
+				<time>2016-03-12T15:30:44Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
