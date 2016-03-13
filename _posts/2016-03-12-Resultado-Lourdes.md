@@ -10,7 +10,7 @@ Este evento fue convocado principalmente por medio de la página de
 aunque también se publicó en [OSM](http://wiki.openstreetmap.org/wiki/Current_events),
 [OpenStreetMap Colombia](http://blog.openstreetmap.co/2016/02/14/Mapping-party-Bogota-Lourdes/).
 Asistieron varias personas con diferentes intereses, y nos acompañaron miembros de 
-[Maptime DC](http://maptime.io/dc/), por lo cual fue muy constructivo para todos. Algunos participantes ya habían mapeado anteriormente, principalmente en [MapathonXLaGuajita](http://blog.openstreetmap.co/2016/01/22/memorias-mapaton/) y otros eran principiantes en el mundo de mapeo, OSM y datos libres.
+[Maptime DC](http://maptime.io/dc/), por lo cual fue muy constructivo para todos. Algunos participantes ya habían mapeado anteriormente, principalmente en [MapathonXGuajira](http://blog.openstreetmap.co/2016/01/22/memorias-mapaton/) y otros eran principiantes en el mundo de mapeo, OSM y datos libres.
 Entre los participantes estuvieron los siguientes miembros de OSM:
 
 * [AngocA](https://www.openstreetmap.org/user/AngocA)
