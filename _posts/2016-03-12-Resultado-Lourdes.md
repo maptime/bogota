@@ -18,6 +18,7 @@ Entre los participantes estuvieron los siguientes miembros de OSM:
 * [Carlos Gamez](https://www.openstreetmap.org/user/Carlos%20G%C3%A1mez)
 * [Fredy Gamez](https://www.openstreetmap.org/user/Fredy%20Gamez)
 * [javing77](https://www.openstreetmap.org/user/javing77)
+* [JinethRZ](http://www.openstreetmap.org/user/JinethRZ)
 
 El punto de encuentro fue en el parque de Lourdes, al lado del CAI en frente de Invima a las 9:00 am. Poco a poco fueron llegaron los participantes.
 Se comenzó con una breve descripción de cómo mapear en terreno usando:
