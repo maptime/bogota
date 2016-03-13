@@ -11,6 +11,13 @@ aunque también se publicó en [OSM](http://wiki.openstreetmap.org/wiki/Current_
 [OpenStreetMap Colombia](http://blog.openstreetmap.co/2016/02/14/Mapping-party-Bogota-Lourdes/).
 Asistieron varias personas con diferentes intereses, y nos acompañaron miembros de 
 [Maptime DC](http://maptime.io/dc/), por lo cual fue muy constructivo para todos.
+Los miembros de OSM que nos acompañaron fueron:
+
+* [AngocA](https://www.openstreetmap.org/user/AngocA)
+* [carolimo24](https://www.openstreetmap.org/user/carolimo24)
+* [Carlos Gamez](https://www.openstreetmap.org/user/Carlos%20G%C3%A1mez)
+* [Fredy Gamez](https://www.openstreetmap.org/user/Fredy%20Gamez)
+* [javing77](https://www.openstreetmap.org/user/javing77)
 
 El punto de encuentro fue en el parque de Lourdes, al lado del CAI en frente de Invima.
 Se comenzó con una breve descripción de cómo mapear en terreno usando:
