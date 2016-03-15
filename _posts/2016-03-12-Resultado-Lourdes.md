@@ -16,6 +16,7 @@ Entre los participantes estuvieron los siguientes miembros de OSM:
 * [AngocA](https://www.openstreetmap.org/user/AngocA)
 * [carolimo24](https://www.openstreetmap.org/user/carolimo24)
 * [Carlos Gamez](https://www.openstreetmap.org/user/Carlos%20G%C3%A1mez)
+* [Colin Deschamps](https://www.openstreetmap.org/user/Colin%20Deschamps)
 * [Fredy Gamez](https://www.openstreetmap.org/user/Fredy%20Gamez)
 * [javing77](https://www.openstreetmap.org/user/javing77)
 * [JinethRZ](http://www.openstreetmap.org/user/JinethRZ)
