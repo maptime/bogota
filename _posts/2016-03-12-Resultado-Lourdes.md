@@ -13,6 +13,7 @@ Asistieron varias personas con diferentes intereses, y nos acompañaron miembros
 [Maptime DC](http://maptime.io/dc/), por lo cual fue muy constructivo para todos. Algunos participantes ya habían mapeado anteriormente, principalmente en [MapathonXGuajira](http://blog.openstreetmap.co/2016/01/22/memorias-mapaton/) y otros eran principiantes en el mundo de mapeo, OSM y datos libres.
 Entre los participantes estuvieron los siguientes miembros de OSM:
 
+* [Marion Barry](https://www.openstreetmap.org/user/Marion%20Barry)
 * [AngocA](https://www.openstreetmap.org/user/AngocA)
 * [carolimo24](https://www.openstreetmap.org/user/carolimo24)
 * [Carlos Gamez](https://www.openstreetmap.org/user/Carlos%20G%C3%A1mez)
