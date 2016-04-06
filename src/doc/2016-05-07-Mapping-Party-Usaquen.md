@@ -1,6 +1,6 @@
 # Encuesta para obtener información de bares y restaurantes
 
-**Mapping party Bogota: Usaquén**
+**Maptime Bogota: Usaquén**
 
 Abril 7 de 2016
 
