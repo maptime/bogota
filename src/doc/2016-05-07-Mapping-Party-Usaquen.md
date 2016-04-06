@@ -32,7 +32,7 @@ Noodel, Pancakes, Pasta, Pizza, Regional, Sandwich, Hot dogs, Frutos del mar y P
 * De qué braserías venden cerveza?
 * Preparación de cerveza artesanal?
 * Zona de fumadores? (lugar dedicado, zona separada, zona aislada, no, fuera)
-* Acceso a internet? Wifi, no, hay computador, servicio cableado
+* Acceso a internet? Wifi, no, hay computador con internet, servicio cableado
 * Teléfono
 * Dirección del establecimiento
 * Página Web
