@@ -8,7 +8,7 @@ Somos un grupo de interesados por el mapeo libre en Bogotá y nos encontramos ha
 No somos una organización como tal, pero hacemos parte del capítulo de Maptime-Bogotá.
 http://maptime.io/Bogota - http://meetup.com/Maptime-Colombia-OSM/ - @maptime-bogota
 
-Los datos que se estamos solicitando son para el mapa libre OpenStreetMap, un mapa elaborado por la comunidad,
+Los datos que estamos solicitando son para el mapa libre OpenStreetMap, un mapa elaborado por la comunidad,
 donde cualquier persona puede hacer modificaciones y subir sus propios datos.
 Ustedes podrán hacer modificaciones de los datos que nos entreguen en www.OpenStreetMap.org
 
