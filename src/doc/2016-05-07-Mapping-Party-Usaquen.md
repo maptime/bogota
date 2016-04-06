@@ -26,7 +26,7 @@ Curry, Postres, Donas (donuts), Empanadas, Fish & Chips, Fritos, Helados, Kebab,
 Noodel, Pancakes, Pasta, Pizza, Regional, Sandwich, Hot dogs, Frutos del mar y Pescados, Carne, Sushi, Tapas, Wings, Otros
 * Venden cocteles?
 * Venden helados?
-* Ofrecen alimentos de dietas especiales? vegetarianos, veganos, kosher, libre de gluten
+* Ofrecen alimentos de dietas especiales? vegetarianos, veganos, kosher, libre de gluten, pescetarian, lacto-vegetarianos, ovo-vegetariano, frutarian, crudo, libre de lactosa, halal, libre de leche.
 * Horas de apertura
 * Calificación o cantidad de estrellas? qué organización las otorga?
 * De qué braserías venden cerveza?
