@@ -14,5 +14,12 @@ es un edificio que no es residencial - yes,
 es otro tipo de edificio - pub, braseria, iglesia
 * Uso de la construccion, si no es el mismo uso por el que se construyó originalmente
 https://wiki.openstreetmap.org/wiki/Key:building:use
-
+* Material de la fachada: ladrillo, vidrio, vidrio reflectivo, piedra, cemento, bahareque
+https://wiki.openstreetmap.org/wiki/Key:building:material
+* Material del techo: Eternit, concreto, vidrio, pasto (techo verde), gravilla, plantas, tejas, tela/shadecloth, pizarra, piedra, paja, madera.
+https://wiki.openstreetmap.org/wiki/Key:roof:material
+* Niveles https://wiki.openstreetmap.org/wiki/Key:building:levels
+* Altura https://wiki.openstreetmap.org/wiki/Key:height
+* Dirección https://wiki.openstreetmap.org/wiki/Key:addr
+* Cantidad de apartamentos https://wiki.openstreetmap.org/wiki/Key:addr:flats
 
