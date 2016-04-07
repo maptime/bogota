@@ -80,6 +80,7 @@ A continuación, la descripción de los datos que vamos a recoger.
   * Fotos de celulares o cámaras con GPS
   * Mapillary http://www.mapillary.com/
 * Encuestas para negocios https://github.com/maptime/bogota/blob/master/src/doc/2016-05-07/Informacion-Restaurantes.md
+* Encuesta de los datos a conseguir de las construccions: https://github.com/maptime/bogota/blob/master/src/doc/2016-05-07/Informacion-Construcciones.md
 
 ## Técnicas
 
