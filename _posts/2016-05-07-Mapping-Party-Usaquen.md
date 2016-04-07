@@ -79,7 +79,7 @@ A continuación, la descripción de los datos que vamos a recoger.
 * Fotos georeferenciadas
   * Fotos de celulares o cámaras con GPS
   * Mapillary http://www.mapillary.com/
-* Encuestas para negocios https://github.com/maptime/bogota/blob/master/src/doc/2016-05-07-Mapping-Party-Usaquen.md
+* Encuestas para negocios https://github.com/maptime/bogota/blob/master/src/doc/2016-05-07/Informacion-Restaurantes.md
 
 ## Técnicas
 
