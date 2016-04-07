@@ -63,6 +63,9 @@ A continuación, la descripción de los datos que vamos a recoger.
 * Andenes http://wiki.openstreetmap.org/wiki/Sidewalks
 * Peldaños http://wiki.openstreetmap.org/wiki/Tag:highway%3Dsteps
   * Cantidad
+* Semáforos https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtraffic_signals
+* Cruces peatonales https://wiki.openstreetmap.org/wiki/Tag:highway%3Dcrossing
+* Paraderos https://wiki.openstreetmap.org/wiki/Tag:highway%3Dbus_stop
 
 ## Fotos a tomar:
 
