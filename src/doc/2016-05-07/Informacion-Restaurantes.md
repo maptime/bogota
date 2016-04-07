@@ -35,6 +35,7 @@ Noodel, Pancakes, Pasta, Pizza, Regional, Sandwich, Hot dogs, Frutos del mar y P
 * Acceso a internet? Wifi, no, hay computador con internet, servicio cableado
 * Teléfono
 * Dirección del establecimiento
+* Nivel (si en edificio multinivel)
 * Página Web
 * Acceso para personas en silla de ruedas? si, limitado, no, 
 * Venden alimentos para llevar?
