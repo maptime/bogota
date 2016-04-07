@@ -22,4 +22,12 @@ https://wiki.openstreetmap.org/wiki/Key:roof:material
 * Altura https://wiki.openstreetmap.org/wiki/Key:height
 * Dirección https://wiki.openstreetmap.org/wiki/Key:addr
 * Cantidad de apartamentos https://wiki.openstreetmap.org/wiki/Key:addr:flats
-
+* Completa (full): Calle 118 # 6A - 01
+* Número (housenumber): La intersección y la distancia. En el ejemplo: 6A-01
+* Calle (street): La carrera X o calle X. En el ejemplo: Calle 118 
+* Código postal: 110111 http://visor.codigopostal.gov.co/472/visor/#
+* Barrio (suburb): Usaquén
+* Localidad (district): Usaquén 
+* Ciudad: Bogotá
+* Departamento (state): Distrito Capital
+* Pais: CO
