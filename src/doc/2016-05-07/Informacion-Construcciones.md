@@ -14,7 +14,7 @@ Antes de comenzar, es necesario explicar que el uso original para que se constru
   * es otro tipo de edificio
     * Hospedaje: hotel, granja, dormitorio/residencia estudiantil
     * Comercial: Industrial, Bodega
-    * Servicios: Catedral, capilla, iglesia, mesquita, templo, sinagoga, cívico (genérico), hospital, colegio, estadio, estación de tren, transporte, universidad, público,
+    * Servicios: Catedral, capilla, iglesia, mesquita, templo, sinagoga, cívico (genérico), hospital, colegio, estadio, estación de tren, transporte, universidad, público 
     * Otros
 * Uso de la construccion, si no es el mismo uso por el que se construyó originalmente
 https://wiki.openstreetmap.org/wiki/Key:building:use
@@ -38,3 +38,8 @@ https://wiki.openstreetmap.org/wiki/Key:roof:material
   * Ciudad: Bogotá
   * Departamento (state): Distrito Capital
   * Pais: CO
+
+Otras cosas que se pueden mapear
+
+* Aparte el servicio https://wiki.openstreetmap.org/wiki/Key:amenity
+* Barreras: muros/pared, murallas, rejas, pasamanos, zardineles https://wiki.openstreetmap.org/wiki/Key:barrier
