@@ -74,6 +74,7 @@ A continuación, la descripción de los datos que vamos a recoger.
 
 ## Herramientas para mapeo
 
+* División de trabajo http://mapcraft.nanodesu.ru/
 * FieldPapers
 * GPS de celulares
   * Android: OSM tracker https://play.google.com/store/apps/details?id=me.guillaumin.android.osmtracker&hl=en
