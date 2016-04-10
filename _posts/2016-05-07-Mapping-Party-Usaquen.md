@@ -35,6 +35,7 @@ Organizador: Andrés Gómez (+57 316 621 40 32, [@angoca](http://twitter.com/ang
 - [ ] Poner un imán para poder poner el cache en algo metálico 
 - [X] Crear un formato de encuesta para restaurantes y bares. Puede ser un doc en GitHub o en ONA
 - [ ] Imprimir las encuestas
+- [ ] Imprimir mini calcomanía de OSM para portátiles
 
 -----
 
