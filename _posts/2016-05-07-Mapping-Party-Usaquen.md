@@ -31,7 +31,7 @@ Organizador: Andrés Gómez (+57 316 621 40 32, [@angoca](http://twitter.com/ang
 - [ ] Conseguir rally o cemento plastico
 - [ ] Copiar el archivo readme en la memoria deaddrop
 - [ ] Conseguir teflon para proteger la USB
-- [ ] Conseguir un pequeño recipiente para geocaching
+- [X] Conseguir un pequeño recipiente para geocaching
 - [ ] Poner un imán para poder poner el cache en algo metálico 
 - [X] Crear un formato de encuesta para restaurantes y bares. Puede ser un doc en GitHub o en ONA
 - [ ] Imprimir las encuestas
