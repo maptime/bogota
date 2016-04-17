@@ -27,7 +27,7 @@ Organizador: Andrés Gómez (+57 316 621 40 32, [@angoca](http://twitter.com/ang
 - [ ] Pasar en bici tomando fotos para mapillary
 - [X] Preparar el atlas de field papers http://fieldpapers.org/atlases/3ic95t5l
 - [ ] Imprimir el atlas
-- [ ] Conseguir una USB pequeña para deaddrop
+- [X] Conseguir una USB pequeña para deaddrop
 - [ ] Conseguir rally o cemento plastico
 - [ ] Copiar el archivo readme en la memoria deaddrop
 - [ ] Conseguir teflon para proteger la USB
