@@ -29,7 +29,7 @@ Organizador: Andrés Gómez (+57 316 621 40 32, [@angoca](http://twitter.com/ang
 - [ ] Imprimir el atlas
 - [X] Conseguir una USB pequeña para deaddrop
 - [ ] Conseguir rally o cemento plastico
-- [ ] Copiar el archivo readme en la memoria deaddrop
+- [X] Copiar el archivo readme y manifesto en la memoria deaddrop
 - [ ] Conseguir teflon para proteger la USB
 - [X] Conseguir un pequeño recipiente para geocaching
 - [ ] Poner un imán para poder poner el cache en algo metálico 
