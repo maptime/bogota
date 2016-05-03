@@ -1634,7 +1634,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39233741"
-     inkscape:cx="936.74459"
+     inkscape:cx="530.20676"
      inkscape:cy="548.45866"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1653,7 +1653,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1675,7 +1675,7 @@
            y="443.01462"
            ry="0" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.99999237px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
-         id="flowPara4164">Estamos haciendo un mapa de tu zona hoy.</flowPara></flowRoot>    <flowRoot
+         id="flowPara4164">Hoy estamos haciendo un mapa de tu zona.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4156"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:13px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -1685,7 +1685,7 @@
            height="129.99016"
            x="1771.4344"
            y="817.05225" /></flowRegion><flowPara
-         id="flowPara4162"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4162" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4166"
        style="font-style:normal;font-weight:normal;font-size:13px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
