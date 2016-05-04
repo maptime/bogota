@@ -24,18 +24,21 @@ Organizador: Andrés Gómez (+57 316 621 40 32, [@angoca](http://twitter.com/ang
 - [X] Definir el punto de encuentro (Plaza de usaquen) a las 9
 - [X] Definir el punto de mapeo (Starbucks) a las 10:30
 - [X] Crear el espacio en github para las fotos y GPX recogidos
-- [ ] Pasar en bici tomando fotos para mapillary
+- [X] Pasar en bici tomando fotos para Mapillary
+- [ ] Subir las fotos a Mapillary
 - [X] Preparar el atlas de field papers http://fieldpapers.org/atlases/3ic95t5l
 - [ ] Imprimir el atlas
 - [X] Conseguir una USB pequeña para deaddrop
 - [ ] Conseguir rally o cemento plastico
 - [X] Copiar el archivo readme y manifesto en la memoria deaddrop
-- [ ] Conseguir teflon para proteger la USB
+- [X] Conseguir teflon para proteger la USB
 - [X] Conseguir un pequeño recipiente para geocaching
-- [ ] Poner un imán para poder poner el cache en algo metálico 
+- [X] Poner un imán para poder poner el cache en algo metálico - No necesario, se va poner sin iman.
 - [X] Crear un formato de encuesta para restaurantes y bares. Puede ser un doc en GitHub o en ONA
 - [ ] Imprimir las encuestas
 - [ ] Imprimir mini calcomanía de OSM para portátiles
+- [ ] Bajar la zona de OSM para tenerla local en caso de falta de Internet
+- [ ] Poner fotos, y demás archivos en el PirateBox
 
 -----
 
