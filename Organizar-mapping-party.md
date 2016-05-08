@@ -23,7 +23,14 @@ El evento puede durar mucho más, y se puede alargar pero es bueno definir un cu
 * Post en blog.openstreetmap.co. Crear un post para este blog donde haga referencia al evento en MeetUp y Maptime/Bogota.
 * Crear atlas en Field Paper de la zona.
   * Imprimir el atlas (múltiples)
-* 
+* Crear directorios en la cuenta de GitHub de Maptime/Bogota con la fecha y lugar del mapping party https://github.com/maptime/bogota/tree/master/src
+  * Img
+  * gpx
+  * osm
+  * doc
+* Bajar la zona de OSM a trabajar para tenerla offline.
+Práctico en caso que no haya Intener o problemas con OSM
+  * Guardar esto en el directorio OSM 
 
 Preparar el terreno:
 
@@ -44,6 +51,8 @@ Evento
 
 * Llevar una multitoma
 * Llevar USB para compartir archivos
+* Subir fotos a GitHub
+* Subir gpx a GitHub
 
 
 Post evento
