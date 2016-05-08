@@ -21,6 +21,7 @@ El evento puede durar mucho más, y se puede alargar pero es bueno definir un cu
 * Tag. Definir un tag para todos los commits, trazas, fotos, etc. que se recojan.
   * Imprimir una hoja con el tag, para que todos los asistentes al mapeo lo usen y asocien todas las actividades.
 * Post en blog.openstreetmap.co. Crear un post para este blog donde haga referencia al evento en MeetUp y Maptime/Bogota.
+  * Se puede tomar una imagen del estado actual de la zona a mapear (oscurecer un poco) para ver la evolución.
 * Crear atlas en Field Paper de la zona.
   * Imprimir el atlas (múltiples)
 * Crear directorios en la cuenta de GitHub de Maptime/Bogota con la fecha y lugar del mapping party https://github.com/maptime/bogota/tree/master/src
@@ -31,6 +32,8 @@ El evento puede durar mucho más, y se puede alargar pero es bueno definir un cu
 * Bajar la zona de OSM a trabajar para tenerla offline.
 Práctico en caso que no haya Intener o problemas con OSM
   * Guardar esto en el directorio OSM 
+* Encuestas. Preparar un documento sobre la información a recoger.
+Esta información debe estar asociada a tags en OSM, por lo que poner los tags ahí puede beneficiar.
 
 Preparar el terreno:
 
@@ -53,7 +56,6 @@ Evento
 * Llevar USB para compartir archivos
 * Subir fotos a GitHub
 * Subir gpx a GitHub
-
 
 Post evento
 
