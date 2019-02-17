@@ -5,8 +5,6 @@ title: Mapping party fotográfico en bicicleta o a pie en El Polo - Mapillary
 rsvp: https://www.meetup.com/Maptime-Colombia-OSM/events/258861129/
 ---
 
-TODO
-
 En este mapping party buscamos congregar a los ciclistas para que tomen fotografías de una zona específica, para que posteriormente las suban a la plataforma Mapillary, donde se podrán ver las fotos georeferenciadas.
 
 El encuentro es a la 1 pm frente al parqueadero de Carulla de El Polo, al lado del CAI, y tendrá una duración de 2 horas.
@@ -16,7 +14,7 @@ Ahí nos podrás encontrar fácilmente. Igualmente, tendremos un botón con el l
 En este evento nos estará acompañando Elliot Eggleston (https://twitter.com/ejegg, https://twitter.com/ejegg, https://github.com/ejegg) quien es un gran tomador de fotografías alrededor del mundo.
 
 Organizador: Andrés Gómez (+57 316 621 40 32, Twitter: [@angoca](http://twitter.com/angoca),
-WhatsApp [Grupo](https://chat.whatsapp.com/Is8kErwoFDg0SwtyWcjD0o)).
+WhatsApp [Grupo](https://chat.whatsapp.com/Gyf2l21dRsgD7l6083THUb)).
 
 -----
 
@@ -28,8 +26,8 @@ WhatsApp [Grupo](https://chat.whatsapp.com/Is8kErwoFDg0SwtyWcjD0o)).
 - [X] Crear entrada en el semanario de OSM.
 - [X] Tuitear el evento en la cuenta de Maptime Bogotá.
 - [ ] Mapear algunas construcciones de la zona.
-- [ ] Preparar el atlas de field papers
-- [ ] Imprimir el atlas
+- [ ] Preparar el atlas de field papers.
+- [ ] Imprimir el atlas.
 
 -----
 
