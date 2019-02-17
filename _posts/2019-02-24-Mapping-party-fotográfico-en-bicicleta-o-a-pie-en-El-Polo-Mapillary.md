@@ -25,6 +25,7 @@ WhatsApp [Grupo](https://chat.whatsapp.com/Gyf2l21dRsgD7l6083THUb)).
 - [X] Crear artículo en cuenta de Githup Maptime Bogotá.
 - [X] Crear entrada en el semanario de OSM.
 - [X] Tuitear el evento en la cuenta de Maptime Bogotá.
+- [ ] Hacer carta a la Policía solicitando acompañamiento.
 - [ ] Mapear algunas construcciones de la zona.
 - [ ] Preparar el atlas de field papers.
 - [ ] Imprimir el atlas.
