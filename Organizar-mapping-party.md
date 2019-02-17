@@ -11,8 +11,9 @@ Igualmente, hay que tener en cuenta el lugar donde se haga el mapeo digital.
   * La hora de salida, para dar un tiempo tentativo de la duración del evento.
 El evento puede durar mucho más, y se puede alargar pero es bueno definir un cuánto va a durar cada cosa.
   * Secciones.
-    * Recolección de datos. Por medio de GPS, field papers, fotos, etc.
-    * Mapeo digital. Recolectar los datos, publicarlos y mapeo digital.
+    * Captura de datos. Por medio de GPS, field papers, fotos, etc.
+    * Publicación de datos. Subirlos las trazas GPX a OSM, subir las fotos a Mapillary u OpenStreetCam, compartir los datos recolectados entre todos.
+    * Mapeo digital. Acceder a los datos y mapeo digital, incluyendo otras fuentes como fotos satelitales, y fotos o trazas ya publicadas.
 * MeetUp. Crear el evento en esta plataforma. Se puede basar en los eventos ya creados.
 * Maptime/Bogota. Crear un post en el blog de maptime bogota.
   * https://github.com/maptime/bogota/tree/gh-pages/_posts
@@ -34,6 +35,20 @@ Práctico en caso que no haya Intener o problemas con OSM
   * Guardar esto en el directorio OSM 
 * Encuestas. Preparar un documento sobre la información a recoger.
 Esta información debe estar asociada a tags en OSM, por lo que poner los tags ahí puede beneficiar.
+
+Tipos de mapping parties:
+
+* Mapeo inicial calcando fotos satelitales.
+  * Permite tener una estructura básica de la zonas: Las calles, los parques, los edificios.
+* Recolección de datos inicial.
+  * Mapillary.
+  * Trazas GPX rápidas.
+  * Subida de estos datos.
+* Recolección detallada de datos.
+  * Por medio de field papers (ya con los datos de las fotos satelitales).
+  * Por medio de celulares (OSM tracker).
+* Mapeo detallado.
+  * Gracias a los datos detallados de terreno, se mapea en computador directamente en OSM.
 
 Preparar el terreno:
 
