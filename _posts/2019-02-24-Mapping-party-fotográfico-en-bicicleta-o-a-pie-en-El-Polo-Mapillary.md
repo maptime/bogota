@@ -51,9 +51,6 @@ WhatsApp [Grupo](https://chat.whatsapp.com/Gyf2l21dRsgD7l6083THUb)).
 
 Las siguientes imágenes muestra el estado previo al mapping party.
 
-![img/favicon.png](img/favicon.png)
-![/img/favicon.png](/img/favicon.png)
-![../img/favicon.png](../img/favicon.png)
-![../../img/favicon.png](../../img/favicon.png)
-![../../../img/favicon.png](../../../img/favicon.png)
-![../../../../img/favicon.png](../../../../img/favicon.png)
+![Estado OSM](/img/2019-02-17-ElPolo-OSM.png)
+![Estado Mapillary](/img/2019-02-17-ElPolo-Mapillary.png)
+
