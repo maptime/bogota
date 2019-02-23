@@ -54,3 +54,5 @@ Las siguientes imágenes muestra el estado previo al mapping party.
 ![Estado OSM](/img/2019-02-17-ElPolo-OSM.png)
 ![Estado Mapillary](/img/2019-02-17-ElPolo-Mapillary.png)
 
+![/img/2019-02-17-ElPolo-OSM.png](/img/2019-02-17-ElPolo-OSM.png)
+
