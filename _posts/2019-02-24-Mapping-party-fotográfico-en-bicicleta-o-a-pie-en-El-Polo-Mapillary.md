@@ -54,11 +54,3 @@ Las siguientes imágenes muestra el estado previo al mapping party.
 ![Estado OSM](/bogota/img/2019-02-17-ElPolo-OSM.png)
 ![Estado Mapillary](/bogota/img/2019-02-17-ElPolo-Mapillary.png)
 
-![/bogota](bogota/img/favicon.png)
-
-![sub](img/favicon.png)
-![Root](/img/favicon.png)
-![1 up](../img/favicon.png)
-![2 up](../../img/favicon.png)
-![3 up](../../../img/favicon.png)
-![4 up](../../../../img/favicon.png)
