@@ -51,10 +51,10 @@ WhatsApp [Grupo](https://chat.whatsapp.com/Gyf2l21dRsgD7l6083THUb)).
 
 Las siguientes imágenes muestra el estado previo al mapping party.
 
-![Estado OSM](bogota/img/2019-02-17-ElPolo-OSM.png)
-![Estado Mapillary](bogota/img/2019-02-17-ElPolo-Mapillary.png)
+![Estado OSM](/bogota/img/2019-02-17-ElPolo-OSM.png)
+![Estado Mapillary](/bogota/img/2019-02-17-ElPolo-Mapillary.png)
 
-![bogota](bogota/img/favicon.png)
+![/bogota](bogota/img/favicon.png)
 
 ![sub](img/favicon.png)
 ![Root](/img/favicon.png)
