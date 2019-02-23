@@ -46,3 +46,9 @@ WhatsApp [Grupo](https://chat.whatsapp.com/Gyf2l21dRsgD7l6083THUb)).
 ## Técnicas
 
 * Cuando inicien una captura, mover el celular en las tres direcciones (adelante-atrás, izquierda-derecha, rotación en ambos sentidos). Esto mejorará la precisión para iniciar la captura.
+
+## Estado previo de la zona
+
+Las siguientes imágenes muestra el estado previo al mapping party.
+
+![img/favicon.png](img/favicon.png)
