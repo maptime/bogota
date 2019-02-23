@@ -52,3 +52,8 @@ WhatsApp [Grupo](https://chat.whatsapp.com/Gyf2l21dRsgD7l6083THUb)).
 Las siguientes imágenes muestra el estado previo al mapping party.
 
 ![img/favicon.png](img/favicon.png)
+![/img/favicon.png](/img/favicon.png)
+![../img/favicon.png](../img/favicon.png)
+![../../img/favicon.png](../../img/favicon.png)
+![../../../img/favicon.png](../../../img/favicon.png)
+![../../../../img/favicon.png](../../../../img/favicon.png)
