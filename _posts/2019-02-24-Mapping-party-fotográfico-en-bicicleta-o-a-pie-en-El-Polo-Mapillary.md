@@ -26,9 +26,9 @@ WhatsApp [Grupo](https://chat.whatsapp.com/Gyf2l21dRsgD7l6083THUb)).
 - [X] Crear entrada en el semanario de OSM.
 - [X] Tuitear el evento en la cuenta de Maptime Bogotá.
 - [X] Hacer carta a la Policía solicitando acompañamiento.
-- [ ] Mapear algunas construcciones de la zona.
-- [ ] Preparar el atlas de field papers.
-- [ ] Imprimir el atlas.
+- [X] Mapear algunas construcciones de la zona.
+- [X] Preparar el atlas de field papers.
+- [X] Imprimir el atlas.
 
 -----
 
@@ -54,3 +54,6 @@ Las siguientes imágenes muestra el estado previo al mapping party.
 ![Estado OSM](/bogota/img/2019-02-17-ElPolo-OSM.png)
 ![Estado Mapillary](/bogota/img/2019-02-17-ElPolo-Mapillary.png)
 
+## Atlas de field papers
+
+Este es el atlas con algunas modificaciones que se hicieron: http://fieldpapers.org/atlases/1vk9a7qd
