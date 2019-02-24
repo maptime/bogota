@@ -56,4 +56,4 @@ Las siguientes imágenes muestra el estado previo al mapping party.
 
 ## Atlas de field papers
 
-Este es el atlas con algunas modificaciones que se hicieron: http://fieldpapers.org/atlases/1vk9a7qd
+Este es el atlas con algunas modificaciones que se hicieron: [http://fieldpapers.org/atlases/1vk9a7qd](http://fieldpapers.org/atlases/1vk9a7qd)
