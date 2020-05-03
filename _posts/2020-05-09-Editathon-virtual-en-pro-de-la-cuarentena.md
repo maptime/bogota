@@ -25,13 +25,14 @@ WhatsApp [Grupo](https://chat.whatsapp.com/IzhSE1zf4czGIPOSSM6Xk5)).
 - [X] Definir el punto de encuentro y la hora.
 - [X] Crear evento en MeetUp.
 - [X] Crear artículo en cuenta de Githup Maptime Bogotá.
-- [X] Crear un evento en Zoom y pegar el link aquí.
-- [ ] Crear un evento en Skype y pegar el link aquí.
-- [ ] Crear entrada en el semanario de OSM.
-- [ ] Tuitear el evento en la cuenta de Maptime Bogotá.
-- [ ] Compartir el evento por el grupo de Whatsapp de Maptime-Bogota.
-- [ ] Convocar a las personas por el grupo de OSM-co en Telegram.
-- [ ] Convocar a las personas por el grupo de OSM-co en Facebook.
+- [X] Crear un evento en Zoom y pegar el link Meetup.
+- [X] Crear un evento en Skype y pegar el link Meetup.
+- [X] Crear entrada en el semanario de OSM.
+- [X] Tuitear el evento en la cuenta de Maptime Bogotá.
+- [X] Compartir el evento por el grupo de Whatsapp de Maptime-Bogota.
+- [X] Convocar a las personas por el grupo de OSM-co en Telegram.
+- [X] Convocar a las personas por el grupo de OSM-co en Facebook.
+- [ ] Convocar a las personas por la lista de correo de OSM-co.
 
 -----
 
