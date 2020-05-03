@@ -32,7 +32,7 @@ WhatsApp [Grupo](https://chat.whatsapp.com/IzhSE1zf4czGIPOSSM6Xk5)).
 - [X] Compartir el evento por el grupo de Whatsapp de Maptime-Bogota.
 - [X] Convocar a las personas por el grupo de OSM-co en Telegram.
 - [X] Convocar a las personas por el grupo de OSM-co en Facebook.
-- [ ] Convocar a las personas por la lista de correo de OSM-co.
+- [X] Convocar a las personas por la lista de correo de OSM-co.
 
 -----
 
