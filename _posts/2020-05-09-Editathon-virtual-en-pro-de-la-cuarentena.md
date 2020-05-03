@@ -13,6 +13,8 @@ Para poder participar sin problemas, necesitas:
 * Una cuenta en OpenStreetMap.
 * Los imanes de servicios de domicilios que están en tu nevera.
 
+Toda la información para acceder al evento está centralizada en Meetup, el botón amarillo a la izquierda en el recuadro morado.
+
 Organizador: Andrés Gómez (+57 316 621 40 32, Twitter: [@angoca](http://twitter.com/angoca),
 WhatsApp [Grupo](https://chat.whatsapp.com/IzhSE1zf4czGIPOSSM6Xk5)).
 
