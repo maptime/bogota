@@ -26,6 +26,7 @@ WhatsApp [Grupo](https://chat.whatsapp.com/IzhSE1zf4czGIPOSSM6Xk5)).
 - [X] Crear evento en MeetUp.
 - [X] Crear artículo en cuenta de Githup Maptime Bogotá.
 - [X] Crear un evento en Zoom y pegar el link Meetup.
+- [X] Crear un evento en Zoom y pegar el link Meetup.
 - [X] Crear un evento en Skype y pegar el link Meetup.
 - [X] Crear entrada en el semanario de OSM.
 - [X] Tuitear el evento en la cuenta de Maptime Bogotá.
@@ -36,3 +37,25 @@ WhatsApp [Grupo](https://chat.whatsapp.com/IzhSE1zf4czGIPOSSM6Xk5)).
 
 -----
 
+## Técnicas de mapeo.
+
+En este sesión vamos a usar las siguientes etiquetas, las cuales fueron creadas para la pandemia del Covid-19.
+
+- Horario: opening_hours:covid19=off/open/restricted/same/*
+  - https://wiki.openstreetmap.org/wiki/Key:opening_hours
+- Domicilio: delivery:covid19=yes/only/no
+  - https://wiki.openstreetmap.org/wiki/Key:delivery
+- Para llevar: takeaway:covid19=yes/only/no
+  - https://wiki.openstreetmap.org/wiki/Key:takeaway
+- Drive through: drive_through:covid19=yes/only/no
+  - https://wiki.openstreetmap.org/wiki/Key:drive_through
+- Capacidad: capacity:covid19=*
+  - https://wiki.openstreetmap.org/wiki/Key:capacity
+- Acceso: access:covid19=no
+  - https://wiki.openstreetmap.org/wiki/Key:access
+- Descripcion: description:covid19=*
+  - https://wiki.openstreetmap.org/wiki/Key:description
+- Notas cartograficas: note:covid19=*
+  - https://wiki.openstreetmap.org/wiki/Key:note
+ 
+La actividad está orientada a llenar información del estilo CaResteOuvert: https://wiki.openstreetmap.org/wiki/Covid-19_-_how_to_map
