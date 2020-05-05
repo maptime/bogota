@@ -25,7 +25,7 @@ WhatsApp [Grupo](https://chat.whatsapp.com/IzhSE1zf4czGIPOSSM6Xk5)).
 - [X] Definir el punto de encuentro y la hora.
 - [X] Crear evento en MeetUp.
 - [X] Crear artículo en cuenta de Githup Maptime Bogotá.
-- [X] Crear un evento en Zoom y pegar el link Meetup.
+- [X] Crear un evento en Webex y pegar el link Meetup.
 - [X] Crear un evento en Zoom y pegar el link Meetup.
 - [X] Crear un evento en Skype y pegar el link Meetup.
 - [X] Crear entrada en el semanario de OSM.
