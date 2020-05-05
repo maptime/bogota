@@ -71,7 +71,7 @@ Como muchos lugares aún no están mapeados, se usarán las siguientes etiquetas
   - City
   - Country
 - Telefono: https://wiki.openstreetmap.org/wiki/Key:phone
-  - +<country code> <area code> <local number>
+  - +\<country code> \<area code> \<local number>
   - +57 1 XXXXXX
   - +57 3YY XXXXXXX
 - Operador: https://wiki.openstreetmap.org/wiki/Key:operator
