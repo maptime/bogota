@@ -59,3 +59,19 @@ En este sesión vamos a usar las siguientes etiquetas, las cuales fueron creadas
   - https://wiki.openstreetmap.org/wiki/Key:note
  
 La actividad está orientada a llenar información del estilo CaResteOuvert: https://wiki.openstreetmap.org/wiki/Covid-19_-_how_to_map
+
+Como muchos lugares aún no están mapeados, se usarán las siguientes etiquetas:
+
+- Tienda: https://wiki.openstreetmap.org/wiki/Key:shop
+- Nombre: https://wiki.openstreetmap.org/wiki/Key:name
+- Dirección: https://wiki.openstreetmap.org/wiki/Key:addr
+  - Street
+  - Housenumber
+  - Postcode - http://visor.codigopostal.gov.co/472/visor/
+  - City
+  - Country
+- Telefono: https://wiki.openstreetmap.org/wiki/Key:phone
+  - +<country code> <area code> <local number>
+  - +57 1 XXXXXX
+  - +57 3YY XXXXXXX
+- Operador: https://wiki.openstreetmap.org/wiki/Key:operator
