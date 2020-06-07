@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Editathon virtual en pro de la cuarenta
+title: Límites de Bogotá
 author: Andres Gomez
 ---
-
-## Límites de Bogotá
 
 Esta vez nos hemos encofacdo en los límites de Bogotá, específicamente los del distrito capital, los cuales colindan con otros departamentos.
 El objetivo de esta tarea ha sido ajustar el borde de los límites actuales a los que realmente son.
