@@ -98,4 +98,4 @@ Los límites de Bogotá son los siguientes. Comenzando desde la autopista norte 
 * Llega al rio Bogotá.
 * Antes del aeropuerto, entra a este, dejando unos cuerpos de agua a un costado.
 * Justo después del aeropuerto vuelve al rio Bogotá.
-* Finalmente, llega al canal Guaymaral, para cerrar el polígono con un cuerpo de agua que llega a la autopista (Canal Guaymaral Brazo Norte.
+* Finalmente, llega al canal Guaymaral, para cerrar el polígono con un cuerpo de agua que llega a la autopista (Canal Guaymaral Brazo Norte.)
