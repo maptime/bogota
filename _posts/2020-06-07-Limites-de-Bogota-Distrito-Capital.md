@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Límites de Bogotá
+title: Límites de Bogotá Distrito Capital
 author: Andres Gomez
 ---
 
-Esta vez nos hemos encofacdo en los límites de Bogotá, específicamente los del distrito capital, los cuales colindan con otros departamentos.
+Esta vez nos hemos encofado en los límites de Bogotá, específicamente los del distrito capital, los cuales colindan con otros departamentos (Nivel admnistrativo 6).
 El objetivo de esta tarea ha sido ajustar el borde de los límites actuales a los que realmente son.
 Para esto, nos apoyamos en los datos del IDECA, con las capas "Sector catastral" y "Localidad" para entender mejor los límites.
-Por el lado de Sumapaz, debido ha ser un páramo, ningún límite es exacto, por lo que los ajustamos a la geografía del lugar.
+Igualmente, la capa de cuerpos de agua es muy útil, ya que muchos límites son rios o quebradas.
+Por el lado de Sumapaz, debido a que es un páramo, ningún límite es exacto, por lo que los ajustamos a la geografía del lugar.
 
 Además, se dejaron los límites de Bogotá independientes de otras características / features de OSM.
-Por ejemplo, ya se comparte el rio Bogotá, lo cual es inválido para un key de tipo Boundary.
+Por ejemplo, ya no se comparte el borde con el rio Bogotá, lo cual es inválido para un key de tipo Boundary.
 
 Aquí les comparto el mapa de la relación de todos los bordes de Bogotá:
 
