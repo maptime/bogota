@@ -35,7 +35,7 @@ Para extraer la relación desde OverPasss Turbo: http://overpass-turbo.eu/s/UR8,
 
 Los límites de Bogotá son los siguientes. Comenzando desde la autopista norte en el sentido de la manecillas del reloj:
 
-* Quebrada no determinada en OSM.
+* Quebrada no determinada en OSM. (Quebrada Torca)
 * Después son unas calles no pavimentadas sin nombre, pero muestran el delineamiento.
 * Pasa por la mitad del IED La Aurora - Aurora Alta.
 * Siguen calles sin nombre, las que están antes de una cantera. Más o menos el límite está entre líneas eléctricas.
@@ -48,9 +48,9 @@ Los límites de Bogotá son los siguientes. Comenzando desde la autopista norte 
 * Llega a alto de Patios.
 * Ahí sigue en algunas calles del barrio San Luis, zona alta.
 * Prosigue por un borde en la montaña.
-* Comparte un tramo de la quebrada de Santos.
+* Comparte un tramo de la quebrada de Santos. (Quebrada Carrizal)
 * Y sigue a lo largo del río Teusacá.
-* Después se separa para seguir un tramo de la quebrada Turín.
+* Después se separa para seguir un tramo de la quebrada Turín. 
 * Posteriormente cambia a bordear la calle San Isidro.
 * Se vuelve a separar, para seguir una zona boscosa.
 * Llega a compartir tramos del Camino Real, siendo una parte el camino entre Bogotá y Choachí.
@@ -66,7 +66,7 @@ Los límites de Bogotá son los siguientes. Comenzando desde la autopista norte 
 * Prosigue en una calle.
 * Pasa a ser el borde de un bosque.
 * Comienza a saltar en varios acantilados, que son el borde de una montaña. Entre esos están Cerros de Bocagrande, El Pico de Aguila y Pico Buenavista.
-* Sigue paralelo al rio Tabaco y después con el rio Pontezuela, para pasar al lado del río Pozo y llegar al rio Los Medios (Blanco). Posteriormente remontar por una quebrada, pero no tiene nombre y llega al páramo de Sumapaz.
+* Sigue paralelo al rio Tabaco y después con el rio Pontezuela, para pasar al lado del río Pozo y llegar al rio Los Medios (Blanco). Posteriormente remontar por una quebrada, pero no tiene nombre (Quebrada Chibenchi) y llega al páramo de Sumapaz.
 * Aquí bordea acantilados y las cimas de unas montañas.
 * Llega a la quebrada Santa Rosa, y se bifurca en la quebrada Gallo, pasando al lado de la hoya el Cementario.
 * Vuelve a bordear montañas y llega al alto de Torquita para pasar a la cuchilla de Los Frailes.
@@ -74,13 +74,13 @@ Los límites de Bogotá son los siguientes. Comenzando desde la autopista norte 
 * Llega a la parte más sur de Bogotá y vuelve hacia el norte por el occidente.
 * Pasa al lado del batallón de alta montaña número 1.
 * Pasa entre las corregimientos La Playa y La Unión.
-* Toma el rio San Juan para tomar el rio Sumapaz, pasando al lado de la vereda Las Vegas y la cuchilla del Pilar.
-* Toma hacia el oriente entre montañas.
-* Cruza el pantano de Andabobos, para ir paralelo a la vía Usme - San Juan de Sumapaz, llegando a la cuchilla los encerrillos.
-* Zigzaguea entre acantilados y lagunas para llegar al alto de Pasca. Y sigue de esta forma en zonas rurales.
+* Toma el rio Sumapaz, pasando al lado de la vereda Las Vegas y la cuchilla del Pilar.
+* Toma hacia el oriente entre montañas, por la quebrada San Antonio.
+* Cruza el pantano de Andabobos (Quebrada Anabobos), para ir paralelo a la vía Usme - San Juan de Sumapaz, llegando a la cuchilla los encerrillos.
+* Zigzaguea entre acantilados y lagunas para llegar al alto de Pasca. Y sigue de esta forma en zonas rurales, por el Rio Pilar
 * Sigue pararelo a la quebrada Cucharita.
 * Bordea Soacha, la calle 56A.
-* Toma la quebrada La Muralla.
+* Toma la quebrada La Muralla. (Quebrada Zanjón de la Muralla)
 * Entra por la carrera 75C.
 * Cambia a la carrera 75G para seguir por la diagonal 75F sur.
 * Toma la calle 68B sur.
@@ -91,14 +91,10 @@ Los límites de Bogotá son los siguientes. Comenzando desde la autopista norte 
 * Sigue por la mitad de la cuadra entre la carrera 77H y carrera 13.
 * Prosigue en la carrera 77G - carrera 24.
 * Termina en la alameda el Porvenir.
-* Toma la quebrada Tibanica Río Claro.
+* Toma la quebrada Tibanica - Canal Río Claro.
 * Sigue por la carrera 77G.
 * Sigue por el rio Tunjuelo.
 * Llega al rio Bogotá.
 * Antes del aeropuerto, entra a este, dejando unos cuerpos de agua a un costado.
 * Justo después del aeropuerto vuelve al rio Bogotá.
-* Finalmente, llega al canal Guaymaral, para cerrar el polígono con un cuerpo de agua que llega a la autopista.
-
-
-
-
+* Finalmente, llega al canal Guaymaral, para cerrar el polígono con un cuerpo de agua que llega a la autopista (Canal Guaymaral Brazo Norte.
