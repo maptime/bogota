@@ -89,8 +89,8 @@ Estas son las localidades con su relación respectiva:
   * Relación en OSM [https://www.openstreetmap.org/relation/2216655](https://www.openstreetmap.org/relation/2216655).
 * La Candelaria
   * Referencia: 17
-  * Id de la relación: 166430030
-  * Relación en OSM [https://www.openstreetmap.org/relation/166430030](https://www.openstreetmap.org/relation/166430030).
+  * Id de la relación: 2218276
+  * Relación en OSM [https://www.openstreetmap.org/relation/2218276](https://www.openstreetmap.org/relation/2218276).
 * Rafael Uribe Uribe
   * Referencia: 18
   * Id de la relación: 4740230
