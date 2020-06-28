@@ -103,3 +103,5 @@ Estas son las localidades con su relación respectiva:
   * Referencia: 20
   * Id de la relación: 5579632
   * Relación en OSM [https://www.openstreetmap.org/relation/5579632](https://www.openstreetmap.org/relation/5579632).
+
+Además se creó una relación padre que contiene todas las localidades de Bogotá, el id es 11249528: https://www.openstreetmap.org/relation/11249528
