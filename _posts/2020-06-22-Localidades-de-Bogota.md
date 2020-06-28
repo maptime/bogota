@@ -7,7 +7,7 @@ author: Andres Gomez
 La ciudad de Bogotá está dividida en 20 localidades, las cuales están mapeadas con la etiqueta admin_level y un valor de 8.
 Este es el mapa de Bogotá con todas sus localidades:
 
-![Localidades Bogotá](/bogota/img/2020-06-22-localidades.png) ![Localidades Bogotá](/bogota/img/2020-06-22-localidades-zoom.png)
+![Localidades Bogotá](/bogota/img/2020-06-22-localidades.png)
 
 Para extraer las relaciones desde OverPasss Turbo: [http://overpass-turbo.eu/s/Vpu](http://overpass-turbo.eu/s/Vpu), la cual ejecuta el siguiente query:
 
