@@ -13,4 +13,6 @@ Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs 
 
 * Usaquén: 11249973
 * Chapinero: 11249984
-* Santa Fe:
+* Santa Fe: 11251223
+
+* La Candelaria:
