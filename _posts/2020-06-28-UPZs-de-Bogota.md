@@ -16,6 +16,8 @@ Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs 
 * Santa Fe: 11251223
 * San Cristobal: 11257168
 * Usme: 11257374
-* Ciudad Bolivar: 11296847
 
 * La Candelaria:
+
+* Ciudad Bolivar: 11296847
+* Sumapaz: No hay UPZs.
