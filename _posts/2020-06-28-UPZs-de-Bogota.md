@@ -48,7 +48,12 @@ Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs 
   * 60 - UPZ Parque Entrenubes: 11260096
   * 61 - UPZ Ciudad Usme: 11260115
 * 6 - UPZs localidad de Tunjuelito: 
-* 7 - UPZs localidad de Bosa: 
+* 7 - UPZs localidad de Bosa: 11341698
+  * 49 - UPZ Apogeo: 11341751
+  * 84 - UPZ Bosa Occidental: 11291507
+  * 85 - UPZ Bosa Central: 11291503
+  * 86 - UPZ El Porvenir: 11343959
+  * 87 - UPZ Tintal Sur: 11291510
 * 8 - UPZs localidad de Kennedy: 
 * 9 - UPZs localidad de Fontibón: 
 * 10 - UPZs localidad de Engativá: 
