@@ -47,7 +47,9 @@ Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs 
   * 59 - UPZ Alfonso López: 11266934
   * 60 - UPZ Parque Entrenubes: 11260096
   * 61 - UPZ Ciudad Usme: 11260115
-* 6 - UPZs localidad de Tunjuelito: 
+* 6 - UPZs localidad de Tunjuelito: 11509186
+  * 42 - UPZ Venecia: 11509185
+  * 62 - UPZ Tunjuelito: 11509187
 * 7 - UPZs localidad de Bosa: 11341698
   * 49 - UPZ Apogeo: 11341751
   * 84 - UPZ Bosa Occidental: 11291507
