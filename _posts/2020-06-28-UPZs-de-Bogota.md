@@ -9,6 +9,8 @@ En OpenStreetMap no teníamos este detalle, y lo hemos venido incorporando.
 
 Para esto, creamos una relación "abuelo" que tiene las UPZs de cada localidad. Esta tiene el ID: 11250532 (UPZs de Bogotá).
 
+![Localidades Bogotá](/bogota/img/2020-08-26-UPZs-Bogota.png)
+
 Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs de una localidad dada. Aquí están sus IDs:
 
 * 1 - UPZs localidad de Usaquén : 11249973
