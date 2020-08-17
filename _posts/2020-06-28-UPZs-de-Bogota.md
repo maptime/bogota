@@ -113,12 +113,27 @@ Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs 
   * 106 - UPZ La Esmeralda: 11502494
   * 107 - UPZ Quita Paredes: 11502517
   * 109 - UPZ Ciudad Salitre Oriental: 11502523
-* 14 - UPZs localidad de Los Mártires: 
-* 15 - UPZs localidad de Antonio Nariño: 
-* 16 - UPZs localidad de Puente Aranda:  
+* 14 - UPZs localidad de Los Mártires: 11502562
+  * 37 - UPZ Santa Isabel: 11502560
+  * 102 - UPZ La Sabana: 11502561
+* 15 - UPZs localidad de Antonio Nariño: 11509169
+  * 35 - UPZ Ciudad Jardín: 11509168
+  * 38 - UPZ Restrepo: 11509172
+* 16 - UPZs localidad de Puente Aranda: 11502544
+  * 40 - UPZ Ciudad Montes: 11502550
+  * 42 - UPZ Muzú: 11502551
+  * 43 - UPZ San Rafael: 11502549
+  * 108 - UPZ Zona Industrial: 11502545
+  * 111 - UPZ Puente Aranda: 11502543
 * 17 - UPZs localidad de La Candelaria: 11251324
   * 17 - UPZ La Candelaria: 11251322
-* 18 - UPZs localidad de Rafael Uribe Uribe:  
+* 18 - UPZs localidad de Rafael Uribe Uribe: 
+  * 36 - UPZ San José: 11512066
+  * 39 - UPZ Quiroga: 11512055
+  * 53 - UPZ Marco Fidel Suárez: 11512074
+  * 54 - UPZ Marruecos: 11512102
+  * 55 - UPZ Diana Turbay: 11512112
+  * 60 - UPZ Parque Entre Nubes: 11512108
 * 19 - UPZs localidad de Ciudad Bolivar: 11296847
   * 63 - UPZ El Mochuelo: 11296845
   * 64 - UPZ Monteblanco: 11296846
