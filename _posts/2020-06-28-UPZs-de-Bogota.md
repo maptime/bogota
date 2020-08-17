@@ -56,12 +56,63 @@ Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs 
   * 85 - UPZ Bosa Central: 11291503
   * 86 - UPZ El Porvenir: 11343959
   * 87 - UPZ Tintal Sur: 11291510
-* 8 - UPZs localidad de Kennedy: 
-* 9 - UPZs localidad de Fontibón: 
-* 10 - UPZs localidad de Engativá: 
-* 11 - UPZs localidad de Suba: 
-* 12 - UPZs localidad de Barrios Unidos: 
-* 13 - UPZs localidad de Teusaquillo: 
+* 8 - UPZs localidad de Kennedy: 11348624
+  * 44 - UPZ Américas: 11360195
+  * 45 - UPZ Carvajal: 11360157
+  * 46 - UPZ Castilla: 11360111
+  * 47 - UPZ Kennedy Central: 11356700
+  * 48 - UPZ Timiza: 11350698
+  * 78 - UPZ Tintal Norte: 11360088
+  * 79 - UPZ Calandamia: 11350645
+  * 80 - UPZ Corabastos: 11356700
+  * 81 - UPZ Gran Britalia: 11348648
+  * 82 - UPZ Patio Bonito: 11350362
+  * 83 - UPZ Margaritas: 11348623
+  * 113 - UPZ Bavaria: 11360214
+* 9 - UPZs localidad de Fontibón: 11364539
+  * 75 - UPZ Fontibón: 11364569
+  * 76 - UPZ Fotibón San Pablo: 11364566
+  * 77 - UPZ Zona Franca: 11364538
+  * 110 - UPZ Ciudad Salitre Occidental: 11375470
+  * 112 - UPZ Granjas de Techo: 11375462
+  * 114 - UPZ Modelia: 11375467
+  * 115 - UPZ Capellanía: 11375469
+  * 117 - UPZ Aeropuerto El Dorado: 11372764
+* 10 - UPZs localidad de Engativá: 11375621
+  * 26 - UPZ Las Ferias: 11382362
+  * 29 - UPZ El Minuto de Dios: 11382360
+  * 30 - UPZ Boyacá Real: 11382359
+  * 31 - UPZ Santa Cecilia: 11379134
+  * 72 - UPZ Bolivia: 11375753
+  * 73 - UPZ Garcés Navas: 11375724
+  * 74 - UPZ Engativá: 11375620
+  * 105 - UPZ Jardín Botánico: 11379153
+  * 116 - UPZ Álamos: 11375634
+* 11 - UPZs localidad de Suba: 11486101
+  * 2 - UPZ La Academia: 11495047
+  * 3 - UPZ Guaymaral: 11495043
+  * 17 - UPZ San José de Bavaria: 11495029
+  * 18 - UPZ Britalia: 11495018
+  * 19 - UPZ El Prado: 11495015
+  * 20 - UPZ La Alhambra: 11491714
+  * 23 - UPZ Casa Blanca Suba: 11491755
+  * 24 - UPZ Niza: 11491695
+  * 25 - UPZ La Floresta: 11488700
+  * 27 - UPZ Suba: 11488695
+  * 28 - UPZ El Rincón: 11486118
+  * 71 - UPZ Tibabuyes: 11486100
+* 12 - UPZs localidad de Barrios Unidos: 11495067
+  * 21 - UPZ Los Andes: 11495066
+  * 22 - UPZ Doce de Octubre: 11495070
+  * 98 - UPZ Los Alcázares: 11495078
+  * 103 - UPZ Parque El Salitre: 11495079
+* 13 - UPZs localidad de Teusaquillo: 11502495
+  * 100 - UPZ Galerías: 11502516
+  * 101 - UPZ Teusaquillo: 11502515
+  * 104 - UPZ Parque Simón Bolivar-CAN: 11502503
+  * 106 - UPZ La Esmeralda: 11502494
+  * 107 - UPZ Quita Paredes: 11502517
+  * 109 - UPZ Ciudad Salitre Oriental: 11502523
 * 14 - UPZs localidad de Los Mártires: 
 * 15 - UPZs localidad de Antonio Nariño: 
 * 16 - UPZs localidad de Puente Aranda:  
