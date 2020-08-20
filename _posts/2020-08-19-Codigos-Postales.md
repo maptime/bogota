@@ -23,10 +23,17 @@ Para cada localidad, se creó una relación que contiene los códigos postales d
   * 110211 - 11518348
   * 110221 - 11518380
   * 110231 - 11518429
-* 3 - Códigos postales localidad de Santa Fe: 
+* 3 - Códigos postales localidad de Santa Fe: 11518431
   * 110311 - 11518430
-* 4 - Códigos postales localidad de San Cristobal: 
-* 5 - Códigos postales localidad de Usme: 
+  * 110321 - 11521261
+* 4 - Códigos postales localidad de San Cristobal: 11521317
+  * 110411 - 11521292
+  * 110421 - 11521291
+  * 110431 - 11521317
+* 5 - Códigos postales localidad de Usme: 11521367
+  * 110511 -
+  * 110521 - 11521366
+  * 110531 - 11521365
 * 6 - Códigos postales localidad de Tunjuelito: 
 * 7 - Códigos postales localidad de Bosa: 
 * 8 - Códigos postales localidad de Kennedy: 
