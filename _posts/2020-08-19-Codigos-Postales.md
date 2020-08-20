@@ -10,12 +10,21 @@ Los límites de dichos códigos postales han sido publicados como datos abiertos
 
 Aquí presentamos los códigos postales que hay en OpenStreetMap.
 
-Se creó una relación abuelo para contener los códigos postales de todas las localidades, cuyo id es:
+Se creó una relación abuelo para contener los códigos postales de todas las localidades, cuyo id es: 11518309
 Para cada localidad, se creó una relación que contiene los códigos postales de dicha área, así:
 
-* 1 - Códigos postales localidad de Usaquén: 
-* 2 - Códigos postales localidad de Chapinero: 
+* 1 - Códigos postales localidad de Usaquén: 11518308
+  * 110111 - 5655426
+  * 110121 - 5655424
+  * 110131 - 5655423
+  * 110141 - 5655425
+  * 110151 - 11518285
+* 2 - Códigos postales localidad de Chapinero: 11518349
+  * 110211 - 11518348
+  * 110221 - 11518380
+  * 110231 - 11518429
 * 3 - Códigos postales localidad de Santa Fe: 
+  * 110311 - 11518430
 * 4 - Códigos postales localidad de San Cristobal: 
 * 5 - Códigos postales localidad de Usme: 
 * 6 - Códigos postales localidad de Tunjuelito: 
