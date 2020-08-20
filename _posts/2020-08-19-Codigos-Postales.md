@@ -33,3 +33,18 @@ Para cada localidad, se creó una relación que contiene los códigos postales d
 * 18 - Códigos postales localidad de Rafael Uribe Uribe: 
 * 19 - Códigos postales localidad de Ciudad Bolivar: 
 * 20 - Códigos postales localidad de Sumapaz: 
+
+Para extraer las relaciones desde OverPasss Turbo: [http://overpass-turbo.eu/s/XdD](http://overpass-turbo.eu/s/XdD), la cual ejecuta el siguiente query:
+
+    [out:json][timeout:25];
+    // gather results
+    (
+      // query part for: “boundary=administrative”
+      node["boundary"="postal_code"]({{bbox}});
+      way["boundary"="postal_code"]({{bbox}});
+      relation["boundary"="postal_code"]({{bbox}});
+    );
+    // print results
+    out body;
+    >;
+    out skel qt;
