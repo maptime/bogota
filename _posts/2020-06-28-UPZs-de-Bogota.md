@@ -149,14 +149,13 @@ Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs 
 
 Para extraer las relaciones desde OverPasss Turbo: http://overpass-turbo.eu/s/Vpu, la cual ejecuta el siguiente query:
 
-`
-[out:json][timeout:25];
-(
-  node["boundary"="administrative"]["admin_level"="9"]();
-  way["boundary"="administrative"]["admin_level"="9"]();
-  relation["boundary"="administrative"]["admin_level"="9"]();
-);
-    out body;
->;
-out skel qt;
-`
+    [out:json][timeout:25];
+    (
+      node["boundary"="administrative"]["admin_level"="9"]();
+      way["boundary"="administrative"]["admin_level"="9"]();
+      relation["boundary"="administrative"]["admin_level"="9"]();
+    );
+        out body;
+    >;
+    out skel qt;
+
