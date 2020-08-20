@@ -147,7 +147,7 @@ Después, por localidad tenemos una relación "padre" que agrupa todas las UPZs 
   * 70 - UPZ Jerusalem: 11322643
 * 20 - UPZs localidad de Sumapaz: No hay UPZs.
 
-Para extraer las relaciones desde OverPasss Turbo: http://overpass-turbo.eu/s/Vpu, la cual ejecuta el siguiente query:
+Para extraer las relaciones desde OverPasss Turbo: [http://overpass-turbo.eu/s/XdF](http://overpass-turbo.eu/s/XdF), la cual ejecuta el siguiente query:
 
     [out:json][timeout:25];
     (
