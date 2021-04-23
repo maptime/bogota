@@ -22,7 +22,7 @@ Como no eran muchas imágenes, este tipo de instalación fue suficiente, como ta
 El resultado fue que generó un archivo TIF de casi 46 MB.
 
 La imagen TIF, para compartirla con la comunidad, se publicó en OpenAerialMap.
-La imagen aerea del barrio La Calleja es [https://map.openaerialmap.org/#/-74.04922485351562,4.711955721595933,15/square/03223211212103131/604c3ffe5553510005076089?_k=fifm54](https://map.openaerialmap.org/#/-74.04922485351562,4.711955721595933,15/square/03223211212103131/604c3ffe5553510005076089?_k=fifm54).
+Esta es [la imagen aerea del barrio La Calleja](https://map.openaerialmap.org/#/-74.04798030853271,4.712297883926474,15/square/03223211/604c3ffe5553510005076089?_k=d63imo).
 Habiéndola publicado en este portal, el mapeo fue más fácil, ya que solo debemos referenciar la imagen como un Imagery adicional en formato TMS; y no cargarla directamente en JOSM ya que puede consumir mucha memoria.
 
 Igualmente, se tomaron fotos a nivel de calle, montadas sobre un carro, con una actionCam apuntando al frente, otra apuntando atrás, y una 360 en la mitad.
