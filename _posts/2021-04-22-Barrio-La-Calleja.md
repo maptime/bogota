@@ -73,11 +73,29 @@ Los resultados de este mapeo son estos:
 
 [osmose](https://osmose.openstreetmap.fr/en/map/#zoom=16&lat=4.71214&lon=-74.0478&item=xxxx&level=1%2C2%2C3)
 
-![Barrio La Calleja en osmose](/bogota/img/2021-04-22-osmose.png)
+![Barrio La Calleja en osmose](/bogota/img/2021-04-22-Osmose.png)
 
 [KeepRight](https://www.keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713)
 
 ![Barrio La Calleja en KeepRight](/bogota/img/2021-04-22-KeepRight.png)
+
+# Estado inicial
+
+* OpenStreetMap
+
+![Barrio La Calleja en OSM](/bogota/img/2021-02-07-OSM.jpg)
+
+* Mapillary
+
+![Barrio La Calleja en Mapillary](/bogota/img/2021-02-07-Mapillary.jpg)
+
+* Osmand
+
+![Barrio La Calleja en Osmand](/bogota/img/2021-02-07-OsmAnd.jpg)
+
+* Maps.me
+
+![Barrio La Calleja en Maps.me](/bogota/img/2021-02-07-MAPSME.jpg)
 
 # Lexiones aprendidas
 
