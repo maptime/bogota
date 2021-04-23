@@ -55,47 +55,47 @@ Los resultados de este mapeo son estos:
 
 [https://www.openstreetmap.org/#map=16/4.7124/-74.0496](https://www.openstreetmap.org/#map=16/4.7124/-74.0496)
 
-![Barrio La Calleja en OpenStreetMap](/bogota/img/2021-04-22-OSM.png)
+![Barrio La Calleja en OpenStreetMap](/bogota/img/2021-04-22-OSM.png | width=300)
 
 ## Mapillary
 
 [https://www.mapillary.com/app/?focus=map&lat=4.712011402221506&lng=-74.05024101516284&z=14.819927381168846](https://www.mapillary.com/app/?focus=map&lat=4.712011402221506&lng=-74.05024101516284&z=14.819927381168846)
 
-![Barrio La Calleja en Mapillary](/bogota/img/2021-04-22-Mapillary.png)
+![Barrio La Calleja en Mapillary](/bogota/img/2021-04-22-Mapillary.png | width=300)
 
 ## f4 demo
 
 [https://demo.f4map.com/#lat=4.7108297&lon=-74.0513359&zoom=17&camera.theta=53.071&camera.phi=-9.271](https://demo.f4map.com/#lat=4.7108297&lon=-74.0513359&zoom=17&camera.theta=53.071&camera.phi=-9.271)
 
-![Barrio La Calleja en f4](/bogota/img/2021-04-22-f4.png)
+![Barrio La Calleja en f4](/bogota/img/2021-04-22-f4.png | width=300)
 
 ## Calidad de datos
 
 [osmose](https://osmose.openstreetmap.fr/en/map/#zoom=16&lat=4.71214&lon=-74.0478&item=xxxx&level=1%2C2%2C3)
 
-![Barrio La Calleja en osmose](/bogota/img/2021-04-22-Osmose.png)
+![Barrio La Calleja en osmose](/bogota/img/2021-04-22-Osmose.png | width=300)
 
 [KeepRight](https://www.keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713)
 
-![Barrio La Calleja en KeepRight](/bogota/img/2021-04-22-KeepRight.png)
+![Barrio La Calleja en KeepRight](/bogota/img/2021-04-22-KeepRight.png | width=300)
 
 # Estado inicial
 
 * OpenStreetMap
 
-![Barrio La Calleja en OSM](/bogota/img/2021-02-07-OSM.jpg)
+![Barrio La Calleja en OSM](/bogota/img/2021-02-07-OSM.jpg | width=300)
 
 * Mapillary
 
-![Barrio La Calleja en Mapillary](/bogota/img/2021-02-07-Mapillary.jpg)
+![Barrio La Calleja en Mapillary](/bogota/img/2021-02-07-Mapillary.jpg | width=300)
 
 * Osmand
 
-![Barrio La Calleja en Osmand](/bogota/img/2021-02-07-OsmAnd.jpg)
+![Barrio La Calleja en Osmand](/bogota/img/2021-02-07-OsmAnd.jpg | width=300)
 
 * Maps.me
 
-![Barrio La Calleja en Maps.me](/bogota/img/2021-02-07-MAPSME.jpg)
+![Barrio La Calleja en Maps.me](/bogota/img/2021-02-07-MAPSME.jpg | width=300)
 
 # Lexiones aprendidas
 
