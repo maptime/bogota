@@ -10,3 +10,8 @@ En este caso, pueden salir notas de cualquier tipo, por lo que podremos aprender
 
 La reunión durará una hora y se hará por medio de Zoom.
 No es necesario tener experiencia en OSM, pero si ganas de aprender cosas nuevas
+
+El listado de las notas está en la siguiente página mantenida por Neil Pascal:
+
+ * [https://resultmaps.neis-one.org/osm-notes-country?c=Colombia](https://resultmaps.neis-one.org/osm-notes-country?c=Colombia)
+ * [https://resultmaps.neis-one.org/osm-notes](https://resultmaps.neis-one.org/osm-notes)
