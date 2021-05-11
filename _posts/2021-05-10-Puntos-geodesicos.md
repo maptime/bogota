@@ -2,7 +2,7 @@
 layout: post
 title: Puntos geodésicos de Bogotá
 author: Andres Gomez
-image: /bogota/img/puntos-igac.png
+image: /bogota/img/2021-05-10-puntos-igac.png
 ---
 
 Cuando caminamos por la ciudad, muy seguramente nos hemos topado con alguna "latica" dorada con un texto pegada en el piso.
