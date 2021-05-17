@@ -18,3 +18,8 @@ El listado de las notas está en la siguiente página mantenida por Neil Pascal:
 
  * [https://resultmaps.neis-one.org/osm-notes-country?c=Colombia](https://resultmaps.neis-one.org/osm-notes-country?c=Colombia)
  * [https://resultmaps.neis-one.org/osm-notes](https://resultmaps.neis-one.org/osm-notes)
+
+Este mismo post se está usando para todos los eventos de resolución de Notas
+
+* 2021-05-15
+* 2021-05-22
