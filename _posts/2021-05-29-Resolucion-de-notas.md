@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Resolución de Notas de Bogotá
-rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/277939416/
+rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/nbkwjsyccjbhb/
 ---
 
 En esta ocasión vamos a resolver notas registradas en OpenStreetMap, que fueron creadas en la ciudad de Bogotá.
@@ -26,3 +26,4 @@ Este mismo post se está usando para todos los eventos de resolución de Notas
 * 2021-05-15
 * 2021-05-22
 * 2021-05-29
+* 2021-06-05
