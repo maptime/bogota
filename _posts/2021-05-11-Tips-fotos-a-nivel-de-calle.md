@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puntos geodésicos de Bogotá
+title: Tips para fotos a nivel de calle
 author: Andres Gomez
 ---
 
