@@ -17,7 +17,7 @@ En cambio, es mejor capturar una traza GPX en el celular y después hacer la cor
 Para esto se puede usar JOSM, donde se abren todas las fotos, y se le da click derecho sobre Geotagged Images.
 Ahí se le dice Correlate to GPX y se selecciona la traza GPX que hayamos capturado (Osmand o Open GPX Tracker) y ya tengamos en el computador.
 
-Finalmente, para guardar la posición en las fotos se requiere el plugin Photo Geotaggin: https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Photo_Geotagging
+Finalmente, para guardar la posición en las fotos se requiere el plugin Photo Geotaggin: [https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Photo_Geotagging](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Photo_Geotagging)
 Donde al dar click derecho sober las fotos se puede seleccionar Write Coordinates to image header.
 
 Con esto, ya se podrá subir a Mapillary u OpenStreetCam.
