@@ -31,3 +31,5 @@ Este mismo post se está usando para todos los eventos de resolución de Notas
 * 2021-06-19
 * 2021-06-26
 * 2021-07-03
+* 2021-07-10
+* 2021-07-17
