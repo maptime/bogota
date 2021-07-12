@@ -10,3 +10,4 @@ author: Andres Gomez
   * https://nuxx.net/blog/2020/05/24/high-resolution-strava-global-heatmap-in-josm/
 * Alineación de vías de Strava slide - https://labs.strava.com/slide/
 * Identificación de calles faltantes. Map with AI - RapID - https://mapwith.ai/#14/-7.02455/110.34703
+* Mapas de Bogotá del IDECA Castastro - https://mapas.bogota.gov.co/#
