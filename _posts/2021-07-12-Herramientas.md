@@ -11,3 +11,4 @@ author: Andres Gomez
 * Alineación de vías de Strava slide - https://labs.strava.com/slide/
 * Identificación de calles faltantes. Map with AI - RapID - https://mapwith.ai/#14/-7.02455/110.34703
 * Mapas de Bogotá del IDECA Castastro - https://mapas.bogota.gov.co/#
+* Fotos a nivel de calle - https://www.mapillary.com/ https://kartaview.org/ (OpenStreetCam)
