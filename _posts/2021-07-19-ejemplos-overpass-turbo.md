@@ -1,5 +1,33 @@
 Estos son unos ejemplos que se pueden usar para crear desafíos en MapRoulette.
 
+* Revisión de los códigos postales que tienen el nombre correcto con 6 dígitos. Los bordes pueden tener dos códigos postales unidos por un guión. Si todo está bien, no debe devolver objetos.
+
+```
+[out:json][timeout:25];
+area[name="Bogotá"][admin_level=7][boundary=administrative]->.searchArea;
+(
+  node["boundary"="postal_code"](area.searchArea);
+  way["boundary"="postal_code"]["name"!~"^[0-9]{6}-[0-9]{6}$"](area.searchArea);
+  relation["boundary"="postal_code"]["name"!~"^[0-9]{6}$"] (area.searchArea);
+
+);
+out geom;
+```
+
+* Revisión que las relaciones de códigos postales están bien, y que los bordes de los códigos postales no tienen como tal un código postal. Si todo está bien, no debe devolver objetos.
+
+```
+[out:json][timeout:25];
+area[name="Bogotá"][admin_level=7][boundary=administrative]->.searchArea;
+(
+  node["boundary"="postal_code"](area.searchArea);
+  way["boundary"="postal_code"]["postal_code"](area.searchArea);
+  relation["boundary"="postal_code"]["postal_code"!~"^[0-9]{6}$"] (area.searchArea);
+
+);
+out geom;
+```
+
 ```
 
 /*
