@@ -71,6 +71,33 @@ Podemos ver mejores detalles de Bogotá, por ejemplo la glorieta de la calle 65 
 
 # Instituco Geográfico Agustín Codazzi - IGAC
 
+De manera similar al WMS del IDECA, buscamos en Google: datos abiertos igac
+![Google](/bogota/img/2021-07-17-1-IGAC-google.png)
+
+En la página del IGAC vemos todo lo que ofrece como servicios web (https://geoportal.igac.gov.co/contenido/geoservicios):
+![Servicios Web del IGAC](/bogota/img/2021-07-17-2-IGAC-web services.png)
+
+Por ejemplo, si tomamos la cartografía Base Escala 1:100000, obtendremos la siguiente URL:
+http://gw-geoportal-test.igac.gov.co/cartografia100k/service?
+![URL](/bogota/img/2021-07-17-3-IGAC-URL.png)
+
+Con esa URL vamos a preferencias de JOSM, y en imagery adicionamos un WMS:
+![Imagery](/bogota/img/2021-07-17-4-IGAC-imagery.png)
+
+Escogemos cualquiera de las capas. En nuestro caso fue Administrativo Punto.
+![Layers](/bogota/img/2021-07-17-5-IGAC-layers.png)
+
+Para eso ponemos un nombre apropriado como nombre de capa.
+![Nombre de la capa](/bogota/img/2021-07-17-6-IGAC-name.png)
+
+Particularmente esta capa tiene letras negras, por lo que será necesario cambiar el color de fondo de JOSM.
+![Color de fondo](/bogota/img/2021-07-17-7-IGAC-backgroundColor.png)
+
+Con eso ya se podrán ver los valores cuando se hace bastante zoom.
+![Datos](/bogota/img/2021-07-17-8-IGAC-data.png)
+
+
+
 
 #
 
