@@ -22,37 +22,53 @@ Aquí nos muestra todos los servicios web que ofrece esa página (https://www.id
 Para buscar directamente la foto aerea, escribimos lo siguiente en el campo de búsqueda: ortofoto
 ![Buscador IDECA](/bogota/img/2021-07-17-3-IDECA-buscador.png)
 
-Una vez le damos click en descargar (la flecha hacia abajo), nos dirigirá a una URL como la siguiente (https://www.ideca.gov.co/recursos/mapas/ortoimagen-bogota-dc-2014):
-URL: https://serviciosgis.catastrobogota.gov.co/arcgis/services/imagenes/Ortho2014/MapServer/WMSServer?
-Podemos copiar la URL hasta el signo de pregunta.
+Ahí nos mostrará todas las ortofotos disponibles.
+Al momento de escribir esto, la más reciente es del 2014.
+(https://www.ideca.gov.co/recursos/mapas/ortoimagen-bogota-dc-2014):
 ![Ortofotos](/bogota/img/2021-07-17-4-ortofotos.png)
 
+Una vez le damos click en descargar (la flecha hacia abajo), nos dirigirá a una URL como la siguiente URL: https://serviciosgis.catastrobogota.gov.co/arcgis/services/imagenes/Ortho2014/MapServer/WMSServer?
+Podemos copiar la URL hasta el signo de pregunta.
+![URL](/bogota/img/2021-07-17-5-URL.png)
+
 Con la URL copiada, podemos irnos a JOSM y buscamos la opción Preferencias.
-![Preferencias JOSM](/bogota/img/2021-07-17-5-preferencias.png)
+![JOSM](/bogota/img/2021-07-17-6-josm.png)
+![Preferencias JOSM](/bogota/img/2021-07-17-7-preferencias.png)
 
 Dentro de la ventana de preferencias buscamos la sección de Imagery.
-![Imagery](/bogota/img/2021-07-17-6-imagery.png)
+![Imagery](/bogota/img/2021-07-17-8-imagery.png)
 
 Ahí podemos ver unos botones al lado derecho que indican el tipo de imagery que queremos. Para este caso seleccionaos WMS, y nos abrirá una neuva ventana.
-![WMS](/bogota/img/2021-07-17-7-WMS.png)
+![WMS](/bogota/img/2021-07-17-9-WMS.png)
 
 
 En la nueva ventana, pegamos la URL en el campo 2, seguido de clikc sobre get Layers.
-![Get Layers](/bogota/img/2021-07-17-8-getLayers.png)
+![Get Layers](/bogota/img/2021-07-17-10-getLayers.png)
 
 Esto nos mostrará la lista de capas disponibles. Para el caso de la Ortofoto solo habrá la que hayamos escogido.
-![Layers](/bogota/img/2021-07-17-9-layers.png)
+![Layers](/bogota/img/2021-07-17-11-layers.png)
 
 En el último campo le debemos poner un nombre.
 Por defecto pone la URL, podemos cambiarla por algo más explícito.
 IMPORTANTE: Como nombre recomendamos poner algo así: IDECA Ortofoto 2014.
 Con un nombre como este, automáticamente aparecerá en el campo de Fuentes al hacer commit en OSM.
+![Nombre por defecto](/bogota/img/2021-07-17-12-nombre.png)
+![Nuevo nombre](/bogota/img/2021-07-17-13-nuevoNombre.png)
 
 Debido a que estamos usando una fuente de datos que ofrece el IDECA, es importante reconocerlos en nuestros cambios.
 Referenciar la propiedad intelectual es vital en OSM.
 
+Salimos de las prefencias.
+![Salir de preferencias](/bogota/img/2021-07-17-14-salir.png)
+
+En JOSM selecccionamos la imagery del IDECA.
+![Selccionar imagery](/bogota/img/2021-07-17-15-imagery.png)
+
 Finalmente, ya podemos ver la ortofoto en JOSM
-![Ortofoto 2014](/bogota/img/2021-07-17-10-josm.png)
+![Ortofoto 2014](/bogota/img/2021-07-17-16-josm.png)
+
+Podemos ver mejores detalles de Bogotá, por ejemplo la glorieta de la calle 65 con carrera 50 (donde está el nombre Bogotá en el mapa).
+![Detalle Ortofoto 2014](/bogota/img/2021-07-17-17-detalle.png)
 
 # Instituco Geográfico Agustín Codazzi - IGAC
 
