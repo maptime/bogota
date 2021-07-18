@@ -37,3 +37,4 @@ author: Andres Gomez
   * Cámaras de vigilancia https://mapcomplete.osm.be/surveillance.html?z=14&lat=4.656582&lon=-74.0803
   * Árboles https://mapcomplete.osm.be/trees.html?z=15&lat=4.652873&lon=-74.0833
 * Open Level UP (Catedral Primada) https://openlevelup.net/?l=0#14/4.6508/-74.0806
+* Estadísticas de mapeo https://streetcompleteness.haukauntrie.de/
