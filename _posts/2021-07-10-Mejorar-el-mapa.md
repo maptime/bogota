@@ -22,6 +22,7 @@ Y pues la respuesta parece sencilla, pero la respuesta es bien compleja y aquí 
 * Usando datos libres del IDECA para mejorar el mapa - https://datosabiertos.bogota.gov.co/
 * Usando Map with AI - RapID - https://mapwith.ai/
 * Mejorar la alineación de las calles basándose en Strava Labs Heatmap.
+* Mejorar los reportes de TagInfo - https://taginfo.geofabrik.de/south-america/colombia/
 * Resolver los problemas notificados en Strava - https://labs.strava.com/routing-errors/#250/6/-74.85689/3.91358
 * Tomar traza GPX y subirlas a OpenStreetMap - https://www.openstreetmap.org/traces
 * Tomar fotos a nivel de calle y subirlas a:
