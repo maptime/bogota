@@ -96,10 +96,10 @@ Particularmente esta capa tiene letras negras, por lo que será necesario cambia
 Con eso ya se podrán ver los valores cuando se hace bastante zoom.
 ![Datos](/bogota/img/2021-07-17-8-IGAC-data.png)
 
+# Parques nacionales
 
+De manera similar se puede hacer para los WMS de Parques Nacionales.
+Buscando en Google: geoservicios parques nacionales de colombia
 
-
-#
-
-Referencias:
+# Referencias:
 * Web Map Service - https://es.wikipedia.org/wiki/Web_Map_Service
