@@ -15,7 +15,6 @@ Para comenzar, podemos buscar en Google: geoservicios IDECA:
 ![Búsqueda en Google](/bogota/img/2021-07-17-1-google.png)
 
 Una vez estamos en la página del IDECA (https://www.ideca.gov.co/recursos/mapas/mapa-de-referencia-para-bogota-dc), escogemos la opción "Buscador".
-![Barrio La Calleja en OpenStreetMap](/bogota/img/2021-04-22-OSM.png)
 ![Pagina del IDECA](/bogota/img/2021-07-17-2-IDECA.png)
 
 Aquí nos muestra todos los servicios web que ofrece esa página (https://www.ideca.gov.co/buscador).
