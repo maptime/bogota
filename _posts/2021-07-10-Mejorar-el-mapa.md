@@ -14,6 +14,7 @@ Y pues la respuesta parece sencilla, pero la respuesta es bien compleja y aquí 
 * Corregir errores que haya identificado OSMOSE - http://osmose.openstreetmap.fr/en/map/#item=xxxx&level=2&bbox=-74.223564%2C4.460401%2C-73.996422%2C4.837016&zoom=15&lat=4.65289&lon=-74.0773
 * Corregir errores que haya en KeepRight - https://www.keepright.at/report_map.php?zoom=15&lat=4.65359&lon=-74.08109&layers=B0T&ch=0%2C30%2C40%2C50%2C70%2C90%2C100%2C110%2C120%2C130%2C150%2C160%2C170%2C180%2C191%2C192%2C193%2C194%2C195%2C196%2C197%2C198%2C201%2C202%2C203%2C204%2C205%2C206%2C207%2C208%2C210%2C220%2C231%2C232%2C270%2C281%2C282%2C283%2C284%2C285%2C291%2C292%2C293%2C294%2C295%2C296%2C297%2C298%2C311%2C312%2C313%2C320%2C350%2C370%2C380%2C401%2C402%2C411%2C412%2C413&show_ign=1&show_tmpign=1
 * Revisando valores de OSM Inspector https://tools.geofabrik.de/osmi/?view=addresses&lon=-74.08374&lat=4.65199&zoom=15&overlays=buildings,buildings_with_addresses,connection_lines,nearest_roads
+* Resolviendo los problema de MapDust - http://www.mapdust.com/?zoom=12&lat=519674.4438&lon=-8246838.95746&layers=B00T
 * Bajar datos de áreas en JOSM, seleccionar todos los objetos y correr la validación.
 * Responder las preguntas de la aplicación de celular StreetComplete.
 * Resolver notas - https://wiki.openstreetmap.org/wiki/Notes
