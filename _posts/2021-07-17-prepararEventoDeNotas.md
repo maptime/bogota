@@ -16,7 +16,7 @@ Aquí listo las tareas para organizar un evento de notas.
   * [https://www.meetup.com/maptime-bogota-colombia-osm/](https://www.meetup.com/maptime-bogota-colombia-osm/)
 * Modificar la fecha en el repositorio de GitHub.
   * Buscar el archivo terminado con: Resolucion-de-notas.md
-  * Poner al comienzo la siguiente fecha en el nombre del archivo.
+  * Poner en el nombre del archivo la siguiente fecha de evento.
   * Poner la fecha al final del contenido del archivo.
   * [https://github.com/maptime/bogota/tree/gh-pages/_posts](https://github.com/maptime/bogota/tree/gh-pages/_posts)
   
