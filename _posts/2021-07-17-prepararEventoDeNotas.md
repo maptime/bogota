@@ -11,7 +11,7 @@ Aquí listo las tareas para organizar un evento de notas.
 * Copiar un evento pasado en el calendario del semanario en OSMCal.
   * En el evento más reciente, abrirlo y hacer click en Repeat.
   * [https://osmcal.org/](https://osmcal.org/)
-* Copiar el evento más reciente en MeetUp.
+* Copiar el evento más reciente en MeetUp (ya está iterativo, por lo que no es necesario.)
   * En Organizer tools, seleccionar Copy Event.
   * [https://www.meetup.com/maptime-bogota-colombia-osm/](https://www.meetup.com/maptime-bogota-colombia-osm/)
 * Modificar la fecha en el repositorio de GitHub.
