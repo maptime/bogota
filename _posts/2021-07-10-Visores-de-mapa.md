@@ -38,3 +38,4 @@ author: Andres Gomez
   * Árboles https://mapcomplete.osm.be/trees.html?z=15&lat=4.652873&lon=-74.0833
 * Open Level UP (Catedral Primada) https://openlevelup.net/?l=0#14/4.6508/-74.0806
 * Estadísticas de mapeo https://streetcompleteness.haukauntrie.de/
+* Actividad de usuarios https://resultmaps.neis-one.org/oooc?zoom=12&lat=4.64937&lon=-74.08291&layers=B0TFFFFFT
