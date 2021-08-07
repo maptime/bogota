@@ -39,3 +39,4 @@ author: Andres Gomez
 * Open Level UP (Catedral Primada) https://openlevelup.net/?l=0#14/4.6508/-74.0806
 * Estadísticas de mapeo https://streetcompleteness.haukauntrie.de/
 * Actividad de usuarios https://resultmaps.neis-one.org/oooc?zoom=12&lat=4.64937&lon=-74.08291&layers=B0TFFFFFT
+* Rutas sin nombre, o elementos sin dirección http://qa.poole.ch/?zoom=13&lat=4.6507&lon=-74.07256&layers=FFTFB0
