@@ -22,5 +22,5 @@ Aquí listo las tareas para organizar un evento de notas.
 * Enviar un mail a la lista de distribución indicando del evento, fecha, hora, y lugar de encuentro.
 * Publicar el evento en la cuenta de Twitter de MaptimeBogota, referenciando a OSM Colombia.
 * Publicar el evento en el muro de Facebook de OSM Colombia.
-* Publicar el evento en el canal de Telegram de OSM Colombia.
+* Publicar el evento en el canal de Telegram de OSM Colombia y de Notas.
   
