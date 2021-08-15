@@ -42,3 +42,4 @@ author: Andres Gomez
 * Rutas sin nombre, o elementos sin dirección http://qa.poole.ch/?zoom=13&lat=4.6507&lon=-74.07256&layers=FFTFB0
 * OSMBuildings https://osmbuildings.org/?lat=4.65333&lon=-74.08365&zoom=16.0&tilt=36&rotation=34
 * F4 demo https://demo.f4map.com/#lat=4.6527057&lon=-74.0886429&zoom=16
+* Who's around me https://wiki.openstreetmap.org/wiki/ES:Notas
