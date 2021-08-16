@@ -32,6 +32,8 @@ Para una descripción de qué son las notas de OpenStreetMap, se pueden consulta
 * https://www.openstreetmap.org/user/AngocA/diary/397138
 * https://www.openstreetmap.org/user/AngocA/diary/397284
 
+También se puede visitar la página de esta iniciativa en el wiki de OSM: https://wiki.openstreetmap.org/wiki/ES:Colombia/Resoluci%C3%B3n_de_notas
+
 -----
 
 Este mismo post se está usando para todos los eventos de resolución de Notas que hemos realizado.
