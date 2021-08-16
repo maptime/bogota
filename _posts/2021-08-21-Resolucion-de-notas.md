@@ -1,25 +1,40 @@
 ---
 layout: event
 category: event
-title: Resolución de Notas de Bogotá
+title: Resolución de Notas de Colombia
 rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/lwmtnsycclbcc/
 ---
 
-En esta ocasión vamos a resolver notas registradas en OpenStreetMap, que fueron creadas en la ciudad de Bogotá.
-En este caso, pueden salir notas de cualquier tipo, por lo que podremos aprender de una diversidad de cosas en el mundo de OpenStreetMap.
+En esta ocasión vamos a resolver notas registradas en OpenStreetMap, que fueron creadas en toda Colombia.
+En este caso, pueden salir notas de cualquier tipo, por lo que podremos aprender de una diversidad de cosas del mundo de OpenStreetMap.
 
-La reunión durará una hora y se hará por medio de Jitsi.
+La reunión durará una hora y se hará por medio de BigBlueButton de OSM (Link adjunto).
 No es necesario tener experiencia en OSM, pero si ganas de aprender cosas nuevas
 
 El objetivo es que todas estas notas se pasen a verde:
 [https://www.openstreetmap.org/#map=14/4.6522/-74.0821&layers=N](https://www.openstreetmap.org/#map=14/4.6522/-74.0821&layers=N)
+
+Para el evento es recomendable tener listos los siguientes elementos:
+
+* Haber creado una cuenta en OpenStreetMap.org.
+* Haber descargado JOSM (y OpenWebStart).
+* Haber configurado JOSM con la cuenta de OpenStreetMap.
+
+Si quieres estar preparado, puedes leer este tutorial: https://learnosm.org/es/.
 
 El listado de las notas está en la siguiente página mantenida por Neil Pascal:
 
  * [https://resultmaps.neis-one.org/osm-notes-country?c=Colombia](https://resultmaps.neis-one.org/osm-notes-country?c=Colombia)
  * [https://resultmaps.neis-one.org/osm-notes](https://resultmaps.neis-one.org/osm-notes)
 
-Este mismo post se está usando para todos los eventos de resolución de Notas
+Para una descripción de qué son las notas de OpenStreetMap, se pueden consultar los siguientes artículos:
+
+* https://www.openstreetmap.org/user/AngocA/diary/397138
+* https://www.openstreetmap.org/user/AngocA/diary/397284
+
+-----
+
+Este mismo post se está usando para todos los eventos de resolución de Notas que hemos realizado.
 
 * 2021-05-01
 * 2021-05-08
