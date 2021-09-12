@@ -94,16 +94,23 @@ Finalmente, Leonardo nos invita a postular nuestras ciudades en Trufi, llenando 
 Entre los participantes hubo personas de:
 
 * Manor, Texas, USA.
-* Barquisimeto, Venezuela.
-* México.
+* Chicago, Ilinois, USA.
+* Hamburgo, Alemania.
 * Toluca, México.
-* Alajuela
+* Lima, Peru.
+* Cochabamba, Bolivia.
+* Alajuela, Costa Rica.
+* Heredia, Costa Rica.
+* Barquisimeto, Venezuela.
+* Popayán, Cauca, Colombia.
+* Cúcuta, Santander, Colombia.
 * Yopal, Casanare, Colombia.
 * Duitama, Boyacá, Colombia.
+* Bogotá, DC., Colombia.
 
 Estos datos se obtuvieron por medio de slido.com, código 063 734.
 
-Entre los participantes tuvimos:
+Entre los participantes tuvimos a:
 
 * Doris Ruiz.
 * Sandra Hernández.
@@ -120,3 +127,5 @@ Entre los participantes tuvimos:
 * Harry Chuquicusma.
 * Leonardo Pinzón N.
 * Julio M.
+
+Quienes son contribuidores principiando, intermedios y avanzados a OSM.
