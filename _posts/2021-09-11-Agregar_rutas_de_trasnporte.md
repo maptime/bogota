@@ -40,6 +40,7 @@ Samuel nos compartió una herramienta para personalizar JOSM para el mapeo de ru
 
 Para mapear rutas en terreno, Leonardo con recomendó esta aplicación, la cual captura trazas GPX: [https://play.google.com/store/apps/details?id=net.osmtracker](https://play.google.com/store/apps/details?id=net.osmtracker).
 Un manual de cómo usarla está aquí: [https://learnosm.org/es/mobile-mapping/osmtracker/](https://learnosm.org/es/mobile-mapping/osmtracker/).
+Una forma de personalizar OSM Tracker para captura de datos de transporte: [https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/transporte_publico/README.md](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/transporte_publico/README.md).
 
 Cuando se cambia a modo Experto (ícono de Albert Einstein) en JOSM, se puede descargar por tipo de feature.
 En este caso, Leonardo solo descarga las vías con este query:
