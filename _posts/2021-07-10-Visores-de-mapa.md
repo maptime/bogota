@@ -45,3 +45,4 @@ author: Andres Gomez
 * mapy.cz https://en.mapy.cz/turisticka?vlastni-body&x=-74.0841067&y=4.6532824&z=17&m3d=1&height=1020&yaw=0&pitch=-45&uc=
 * Who's around me https://wiki.openstreetmap.org/wiki/ES:Notas
 * Calcular ruta en diversos medios - https://brouter.damsy.net/latest/#map=15/4.6531/-74.0810/standard,route-quality&lonlats=-74.099865,4.659282;-74.087076,4.656587;-74.062057,4.650001&ringgo=-74.062314,4.679682,&profile=car-fast
+* Offsets de las imagenes satelitales - http://offsets.textual.ru/map#zoom=11&lat=4.653&lon=-74.0829
