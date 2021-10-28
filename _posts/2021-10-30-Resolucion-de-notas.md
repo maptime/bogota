@@ -56,3 +56,4 @@ Este mismo post se está usando para todos los eventos de resolución de Notas q
 * 2021-08-14 - [https://osmrecordings.cloud68.co/playback/presentation/2.0/playback.html?meetingId=2ed32e8865ca5e0a7690b4727eefcd01c4a6540b-1628956392186](https://osmrecordings.cloud68.co/playback/presentation/2.0/playback.html?meetingId=2ed32e8865ca5e0a7690b4727eefcd01c4a6540b-1628956392186)
 * 2021-08-21 - [https://osmrecordings.cloud68.co/playback/presentation/2.0/playback.html?meetingId=2ed32e8865ca5e0a7690b4727eefcd01c4a6540b-1629561514551](https://osmrecordings.cloud68.co/playback/presentation/2.0/playback.html?meetingId=2ed32e8865ca5e0a7690b4727eefcd01c4a6540b-1629561514551)
 * 2021-08-28 - [https://osmrecordings.cloud68.co/playback/presentation/2.0/playback.html?meetingId=2ed32e8865ca5e0a7690b4727eefcd01c4a6540b-1630166046688](https://osmrecordings.cloud68.co/playback/presentation/2.0/playback.html?meetingId=2ed32e8865ca5e0a7690b4727eefcd01c4a6540b-1630166046688)
+* 2021-10-30
