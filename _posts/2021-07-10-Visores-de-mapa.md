@@ -46,3 +46,4 @@ author: Andres Gomez
 * Who's around me https://wiki.openstreetmap.org/wiki/ES:Notas
 * Calcular ruta en diversos medios - https://brouter.damsy.net/latest/#map=15/4.6531/-74.0810/standard,route-quality&lonlats=-74.099865,4.659282;-74.087076,4.656587;-74.062057,4.650001&ringgo=-74.062314,4.679682,&profile=car-fast
 * Offsets de las imagenes satelitales - http://offsets.textual.ru/map#zoom=11&lat=4.653&lon=-74.0829
+* Comparación de proveedores de mapas - http://tools.geofabrik.de/mc/#17/4.6534/-74.0835&num=4&mt0=mapnik&mt1=google-map&mt2=hike_bike&mt3=here-map
