@@ -49,3 +49,4 @@ author: Andres Gomez
 * Comparación de proveedores de mapas - http://tools.geofabrik.de/mc/#17/4.6534/-74.0835&num=4&mt0=mapnik&mt1=google-map&mt2=hike_bike&mt3=here-map
 * Límites administrativos y códigos postales - https://osm-boundaries.com/Map
 * Offsets de imageries - http://offsets.textual.ru/map#zoom=11&lat=4.6038&lon=-74.132
+* Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
