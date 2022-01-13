@@ -50,3 +50,4 @@ author: Andres Gomez
 * Límites administrativos y códigos postales - https://osm-boundaries.com/Map
 * Offsets de imageries - http://offsets.textual.ru/map#zoom=11&lat=4.6038&lon=-74.132
 * Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
+* 3d indoor https://app.openindoor.io/#12.37/4.65919/-74.08985/0/40
