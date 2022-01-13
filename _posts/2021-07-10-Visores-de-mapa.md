@@ -51,3 +51,4 @@ author: Andres Gomez
 * Offsets de imageries - http://offsets.textual.ru/map#zoom=11&lat=4.6038&lon=-74.132
 * Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
 * 3d indoor https://app.openindoor.io/#12.37/4.65919/-74.08985/0/40
+* 3d indoor https://indoorequal.org/#map=13.29/4.64765/-74.08031/7.2/60&level=0
