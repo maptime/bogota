@@ -52,3 +52,4 @@ author: Andres Gomez
 * Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
 * 3d indoor https://app.openindoor.io/#12.37/4.65919/-74.08985/0/40
 * 3d indoor https://indoorequal.org/#map=13.29/4.64765/-74.08031/7.2/60&level=0
+* Bing OSM - https://www.bing.com/maps?osid=a5de04cb-a96d-4878-9a9a-9fce4c6095e7&cp=4.627493~-74.089655&lvl=12&v=2&sV=2&form=S00027
