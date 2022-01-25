@@ -1,8 +1,8 @@
 ---
 layout: event
 category: event
-title: Resolución de Notas de Colombia
-rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/lwmtnsycclbcc/
+title: Mapeando el barrio Nicolás de Federmán, de Bogotá
+rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/283295807
 ---
 
 Vamos a aprender a mapear en terreno, añadiendo detalles de nuestro entorno y después visualizando nuestros aportes en el mapa.
