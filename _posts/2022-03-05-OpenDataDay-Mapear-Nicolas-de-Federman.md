@@ -16,6 +16,8 @@ Solo necesitas tener un teléfono móvil Android, y comprender las preguntas que
 Ven con tus hijos para aprender en familia sobre este mundo de los mapas, la cartografía y el mapeo de tu ciudad.
 Esto les enseñará a empoderarse de su barrio, de su ciudad, y cómo trabajar en comunidad.
 
+¡Recuerda traer tu teléfono cargado!
+
 Opcionalmente, para los establecimiento vamos a usar MiNegocio: https://maptimebogota.github.io/minegocio/
 En esta página ingresaremos datos puntuales de los comercios.
 
@@ -24,15 +26,39 @@ En esta página ingresaremos datos puntuales de los comercios.
 
 Agenda:
 
-* Explicar el objetivo de la actividad:
-  * Mapear detalles del barrio.
+* 3:00 Bienvenida - apoyo en instalación de aplicaciones y unión al grupo de WhatsApp.
+* 3:30 Explicar el objetivo de la actividad:
+  * "Mapear en OSM detalles del barrio."
   * Explicar qué es OpenStreetMap.
 * Describir qué se puede agregar.
   * Explicar cómo se definen las direcciones. División del nombre de calle y el número de casa.
 * Preparar la herramienta de trabajo.
   * Crear usuario en OpenStreetMap.
   * Instalar software en el celular Android: StreetComplete. Para iPhone no hay equivalente.
-  * Incluirse en el grupo de WhatsApp.
-* Dividirse el barrio de acuerdo a los participantes.
+  * Incluirse en el grupo de WhatsApp para asistencia durante la actividad.
+* 4:00 Dividirse el barrio de acuerdo a los participantes.
   * Dependiendo de los participantes, seleccionar el modo equipo y escoger un color en la aplicación.
-  * Ir a una zona del barrio respondiendo las preguntas de la aplicación.
+  * Ir a una zona del barrio respondiendo las preguntas de la aplicación. Tiempo 40 minutos.
+* Reportemos nuestra actividad con fotos o videos en redes sociales.
+  * Usa los hashtags: #OpenDataDay #ODD2022 #Bogota
+
+Alcance
+
+* Solo vamos a mapear el barrio Nicolás de Federmán. Los participantes aprenderán a usar la aplicación, y responder preguntas de la aplicación en cualquier otro lugar.
+* Las preguntas de la aplicación son principalmente las relacionadas con las construcciones: edificios o casas. Para esto se mapearon previamente las construcciones gracias a la foto aerea del IDECA.
+* Los datos agregados en la aplicación se incorporarán directamente en OpenStreetMap y cualquier persona podrá hacer uso de ellos. Al mapear en detalle el barrio, las aplicaciones de ruteo podrán encontrar más puntualmente las vivienda del barrio.
+* Las personas que quieran más sobre el mapa y como contribuir, pueden asistir a las reuniones virtuales que se hacen periódicamente.
+
+Logística
+
+* [ ] Diseñar invitación del evento.
+* [ ] Imprimir invitación del evento.
+* [ ] Publicar invitación del evento.
+* [ ] Crear grupo de WhatsApp.
+* [ ] Generar código QR del grupo.
+* [ ] Imprimir código QR.
+* [ ] Crear mini presentación de cómo mapear direcciones y otras preguntas de la aplicación.
+* [ ] Imprimir presentación.
+* [ ] Imprimir logo del evento.
+* [ ] Pegar logo del evento alrededor del punto de encuentro.
+* [ ] Llevar pila y cables: USB y USB-C.
