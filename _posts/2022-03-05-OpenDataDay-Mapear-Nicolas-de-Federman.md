@@ -49,14 +49,15 @@ Alcance
 * Los datos agregados en la aplicación se incorporarán directamente en OpenStreetMap y cualquier persona podrá hacer uso de ellos. Al mapear en detalle el barrio, las aplicaciones de ruteo podrán encontrar más puntualmente las vivienda del barrio.
 * Las personas que quieran más sobre el mapa y como contribuir, pueden asistir a las reuniones virtuales que se hacen periódicamente.
 
-Logística
+Logística del grupo organizador
 
-* [ ] Diseñar invitación del evento.
+* [X] Crear grupo de WhatsApp.
+* [X] Generar código QR del grupo.
+* [X] Diseñar invitación del evento, incluyendo el grupo de WhatsApp.
 * [ ] Imprimir invitación del evento.
 * [ ] Publicar invitación del evento.
-* [ ] Crear grupo de WhatsApp.
-* [ ] Generar código QR del grupo.
-* [ ] Imprimir código QR.
+* [ ] Imprimir código QR para unirse al grupo de WhatsApp.
+* [ ] Imprimir código QR para instalar StreetComplete.
 * [ ] Crear mini presentación de cómo mapear direcciones y otras preguntas de la aplicación.
 * [ ] Imprimir presentación.
 * [ ] Imprimir logo del evento.
