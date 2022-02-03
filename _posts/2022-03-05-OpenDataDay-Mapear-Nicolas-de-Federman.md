@@ -21,7 +21,7 @@ Esto les enseñará a empoderarse de su barrio, de su ciudad, y cómo trabajar e
 Opcionalmente, para los establecimiento vamos a usar MiNegocio: https://maptimebogota.github.io/minegocio/
 En esta página ingresaremos datos puntuales de los comercios.
 
-Si tienes alguna pregunta, puedes unirte al grupo de WhatsApp donde te responderemos: https://chat.whatsapp. com/B88kB0M4bbv6rtBC87KLK8
+Si tienes alguna pregunta, puedes unirte al grupo de WhatsApp donde te responderemos: https://chat.whatsapp.com/B88kB0M4bbv6rtBC87KLK8
 
 * (1) - https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete&hl=es_CO&gl=US
 * (2) - https://opendataday.org/
