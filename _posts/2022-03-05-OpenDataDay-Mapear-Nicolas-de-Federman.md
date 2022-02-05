@@ -59,7 +59,7 @@ Logística del grupo organizador
 * [X] Crear grupo de WhatsApp.
 * [X] Generar código QR del grupo.
 * [X] Diseñar invitación del evento, incluyendo el grupo de WhatsApp.
-* [ ] Imprimir invitación del evento.
+* [X] Imprimir invitación del evento.
 * [ ] Publicar invitación del evento.
 * [ ] Imprimir código QR para unirse al grupo de WhatsApp.
 * [ ] Imprimir código QR para instalar StreetComplete.
