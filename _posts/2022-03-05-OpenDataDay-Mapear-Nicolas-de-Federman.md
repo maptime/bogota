@@ -68,5 +68,5 @@ Logística del grupo organizador
 * [ ] Imprimir logo del evento.
 * [X] Diseñar stickers de OSM, SC y MB.
 * [ ] Imprimir stickers.
-* [ ] Pegar logo del evento alrededor del punto de encuentro.
+* [X] Pegar logo del evento alrededor del punto de encuentro.
 * [ ] Llevar pila y cables: USB y USB-C.
