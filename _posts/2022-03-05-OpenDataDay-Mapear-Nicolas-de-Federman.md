@@ -60,13 +60,13 @@ Logística del grupo organizador
 * [X] Generar código QR del grupo.
 * [X] Diseñar invitación del evento, incluyendo el grupo de WhatsApp.
 * [X] Imprimir invitación del evento.
-* [ ] Publicar invitación del evento.
+* [X] Publicar invitación del evento.
 * [X] Imprimir código QR para unirse al grupo de WhatsApp.
 * [X] Imprimir código QR para instalar StreetComplete.
 * [X] Crear mini presentación de cómo mapear direcciones y otras preguntas de la aplicación.
 * [X] Imprimir presentación.
-* [ ] Imprimir logo del evento.
+* [X] Imprimir logo del evento.
 * [X] Diseñar stickers de OSM, SC y MB.
-* [ ] Imprimir stickers.
+* [X] Imprimir stickers.
 * [X] Pegar logo del evento alrededor del punto de encuentro.
-* [ ] Llevar pila y cables: USB y USB-C.
+* [X] Llevar pila y cables: USB y USB-C.
