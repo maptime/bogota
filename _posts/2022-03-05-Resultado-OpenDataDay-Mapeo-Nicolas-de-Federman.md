@@ -16,7 +16,7 @@ Para poder lograr esto, que StreetComplete generara tantas preguntas, se habìa 
 Igualmente, se arreglaron las calles y se dibujaron los andenes para que estuvieran conectados por cruces.
 Se ajustaron los parques y algunos establecimientos conocidos del barrio.
 
-Este es el mapa de lo trabajado: https://www.openstreetmap.org/#map=17/4.64790/-74.08197
+Este es el mapa de lo trabajado: [https://www.openstreetmap.org/#map=17/4.64790/-74.08197](https://www.openstreetmap.org/#map=17/4.64790/-74.08197)
 
 Por medio de este query en Overpass Turbo se puede descargar todo el barrio, y trabajar en el futuro en JOSM:
 
@@ -32,5 +32,5 @@ Por medio de este query en Overpass Turbo se puede descargar todo el barrio, y t
 
 Redes sociales
 
-* https://www.instagram.com/p/Cav-FvjOs6N/
-* https://twitter.com/MaptimeBogota/status/1500336861524500481?s=20&t=rlYJ79hlaE1izdMNlOYehQ
+* [instagram](https://www.instagram.com/p/Cav-FvjOs6N/)
+* [twitter](https://twitter.com/MaptimeBogota/status/1500336861524500481?s=20&t=rlYJ79hlaE1izdMNlOYehQ)
