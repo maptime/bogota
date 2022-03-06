@@ -30,3 +30,7 @@ Por medio de este query en Overpass Turbo se puede descargar todo el barrio, y t
    ); out meta;
 ```
 
+Redes sociales
+
+* https://www.instagram.com/p/Cav-FvjOs6N/
+* https://twitter.com/MaptimeBogota/status/1500336861524500481?s=20&t=rlYJ79hlaE1izdMNlOYehQ
