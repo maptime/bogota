@@ -55,6 +55,7 @@ author: Andres Gomez
 * Bing OSM - https://www.bing.com/maps?osid=a5de04cb-a96d-4878-9a9a-9fce4c6095e7&cp=4.627493~-74.089655&lvl=12&v=2&sV=2&form=S00027
 * Visor de QA de Nominatim - https://nominatim.org/qa/#map=11.59/4.65/-74.05&layer=addr_street_wrong_name
 * Infraestructura - https://openinframap.org/#11.38/4.6467/-74.0837/L,O,P,S,T,W
+* Avatars sobre edificios - https://yuiseki.github.io/osm-address-editor-vite/#16.27/4.653732/-74.083798
 
 # Calidad
 
