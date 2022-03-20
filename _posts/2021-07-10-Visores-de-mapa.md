@@ -61,3 +61,7 @@ author: Andres Gomez
 
 * http://osmose.openstreetmap.fr/en/map/#zoom=13&lat=4.6496&lon=-74.08968&item=xxxx&level=1%2C2%2C3&fixable=josm
 * https://keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713
+
+# Juegos
+
+https://backofyourhand.com/4.65347,-74.08501
