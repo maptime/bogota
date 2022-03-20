@@ -4,6 +4,8 @@ title: Visores de mapa
 author: Andres Gomez
 ---
 
+Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
+
 * https://www.mapcontrib.xyz/
   * Mapa de desfibriladores https://www.mapcontrib.xyz/t/14710b-Les_defibrillateurs#position/14/4.65305117955817/-74.07772131264211
   * Hidrantes https://www.mapcontrib.xyz/t/s8c2d9-Les_bornes_a_incendie#position/14/4.648130492600328/-74.07746214419605
@@ -69,3 +71,4 @@ author: Andres Gomez
 # Editores
 
 * https://osmapp.org/relation/7426387#10.58/4.6522/-74.2114
+* https://osmybiz.osm.ch/#/14/4.64940/-74.08592
