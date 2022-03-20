@@ -64,4 +64,8 @@ author: Andres Gomez
 
 # Juegos
 
-https://backofyourhand.com/4.65347,-74.08501
+* https://backofyourhand.com/4.65347,-74.08501
+
+# Editores
+
+* https://osmapp.org/relation/7426387#10.58/4.6522/-74.2114
