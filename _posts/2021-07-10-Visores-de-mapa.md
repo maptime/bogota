@@ -68,6 +68,10 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 * https://backofyourhand.com/4.65347,-74.08501
 
+# Visores
+
+* Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
+
 # Editores
 
 * https://osmapp.org/relation/7426387#10.58/4.6522/-74.2114
