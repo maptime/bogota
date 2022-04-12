@@ -63,6 +63,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 * http://osmose.openstreetmap.fr/en/map/#zoom=13&lat=4.6496&lon=-74.08968&item=xxxx&level=1%2C2%2C3&fixable=josm
 * https://keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713
+* https://mapmetrics-world.innovation.tomtom-global.com/#?mapSource=OSM&metric=average&z=14&lat=4.651487&lon=-74.08748100000003&ds=OSM202202&ds2=None&mapSource2=SAT
 
 # Juegos
 
