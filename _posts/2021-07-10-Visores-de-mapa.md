@@ -74,6 +74,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
 * Servicios de cercanía - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
 * Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
+* Clasificación de áreas - https://hoodmaps.com/bogota
 
 # Editores
 
