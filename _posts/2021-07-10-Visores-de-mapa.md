@@ -75,6 +75,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Servicios de cercanía - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
 * Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
 * Clasificación de áreas - https://hoodmaps.com/bogota
+* POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 
 # Editores
 
