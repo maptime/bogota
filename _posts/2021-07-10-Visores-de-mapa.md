@@ -83,3 +83,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 * https://osmapp.org/relation/7426387#10.58/4.6522/-74.2114
 * https://osmybiz.osm.ch/#/14/4.64940/-74.08592
+
+# Estadísticas
+
+* https://osm-monitor.com/
