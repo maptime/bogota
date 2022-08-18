@@ -78,6 +78,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 * Monumentos - http://www.historic.place/themes/monuments/map.html?zoom=12&lat=4.62615&lon=-74.0616&layers=BTT
 * Rutas y nivels - https://brouter.de/brouter-web/#map=14/4.6462/-74.0818/standard,route-quality&lonlats=-74.08374,4.676175;-74.08374,4.676175;-74.061824,4.659401;-74.066727,4.632699;-74.063543,4.623541;-74.04898,4.650415;-74.010412,4.662996;-74.058642,4.678743;-74.078499,4.642798&pois=-74.077558,4.649217,Estadio&nogos=-74.064497,4.644097,377
+* Densidad de nodos - https://tyrasd.github.io/osm-node-density/#6/4.353/-74.153/2021,places
 
 # Editores
 
