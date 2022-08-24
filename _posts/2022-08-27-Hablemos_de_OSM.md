@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Hablemos de OpenStreetMap
-rsvp: [https://www.meetup.com/maptime-bogota-colombia-osm/events/283295807](https://www.meetup.com/maptime-bogota-colombia-osm/events/286232973/)
+rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/288028463/
 ---
 
 Esta es una reunión informal para hablar de OpenStreetMap-OSM.
