@@ -38,39 +38,12 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
   * Canchas https://mapcomplete.osm.be/sport_pitches.html?z=15&lat=4.654357&lon=-74.0836
   * Cámaras de vigilancia https://mapcomplete.osm.be/surveillance.html?z=14&lat=4.656582&lon=-74.0803
   * Árboles https://mapcomplete.osm.be/trees.html?z=15&lat=4.652873&lon=-74.0833
-* Open Level UP (Catedral Primada) https://openlevelup.net/?l=0#14/4.6508/-74.0806
-* Estadísticas de mapeo https://streetcompleteness.haukauntrie.de/
-* Actividad de usuarios https://resultmaps.neis-one.org/oooc?zoom=12&lat=4.64937&lon=-74.08291&layers=B0TFFFFFT
-* Rutas sin nombre, o elementos sin dirección http://qa.poole.ch/?zoom=13&lat=4.6507&lon=-74.07256&layers=FFTFB0
-* OSMBuildings https://osmbuildings.org/?lat=4.65333&lon=-74.08365&zoom=16.0&tilt=36&rotation=34
-* F4 demo https://demo.f4map.com/#lat=4.6527057&lon=-74.0886429&zoom=16
-* mapy.cz https://en.mapy.cz/turisticka?vlastni-body&x=-74.0841067&y=4.6532824&z=17&m3d=1&height=1020&yaw=0&pitch=-45&uc=
-* Who's around me https://wiki.openstreetmap.org/wiki/ES:Notas
-* Calcular ruta en diversos medios - https://brouter.damsy.net/latest/#map=15/4.6531/-74.0810/standard,route-quality&lonlats=-74.099865,4.659282;-74.087076,4.656587;-74.062057,4.650001&ringgo=-74.062314,4.679682,&profile=car-fast
-* Offsets de las imagenes satelitales - http://offsets.textual.ru/map#zoom=11&lat=4.653&lon=-74.0829
-* Comparación de proveedores de mapas - http://tools.geofabrik.de/mc/#17/4.6534/-74.0835&num=4&mt0=mapnik&mt1=google-map&mt2=hike_bike&mt3=here-map
-* Límites administrativos y códigos postales - https://osm-boundaries.com/Map
-* Offsets de imageries - http://offsets.textual.ru/map#zoom=11&lat=4.6038&lon=-74.132
-* Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
-* 3d indoor https://app.openindoor.io/#12.37/4.65919/-74.08985/0/40
-* 3d indoor https://indoorequal.org/#map=13.29/4.64765/-74.08031/7.2/60&level=0
-* Bing OSM - https://www.bing.com/maps?osid=a5de04cb-a96d-4878-9a9a-9fce4c6095e7&cp=4.627493~-74.089655&lvl=12&v=2&sV=2&form=S00027
-* Visor de QA de Nominatim - https://nominatim.org/qa/#map=11.59/4.65/-74.05&layer=addr_street_wrong_name
-* Infraestructura - https://openinframap.org/#11.38/4.6467/-74.0837/L,O,P,S,T,W
-* Avatars sobre edificios - https://yuiseki.github.io/osm-address-editor-vite/#16.27/4.653732/-74.083798
-
-# Calidad
-
-* http://osmose.openstreetmap.fr/en/map/#zoom=13&lat=4.6496&lon=-74.08968&item=xxxx&level=1%2C2%2C3&fixable=josm
-* https://keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713
-* https://mapmetrics-world.innovation.tomtom-global.com/#?mapSource=OSM&metric=average&z=14&lat=4.651487&lon=-74.08748100000003&ds=OSM202202&ds2=None&mapSource2=SAT
-
-# Juegos
-
-* https://backofyourhand.com/4.65347,-74.08501
 
 # Visores
 
+## De mapa
+
+* Bing OSM - https://www.bing.com/maps?osid=a5de04cb-a96d-4878-9a9a-9fce4c6095e7&cp=4.627493~-74.089655&lvl=12&v=2&sV=2&form=S00027
 * Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
 * Servicios de cercanía - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
 * Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
@@ -78,14 +51,55 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 * Monumentos - http://www.historic.place/themes/monuments/map.html?zoom=12&lat=4.62615&lon=-74.0616&layers=BTT
 * Rutas y nivels - https://brouter.de/brouter-web/#map=14/4.6462/-74.0818/standard,route-quality&lonlats=-74.08374,4.676175;-74.08374,4.676175;-74.061824,4.659401;-74.066727,4.632699;-74.063543,4.623541;-74.04898,4.650415;-74.010412,4.662996;-74.058642,4.678743;-74.078499,4.642798&pois=-74.077558,4.649217,Estadio&nogos=-74.064497,4.644097,377
-* Densidad de nodos - https://tyrasd.github.io/osm-node-density/#6/4.353/-74.153/2021,places
 * Parqueaderos - https://zlant.github.io/parking-lanes/#15/4.6507/-74.0754
+* Límites administrativos y códigos postales - https://osm-boundaries.com/Map·
+* Infraestructura - https://openinframap.org/#11.38/4.6467/-74.0837/L,O,P,S,T,W
+
+## Buscadores 
+
+* Calcular ruta en diversos medios - https://brouter.damsy.net/latest/#map=15/4.6531/-74.0810/standard,route-quality&lonlats=-74.099865,4.659282;-74.087076,4.656587;-74.062057,4.650001&ringgo=-74.062314,4.679682,&profile=car-fast
+* Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
+
+## De datos relativos a OSM
+
+* Comparación de proveedores de mapas - http://tools.geofabrik.de/mc/#17/4.6534/-74.0835&num=4&mt0=mapnik&mt1=google-map&mt2=hike_bike&mt3=here-map
+* Densidad de nodos - https://tyrasd.github.io/osm-node-density/#6/4.353/-74.153/2021,places
+* Who's around me [https://wiki.openstreetmap.org/wiki/ES:Notas](http://resultmaps.neis-one.org/oooc?zoom=13&lat=4.65521&lon=-74.06823&layers=B0TFFFFFT)
+* Offsets de las imagenes satelitales - http://offsets.textual.ru/map#zoom=11&lat=4.653&lon=-74.0829
+
+## 3d e interno
+
+* 3d indoor https://app.openindoor.io/#12.37/4.65919/-74.08985/0/40
+* 3d indoor https://indoorequal.org/#map=13.29/4.64765/-74.08031/7.2/60&level=0
+* Open Level UP (Catedral Primada) https://openlevelup.net/?l=0#14/4.6508/-74.0806
+* OSMBuildings https://osmbuildings.org/?lat=4.65333&lon=-74.08365&zoom=16.0&tilt=36&rotation=34
+* F4 demo https://demo.f4map.com/#lat=4.6527057&lon=-74.0886429&zoom=16
+* mapy.cz https://en.mapy.cz/turisticka?vlastni-body&x=-74.0841067&y=4.6532824&z=17&m3d=1&height=1020&yaw=0&pitch=-45&uc=
+
+# Calidad
+
+* http://osmose.openstreetmap.fr/en/map/#zoom=13&lat=4.6496&lon=-74.08968&item=xxxx&level=1%2C2%2C3&fixable=josm
+* https://keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713
+* https://mapmetrics-world.innovation.tomtom-global.com/#?mapSource=OSM&metric=average&z=14&lat=4.651487&lon=-74.08748100000003&ds=OSM202202&ds2=None&mapSource2=SAT
+* Rutas sin nombre, o elementos sin dirección http://qa.poole.ch/?zoom=13&lat=4.6507&lon=-74.07256&layers=FFTFB0
+* Visor de QA de Nominatim - https://nominatim.org/qa/#map=11.59/4.65/-74.05&layer=addr_street_wrong_name
 
 # Editores
 
 * https://osmapp.org/relation/7426387#10.58/4.6522/-74.2114
 * https://osmybiz.osm.ch/#/14/4.64940/-74.08592
+* Editor de indoor - https://osminedit.pavie.info/
+* De techos - http://www.roofmapper.eu/ (Solo Francia)
+* Editor de POIs cercanos - https://poism.dev.openstreetmap.us/
+* Editor de direcciones (Avatars sobre edificios, no puede editar en Colombia) - https://yuiseki.github.io/osm-address-editor-vite/#16.27/4.653732/-74.083798
 
 # Estadísticas
 
+* Estadísticas de mapeo https://streetcompleteness.haukauntrie.de/
 * https://osm-monitor.com/
+* Actividad de usuarios https://resultmaps.neis-one.org/oooc?zoom=12&lat=4.64937&lon=-74.08291&layers=B0TFFFFFT
+
+# Juegos
+
+* https://backofyourhand.com/4.65347,-74.08501
+
