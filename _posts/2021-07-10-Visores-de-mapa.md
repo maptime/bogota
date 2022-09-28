@@ -44,21 +44,20 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 ## De mapa
 
 * Bing OSM - https://www.bing.com/maps?osid=a5de04cb-a96d-4878-9a9a-9fce4c6095e7&cp=4.627493~-74.089655&lvl=12&v=2&sV=2&form=S00027
-* Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
-* Servicios de cercanía - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
-* Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
 * Clasificación de áreas - https://hoodmaps.com/bogota
-* POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 * Monumentos - http://www.historic.place/themes/monuments/map.html?zoom=12&lat=4.62615&lon=-74.0616&layers=BTT
-* Rutas y nivels - https://brouter.de/brouter-web/#map=14/4.6462/-74.0818/standard,route-quality&lonlats=-74.08374,4.676175;-74.08374,4.676175;-74.061824,4.659401;-74.066727,4.632699;-74.063543,4.623541;-74.04898,4.650415;-74.010412,4.662996;-74.058642,4.678743;-74.078499,4.642798&pois=-74.077558,4.649217,Estadio&nogos=-74.064497,4.644097,377
 * Parqueaderos - https://zlant.github.io/parking-lanes/#15/4.6507/-74.0754
-* Límites administrativos y códigos postales - https://osm-boundaries.com/Map·
+* Límites administrativos y códigos postales - https://osm-boundaries.com/Map
 * Infraestructura - https://openinframap.org/#11.38/4.6467/-74.0837/L,O,P,S,T,W
 
 ## Buscadores 
 
+* Rutas y nivels - https://brouter.de/brouter-web/#map=14/4.6462/-74.0818/standard,route-quality&lonlats=-74.08374,4.676175;-74.08374,4.676175;-74.061824,4.659401;-74.066727,4.632699;-74.063543,4.623541;-74.04898,4.650415;-74.010412,4.662996;-74.058642,4.678743;-74.078499,4.642798&pois=-74.077558,4.649217,Estadio&nogos=-74.064497,4.644097,377
 * Calcular ruta en diversos medios - https://brouter.damsy.net/latest/#map=15/4.6531/-74.0810/standard,route-quality&lonlats=-74.099865,4.659282;-74.087076,4.656587;-74.062057,4.650001&ringgo=-74.062314,4.679682,&profile=car-fast
 * Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
+* Servicios de cercanía - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
+* Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
+* POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 
 ## De datos relativos a OSM
 
@@ -83,6 +82,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * https://mapmetrics-world.innovation.tomtom-global.com/#?mapSource=OSM&metric=average&z=14&lat=4.651487&lon=-74.08748100000003&ds=OSM202202&ds2=None&mapSource2=SAT
 * Rutas sin nombre, o elementos sin dirección http://qa.poole.ch/?zoom=13&lat=4.6507&lon=-74.07256&layers=FFTFB0
 * Visor de QA de Nominatim - https://nominatim.org/qa/#map=11.59/4.65/-74.05&layer=addr_street_wrong_name
+* Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
 
 # Editores
 
