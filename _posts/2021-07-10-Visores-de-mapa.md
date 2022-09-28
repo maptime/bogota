@@ -77,27 +77,26 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 # Calidad
 
-* http://osmose.openstreetmap.fr/en/map/#zoom=13&lat=4.6496&lon=-74.08968&item=xxxx&level=1%2C2%2C3&fixable=josm
-* https://keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713
-* https://mapmetrics-world.innovation.tomtom-global.com/#?mapSource=OSM&metric=average&z=14&lat=4.651487&lon=-74.08748100000003&ds=OSM202202&ds2=None&mapSource2=SAT
+* OSMmose - http://osmose.openstreetmap.fr/en/map/#zoom=13&lat=4.6496&lon=-74.08968&item=xxxx&level=1%2C2%2C3&fixable=josm
+* KeepRight - [https://keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713](https://keepright.at/report_map.php?zoom=14&lat=4.65495&lon=-74.07969&layers=B0T&ch=0%2C30%2C40%2C50%2C70%2C90%2C100%2C110%2C120%2C130%2C150%2C160%2C170%2C180%2C191%2C192%2C193%2C194%2C195%2C196%2C197%2C198%2C201%2C202%2C203%2C204%2C205%2C206%2C207%2C208%2C210%2C220%2C231%2C232%2C270%2C281%2C282%2C283%2C284%2C285%2C291%2C292%2C293%2C294%2C295%2C296%2C297%2C298%2C311%2C312%2C313%2C320%2C350%2C370%2C380%2C401%2C402&show_ign=1&show_tmpign=1)
+* Vías de TomTom - [https://mapmetrics-world.innovation.tomtom-global.com/#?](https://mapmetrics-world.innovation.tomtom-global.com/#?mapSource=OSM&metric=median_count&z=14&lat=4.649451&lon=-74.084293&ds=OSM202207&ds2=None&mapSource2=OSM)mapSource=OSM&metric=average&z=14&lat=4.651487&lon=-74.08748100000003&ds=OSM202202&ds2=None&mapSource2=SAT
 * Rutas sin nombre, o elementos sin dirección http://qa.poole.ch/?zoom=13&lat=4.6507&lon=-74.07256&layers=FFTFB0
 * Visor de QA de Nominatim - https://nominatim.org/qa/#map=11.59/4.65/-74.05&layer=addr_street_wrong_name
 * Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
 
 # Editores
 
-* https://osmapp.org/relation/7426387#10.58/4.6522/-74.2114
+* Editor de etiquetas, en POIs - https://osmapp.org/relation/7426387#10.58/4.6522/-74.2114
 * https://osmybiz.osm.ch/#/14/4.64940/-74.08592
 * Editor de indoor - https://osminedit.pavie.info/
-* De techos - http://www.roofmapper.eu/ (Solo Francia)
 * Editor de POIs cercanos - https://poism.dev.openstreetmap.us/
 * Editor de direcciones (Avatars sobre edificios, no puede editar en Colombia) - https://yuiseki.github.io/osm-address-editor-vite/#16.27/4.653732/-74.083798
 
 # Estadísticas
 
-* Estadísticas de mapeo https://streetcompleteness.haukauntrie.de/
-* https://osm-monitor.com/
-* Actividad de usuarios https://resultmaps.neis-one.org/oooc?zoom=12&lat=4.64937&lon=-74.08291&layers=B0TFFFFFT
+* Estadísticas de mapeo - https://streetcompleteness.haukauntrie.de/
+* Usuarios, apps, por país - https://osm-monitor.com/
+* Actividad cercana de usuarios - https://resultmaps.neis-one.org/oooc?zoom=12&lat=4.64937&lon=-74.08291&layers=B0TFFFFFT
 
 # Juegos
 
