@@ -49,6 +49,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Parqueaderos - https://zlant.github.io/parking-lanes/#15/4.6507/-74.0754
 * Límites administrativos y códigos postales - https://osm-boundaries.com/Map
 * Infraestructura - https://openinframap.org/#11.38/4.6467/-74.0837/L,O,P,S,T,W
+* Lord of the rings style - https://labs.maptiler.com/showcase/lotrmap/#10.91/4.6368/-74.0816/12.4/24
 
 ## Buscadores 
 
