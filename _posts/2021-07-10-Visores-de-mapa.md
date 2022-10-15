@@ -50,6 +50,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Límites administrativos y códigos postales - https://osm-boundaries.com/Map
 * Infraestructura - https://openinframap.org/#11.38/4.6467/-74.0837/L,O,P,S,T,W
 * Lord of the rings style - https://labs.maptiler.com/showcase/lotrmap/#10.91/4.6368/-74.0816/12.4/24
+* Luces - http://osmstreetlight.bplaced.net/#15/4.6564/-74.0801
 
 ## Buscadores 
 
