@@ -52,6 +52,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Lord of the rings style - https://labs.maptiler.com/showcase/lotrmap/#10.91/4.6368/-74.0816/12.4/24
 * Luces - http://osmstreetlight.bplaced.net/#15/4.6564/-74.0801
 * Hidrantes - https://www.osmhydrant.org/en/#zoom=14&lat=4.65393&lon=-74.0788
+* Accesibilidad - https://www.cityaccessmap.com/
 
 ## Buscadores 
 
