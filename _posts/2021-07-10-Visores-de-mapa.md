@@ -53,6 +53,8 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Luces - http://osmstreetlight.bplaced.net/#15/4.6564/-74.0801
 * Hidrantes - https://www.osmhydrant.org/en/#zoom=14&lat=4.65393&lon=-74.0788
 * Accesibilidad - https://www.cityaccessmap.com/
+* Restricciones de giro - https://morbz.github.io/restriction-validator/#15/4.64906/-74.08351
+* Restricciones de giro - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65414&lon=-74.08236&layer=Grayscale&overlays=TTT
 
 ## Buscadores 
 
