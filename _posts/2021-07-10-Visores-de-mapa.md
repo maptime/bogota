@@ -74,12 +74,13 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 ## 3d e interno
 
-* 3d indoor https://app.openindoor.io/#12.37/4.65919/-74.08985/0/40
-* 3d indoor https://indoorequal.org/#map=13.29/4.64765/-74.08031/7.2/60&level=0
-* Open Level UP (Catedral Primada) https://openlevelup.net/?l=0#14/4.6508/-74.0806
-* OSMBuildings https://osmbuildings.org/?lat=4.65333&lon=-74.08365&zoom=16.0&tilt=36&rotation=34
-* F4 demo https://demo.f4map.com/#lat=4.6527057&lon=-74.0886429&zoom=16
-* mapy.cz https://en.mapy.cz/turisticka?vlastni-body&x=-74.0841067&y=4.6532824&z=17&m3d=1&height=1020&yaw=0&pitch=-45&uc=
+* 3d indoor - https://app.openindoor.io/#12.37/4.65919/-74.08985/0/40
+* 3d indoor - https://indoorequal.org/#map=13.29/4.64765/-74.08031/7.2/60&level=0
+* Open Level UP (Catedral Primada) - https://openlevelup.net/?l=0#14/4.6508/-74.0806
+* OSMBuildings - https://osmbuildings.org/?lat=4.65333&lon=-74.08365&zoom=16.0&tilt=36&rotation=34
+* F4 demo - https://demo.f4map.com/#lat=4.6527057&lon=-74.0886429&zoom=16
+* mapy.cz - https://en.mapy.cz/turisticka?vlastni-body&x=-74.0841067&y=4.6532824&z=17&m3d=1&height=1020&yaw=0&pitch=-45&uc=
+* OpenStationMap - https://www.openstationmap.org/#16.29/4.598169/-74.077015/41.2/42
 
 # Calidad
 
