@@ -56,6 +56,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Restricciones de giro - https://morbz.github.io/restriction-validator/#15/4.64906/-74.08351
 * Restricciones de giro - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65414&lon=-74.08236&layer=Grayscale&overlays=TTT
 * Reanimadores - https://openaedmap.org/#map=12/4.65383/-74.08878
+* Visor en Español (idioma del computador) - https://zelonewolf.github.io/openstreetmap-americana/#map=11.7/4.6467/-74.0909
 
 ## Buscadores 
 
