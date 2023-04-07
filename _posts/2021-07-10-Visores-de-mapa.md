@@ -38,6 +38,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
   * Canchas https://mapcomplete.osm.be/sport_pitches.html?z=15&lat=4.654357&lon=-74.0836
   * Cámaras de vigilancia https://mapcomplete.osm.be/surveillance.html?z=14&lat=4.656582&lon=-74.0803
   * Árboles https://mapcomplete.osm.be/trees.html?z=15&lat=4.652873&lon=-74.0833
+  * Ríos y quebradas https://amandasaurus.github.io/osm-river-basins/?tiles=planet-waterway-name-no-group#map=10.25/4.6056/-74.0883
 
 # Visores
 
