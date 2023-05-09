@@ -2,8 +2,7 @@
 layout: event
 category: event
 title: Meetup para mapear Mosquera
-rsvp: [https://www.meetup.com/Maptime-Colombia-OSM/events/236927128/](https://www.meetup.com/maptime-bogota-colombia-osm/events/293432063
-)
+rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/293432063
 ---
 
 ¡Volvemos a organizar eventos presenciales!
