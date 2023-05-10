@@ -29,7 +29,7 @@ Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (
 ## Pre-Evento 1:
 
 - [X] Definir el punto de encuentro a las 9.
-- [X] Preparar el atlas de field papers - https://fieldpapers.org/atlases/3tzhyx33/i
+- [X] Preparar el atlas de field papers - [https://fieldpapers.org/atlases/3tzhyx33/i](https://fieldpapers.org/atlases/3tzhyx33/i)
 - [ ] Imprimir el atlas.
 - [ ] Preparar un pequeño papel para invitar a las personas (discutirlo).
 
@@ -47,7 +47,7 @@ Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (
 
 - [ ] Subir las fotos a Mapillary.
 - [ ] (Opcional) Subir las fotos a otros portales.
-- [ ] Escanear y subir los atlas a GitHub - https://github.com/MaptimeBogota/Varios
+- [ ] Escanear y subir los atlas a GitHub - [https://github.com/MaptimeBogota/Varios](https://github.com/MaptimeBogota/Varios)
 - [ ] Subir las trazas GPX a OpenStreetMap.
 
 -----
@@ -102,8 +102,9 @@ Este incluye el taller en la Universidad Nacional, y las actividades para prepar
 - [ ] Crear una imagen para este evento.
 - [ ] Compartir la imagen en redes sociales sobre este evento.
 - [ ] Crear el evento en OSM cal.
-- [ ] Invitar en redes sociales, inclusive Latam.o
+- [ ] Invitar en redes sociales, inclusive Latam.
 - [ ] Definir un mecanismo de comunicación en tiempo real entre las personas en terreno y los arm-chair mappers.
+- [X] Definir el mecanismo de encuentro: h[ttps://osmvideo.cloud68.co/user/and-hrh-m5a-trl](https://osmvideo.cloud68.co/user/and-hrh-m5a-trl)
 
 ## Evento 3 - online:
 
