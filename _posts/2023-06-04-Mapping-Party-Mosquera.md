@@ -22,7 +22,7 @@ Este es el tercer evento de un proyecto de mejora del mapa de la zona central de
 El primer evento es una visita en terreno por los organizadores, donde tomarán fotos para Mapillary y otras plataformas, harán vuelo en dron, y revisarán los datos existentes.
 El segundo evento se hará en la Universidad Nacional, el día 30 de Mayo a las 2:00 pm para mapear los datos recolectados: https://www.instagram.com/p/CsAS6OYIWvu/
 
-Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (+57 316 621 40 32, [Twitter](http://twitter.com/angoca) [Telegram](t.me/angoca)).
+Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (+57 316 6214032), [Twitter](http://twitter.com/angoca) [Telegram](t.me/angoca)).
 
 -----
 
@@ -36,20 +36,22 @@ Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (
 ## Evento 1:
 
 - [ ] Activar la captura de trazas GPX con todos los celulares.
-- [ ] Recorrer el centro y la zona alreadedor del El Trébol tomando fotos para Mapillary (carro, bici y/o patineta).
-- [ ] Poner un banner en los carros para promocionar el evento 3.
+- [ ] Poner un banner en el/los carro(s) para promocionar el evento 3.
 - [ ] Entregar un pequeño papel invitando a las personas al evento (discutirlo).
-- [ ] Hacer vuelo en dron de la zona de interés, a lo largo de las calles.
-- [ ] Identificar cosas faltantes en el mapa (señales, sentidos de vías, hidrantes, árboles).
-- [ ] Definir cómo va a ser el mapeo de la zona con los participantes. ¿qué caminos van a tomar? ¿cómo se van a dividir? Procupar evitar responder la misma pregunta y generar conflictos en OSM.
+- [ ] Identificar cosas faltantes en el mapa (señales, sentidos de vías, hidrantes, árboles, barreras, sardineles), para después mapearlos con las imágenes de Mapillary
 - [ ] Tomar GoundPoints para aliear imagenes.
+- [ ] Hacer vuelo en dron de la zona de interés, a lo largo de las calles.
+- [ ] Recorrer el centro y la zona alreadedor del El Trébol tomando fotos para Mapillary (carro, bici y/o patineta).
+- [ ] Definir cómo va a ser el mapeo de la zona con los participantes. ¿qué caminos van a tomar los participantes? ¿cómo se van a dividir las tareas? Procupar evitar responder la misma pregunta y generar conflictos en OSM.
+- [ ] Verificar qué elementos se preguntan en las aplicaciones de mapeo (StreetComplete / Everydoor).
 
 ## Post-Evento 1:
 
 - [ ] Subir las fotos a Mapillary.
-- [ ] (Opcional) Subir las fotos a otros portales.
+- [ ] (Opcional) Subir las fotos a otros portales - KartaView, Mapilio.
 - [ ] Escanear y subir los atlas a GitHub - [https://github.com/MaptimeBogota/Varios](https://github.com/MaptimeBogota/Varios)
 - [ ] Subir las trazas GPX a OpenStreetMap.
+- [ ] Generar una ortofoto con OpenDroneMap (usar los ground points para mejorar la precisión) y subir la imagen TIF a OpenAerialMap.
 
 -----
 
@@ -58,9 +60,11 @@ Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (
 Este incluye el taller en la Universidad Nacional, y las actividades para preparar el terreno para el evento 3.
 
 - [ ] Mapear las construcciones del área usando la ortofoto.
-- [ ] Identificar elementos por medio de Mapillary y mapearlos.
+- [ ] Mapear los establecimientos.
+- [ ] Identificar elementos por medio de Mapillary y mapearlos (Los identificados en el evento 1).
 - [ ] Alinear las vías.
 - [ ] Identificar los elementos a mapear por medio de FieldPapers.
+- [ ] Revisar los elementos de calidad del mapa, y corregir los errores: JOSM validator, Osmose, KeepRight, etc.
 
 -----
 
@@ -88,9 +92,9 @@ Preparación para crear notas en terreno:
 - [ ] Explicar a los participantes cómo crear la cuenta de OSM.
 - [ ] Explicar cómo instalar StreetComplete.
 - [ ] Explicar cómo configurar la cuenta de OSM en StreetComplete.
-- [ ] Explicar cómo resolver preguntas.
-- [ ] Invitar a las personas que se unan a un chat, para coordinar el mapeo.
-- [ ] Si hay muchos participantes, escoger mapeo en grupo (colores).
+- [ ] Explicar cómo resolver preguntas de StreetComplete.
+- [ ] Invitar a las personas que se unan a un chat de Telegram, para coordinar el mapeo.
+- [ ] Si hay muchos participantes, escoger mapeo en grupo (colores). No es lo recomendable lo de colores, sino que mapeen solo la acera en la que están, pero si no se puede tomar lo de colores.
 - [ ] Indicar el camino que deben tomar los participantes, para que no respondan preguntas de otras zonas.
 
 Captura de notas en terreno:
