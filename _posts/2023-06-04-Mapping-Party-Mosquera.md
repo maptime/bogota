@@ -76,6 +76,7 @@ Este incluye el taller en la Universidad Nacional, y las actividades para prepar
 - [ ] Pegar el afiche en lugares importantes en Mosquera.
 - [ ] Haber mapeado todos los edificios de la zona por tardar el viernes.
 
+Preparación para crear notas en terreno:
 - [ ] Crear cuenta en el fediverso de Mastodon OSM (en.osm.town)
 - [ ] Instalar fediphoto.
 - [ ] Configurar fediphoto con la cuenta de Mastodon OSM.
@@ -91,6 +92,7 @@ Este incluye el taller en la Universidad Nacional, y las actividades para prepar
 - [ ] Si hay muchos participantes, escoger mapeo en grupo (colores).
 - [ ] Indicar el camino que deben tomar los participantes, para que no respondan preguntas de otras zonas.
 
+Captura de notas en terreno:
 - [ ] Tomar notas en terreno. Puede usarse Fediphoto.
 - [ ] Responder las preguntas que haga el equipo online.
 
