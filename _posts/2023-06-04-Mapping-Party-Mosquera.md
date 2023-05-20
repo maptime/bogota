@@ -42,6 +42,7 @@ Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (
 - [ ] Hacer vuelo en dron de la zona de interés, a lo largo de las calles.
 - [ ] Identificar cosas faltantes en el mapa (señales, sentidos de vías, hidrantes, árboles).
 - [ ] Definir cómo va a ser el mapeo de la zona con los participantes. ¿qué caminos van a tomar? ¿cómo se van a dividir? Procupar evitar responder la misma pregunta y generar conflictos en OSM.
+- [ ] Tomar GoundPoints para aliear imagenes.
 
 ## Post-Evento 1:
 
