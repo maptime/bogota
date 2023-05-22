@@ -20,7 +20,7 @@ Esta información se agregará principalmente por StreetComplete.
 
 Este es el tercer evento de un proyecto de mejora del mapa de la zona central de Mosquera.
 El primer evento es una visita en terreno por los organizadores, donde tomarán fotos para Mapillary y otras plataformas, harán vuelo en dron, y revisarán los datos existentes.
-El segundo evento se hará en la Universidad Nacional, el día 30 de Mayo a las 2:00 pm para mapear los datos recolectados: https://www.instagram.com/p/CsAS6OYIWvu/
+El segundo evento se hará en la Universidad Nacional, el día 30 de Mayo a las 2:00 pm para mapear los datos recolectados: [https://www.instagram.com/p/CsAS6OYIWvu/](https://www.instagram.com/p/CsAS6OYIWvu/)
 
 Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (+57 316 6214032), [Twitter](http://twitter.com/angoca) [Telegram](t.me/angoca)).
 
@@ -39,7 +39,7 @@ Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (
 - [ ] Poner un banner en el/los carro(s) para promocionar el evento 3.
 - [ ] Entregar un pequeño papel invitando a las personas al evento (discutirlo).
 - [ ] Identificar cosas faltantes en el mapa (señales, sentidos de vías, hidrantes, árboles, barreras, sardineles), para después mapearlos con las imágenes de Mapillary
-- [ ] Tomar GoundPoints para aliear imagenes.
+- [ ] Tomar GoundPoints para alinear imagenes.
 - [ ] Hacer vuelo en dron de la zona de interés, a lo largo de las calles.
 - [ ] Recorrer el centro y la zona alreadedor del El Trébol tomando fotos para Mapillary (carro, bici y/o patineta).
 - [ ] Definir cómo va a ser el mapeo de la zona con los participantes. ¿qué caminos van a tomar los participantes? ¿cómo se van a dividir las tareas? Procupar evitar responder la misma pregunta y generar conflictos en OSM.
