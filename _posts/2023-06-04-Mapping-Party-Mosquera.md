@@ -30,28 +30,28 @@ Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (
 
 - [X] Definir el punto de encuentro a las 9.
 - [X] Preparar el atlas de field papers - [https://fieldpapers.org/atlases/3tzhyx33/i](https://fieldpapers.org/atlases/3tzhyx33/i)
-- [ ] Imprimir el atlas.
-- [ ] Preparar un pequeño papel para invitar a las personas (discutirlo).
+- [X] Imprimir el atlas.
+- [X] Preparar un pequeño papel para invitar a las personas (discutirlo).
 
 ## Evento 1:
 
-- [ ] Activar la captura de trazas GPX con todos los celulares.
+- [X] Activar la captura de trazas GPX con todos los celulares.
 - [ ] Poner un banner en el/los carro(s) para promocionar el evento 3.
 - [ ] Entregar un pequeño papel invitando a las personas al evento (discutirlo).
-- [ ] Identificar cosas faltantes en el mapa (señales, sentidos de vías, hidrantes, árboles, barreras, sardineles), para después mapearlos con las imágenes de Mapillary
-- [ ] Tomar GoundPoints para alinear imagenes.
-- [ ] Hacer vuelo en dron de la zona de interés, a lo largo de las calles.
-- [ ] Recorrer el centro y la zona alreadedor del El Trébol tomando fotos para Mapillary (carro, bici y/o patineta).
+- [X] Identificar cosas faltantes en el mapa (señales, sentidos de vías, hidrantes, árboles, barreras, sardineles), para después mapearlos con las imágenes de Mapillary
+- [X] Tomar GoundPoints para alinear imagenes.
+- [X] Hacer vuelo en dron de la zona de interés, a lo largo de las calles.
+- [X] Recorrer el centro y la zona alreadedor del El Trébol tomando fotos para Mapillary (carro, bici y/o patineta). (El Trebol no se recorrió).
 - [ ] Definir cómo va a ser el mapeo de la zona con los participantes. ¿qué caminos van a tomar los participantes? ¿cómo se van a dividir las tareas? Procupar evitar responder la misma pregunta y generar conflictos en OSM.
-- [ ] Verificar qué elementos se preguntan en las aplicaciones de mapeo (StreetComplete / Everydoor).
+- [X] Verificar qué elementos se preguntan en las aplicaciones de mapeo (StreetComplete / Everydoor).
 
 ## Post-Evento 1:
 
-- [ ] Subir las fotos a Mapillary.
+- [X] Subir las fotos a Mapillary.
 - [ ] (Opcional) Subir las fotos a otros portales - KartaView, Mapilio.
 - [ ] Escanear y subir los atlas a GitHub - [https://github.com/MaptimeBogota/Varios](https://github.com/MaptimeBogota/Varios)
-- [ ] Subir las trazas GPX a OpenStreetMap.
-- [ ] Generar una ortofoto con OpenDroneMap (usar los ground points para mejorar la precisión) y subir la imagen TIF a OpenAerialMap.
+- [X] Subir las trazas GPX a OpenStreetMap.
+- [X] Generar una ortofoto con OpenDroneMap (usar los ground points para mejorar la precisión) y subir la imagen TIF a OpenAerialMap.
 
 -----
 
@@ -59,10 +59,10 @@ Organizadores: Natalia Florian ([Telegram](t.me/KomodoDrag0n)), Andrés Gómez (
 
 Este incluye el taller en la Universidad Nacional, y las actividades para preparar el terreno para el evento 3.
 
-- [ ] Mapear las construcciones del área usando la ortofoto.
+- [X] Mapear las construcciones del área usando la ortofoto.
 - [ ] Mapear los establecimientos.
-- [ ] Identificar elementos por medio de Mapillary y mapearlos (Los identificados en el evento 1).
-- [ ] Alinear las vías.
+- [X] Identificar elementos por medio de Mapillary y mapearlos (Los identificados en el evento 1).
+- [X] Alinear las vías.
 - [ ] Identificar los elementos a mapear por medio de FieldPapers.
 - [ ] Revisar los elementos de calidad del mapa, y corregir los errores: JOSM validator, Osmose, KeepRight, etc.
 
@@ -73,13 +73,13 @@ Este incluye el taller en la Universidad Nacional, y las actividades para prepar
 - [X] Definir el punto de encuentro a las 9.
 - [X] Crear la imagen para compartir en redes sociales.
 - [X] Compartir la imagen en redes sociales, meetup, OSMcal, Communities, y canales de Telegram.
-- [ ] (1 semana antes) Recordar del evento en redes sociales y otros portales. Indicar que instalen StreetComplete y que creen cuenta en OSM.
+- [X] (1 semana antes) Recordar del evento en redes sociales y otros portales. Indicar que instalen StreetComplete y que creen cuenta en OSM.
 - [ ] (2 días antes antes) Recordar del evento en redes sociales y otros portales. Indicar que instalen StreetComplete y que creen cuenta en OSM.
-- [ ] Enviar una invitación a las comunidades de Mosquera (Juntas de Acción Comunal).
-- [ ] Crear un afiche para publicación física.
+- [X] Enviar una invitación a las comunidades de Mosquera (Juntas de Acción Comunal).
+- [X] Crear un afiche para publicación física.
 - [ ] Imprimir el afiche.
 - [ ] Pegar el afiche en lugares importantes en Mosquera.
-- [ ] Haber mapeado todos los edificios de la zona por tardar el viernes.
+- [X] Haber mapeado todos los edificios de la zona por tardar el viernes.
 
 Preparación para crear notas en terreno:
 - [ ] Crear cuenta en el fediverso de Mastodon OSM (en.osm.town)
@@ -106,11 +106,11 @@ Captura de notas en terreno:
 ## Pre-Evento 3 - online:
 
 - [X] Invitar a un especialista de notas (Rafael Isturiz).
-- [ ] Crear una imagen para este evento.
-- [ ] Compartir la imagen en redes sociales sobre este evento.
-- [ ] Crear el evento en OSM cal.
-- [ ] Invitar en redes sociales, inclusive Latam.
-- [ ] Definir un mecanismo de comunicación en tiempo real entre las personas en terreno y los arm-chair mappers.
+- [X] Crear una imagen para este evento.
+- [X] Compartir la imagen en redes sociales sobre este evento.
+- [X] Crear el evento en OSM cal.
+- [x] Invitar en redes sociales, inclusive Latam.
+- [X] Definir un mecanismo de comunicación en tiempo real entre las personas en terreno y los arm-chair mappers.
 - [X] Definir el mecanismo de encuentro: h[ttps://osmvideo.cloud68.co/user/and-hrh-m5a-trl](https://osmvideo.cloud68.co/user/and-hrh-m5a-trl)
 
 ## Evento 3 - online:
