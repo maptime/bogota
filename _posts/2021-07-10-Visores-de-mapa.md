@@ -62,6 +62,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Interpretación de notas - https://greymiche-lima--city-de.translate.goog/osm_notes/index.html?lat=4.6394458&lon=-74.07746214419605&zoom=11&_x_tr_sl=de&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 * Horario de establecimientos - https://openingh.openstreetmap.de/?zoom=14&lat=4.65293&lon=-74.08764&layers=B0T&filter=none&tags=opening_hours&lng=es
 * Topográficos - https://opentopomap.org/#map=13/4.65111/-74.06974
+* Vectorial - https://tile.ourmap.us/data/v3/#14.22/4.65306/-74.08727
 
 ## Buscadores 
 
