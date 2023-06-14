@@ -108,6 +108,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Editor de POIs cercanos - https://poism.dev.openstreetmap.us/
 * Editor de direcciones (Avatars sobre edificios, no puede editar en Colombia) - https://yuiseki.github.io/osm-address-editor-vite/#16.27/4.653732/-74.083798
 * Editor de lugares accequibles en silla de ruedas - https://wheelmap.org/nodes/889749361
+* Editor de calidad del mapeo de vías (no se puede ubicar en Bogotá, toca moverlo) - http://editor.osmsurround.org/
 
 # Estadísticas
 
