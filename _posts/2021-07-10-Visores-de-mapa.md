@@ -39,6 +39,12 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
   * Cámaras de vigilancia https://mapcomplete.osm.be/surveillance.html?z=14&lat=4.656582&lon=-74.0803
   * Árboles https://mapcomplete.osm.be/trees.html?z=15&lat=4.652873&lon=-74.0833
   * Ríos y quebradas https://amandasaurus.github.io/osm-river-basins/?tiles=planet-waterway-name-no-group#map=10.25/4.6056/-74.0883
+  * Cámaras de vigilancia https://sunders.uber.space/?lat=4.65684401&lon=-74.01454926&zoom=12
+  * Invidentes https://hapticke.mapy.cz/?x=-74.08373&y=4.65355&z=19&lang=en
+  * Imprimir vías https://anvaka.github.io/city-roads/?q=Bogota&areaId=3607426387
+  * Lugares de camping https://opencampingmap.org/es/#12/4.6436/-74.0972/3/1/bef
+  * Cambios recientes https://osmlab.github.io/show-me-the-way/#bounds=4.42857%2C-74.31152%2C4.85015%2C-73.94348
+  * Restaurantes vegetarianos https://www.veggiekarte.de/?lang=en#12.0000/4.6527/-74.0763
 
 # Visores
 
