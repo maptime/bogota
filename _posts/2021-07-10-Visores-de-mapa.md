@@ -38,13 +38,6 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
   * Canchas https://mapcomplete.osm.be/sport_pitches.html?z=15&lat=4.654357&lon=-74.0836
   * Cámaras de vigilancia https://mapcomplete.osm.be/surveillance.html?z=14&lat=4.656582&lon=-74.0803
   * Árboles https://mapcomplete.osm.be/trees.html?z=15&lat=4.652873&lon=-74.0833
-  * Ríos y quebradas https://amandasaurus.github.io/osm-river-basins/?tiles=planet-waterway-name-no-group#map=10.25/4.6056/-74.0883
-  * Cámaras de vigilancia https://sunders.uber.space/?lat=4.65684401&lon=-74.01454926&zoom=12
-  * Invidentes https://hapticke.mapy.cz/?x=-74.08373&y=4.65355&z=19&lang=en
-  * Imprimir vías https://anvaka.github.io/city-roads/?q=Bogota&areaId=3607426387
-  * Lugares de camping https://opencampingmap.org/es/#12/4.6436/-74.0972/3/1/bef
-  * Cambios recientes https://osmlab.github.io/show-me-the-way/#bounds=4.42857%2C-74.31152%2C4.85015%2C-73.94348
-  * Restaurantes vegetarianos https://www.veggiekarte.de/?lang=en#12.0000/4.6527/-74.0763
 
 # Visores
 
@@ -71,6 +64,13 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Vectorial - https://tile.ourmap.us/data/v3/#14.22/4.65306/-74.08727
 * De vías - https://a-b-street.github.io/osm2streets/lane_editor.html#14.48/4.6536/-74.08161
 * Todo - https://www.mapz.com/permalink?zoom=15&lat=4.65272&lon=-74.08432&layers=mapz_multicolor_base
+* Ríos y quebradas https://amandasaurus.github.io/osm-river-basins/?tiles=planet-waterway-name-no-group#map=10.25/4.6056/-74.0883
+* Cámaras de vigilancia https://sunders.uber.space/?lat=4.65684401&lon=-74.01454926&zoom=12
+* Invidentes https://hapticke.mapy.cz/?x=-74.11894&y=4.61802&z=11&lang=en
+* Imprimir vías https://anvaka.github.io/city-roads/?q=Bogota&areaId=3607426387
+* Lugares de camping https://opencampingmap.org/es/#12/4.6436/-74.0972/3/1/bef
+* Cambios recientes https://osmlab.github.io/show-me-the-way/#bounds=4.42857%2C-74.31152%2C4.85015%2C-73.94348
+* Restaurantes vegetarianos https://www.veggiekarte.de/?lang=en#12.0000/4.6527/-74.0763
 
 ## Buscadores 
 
