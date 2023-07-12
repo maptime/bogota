@@ -70,6 +70,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Topográficos - https://opentopomap.org/#map=13/4.65111/-74.06974
 * Vectorial - https://tile.ourmap.us/data/v3/#14.22/4.65306/-74.08727
 * De vías - https://a-b-street.github.io/osm2streets/lane_editor.html#14.48/4.6536/-74.08161
+* Todo - https://www.mapz.com/permalink?zoom=15&lat=4.65272&lon=-74.08432&layers=mapz_multicolor_base
 
 ## Buscadores 
 
