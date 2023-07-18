@@ -71,10 +71,16 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Lugares de camping https://opencampingmap.org/es/#12/4.6436/-74.0972/3/1/bef
 * Cambios recientes https://osmlab.github.io/show-me-the-way/#bounds=4.42857%2C-74.31152%2C4.85015%2C-73.94348
 * Restaurantes vegetarianos https://www.veggiekarte.de/?lang=en#12.0000/4.6527/-74.0763
+* Fecha donde se revisó el elemento del mapa https://yopaseopor.github.io/osmvalidatormap/#map=12.986/4.64663/-74.08902/0
+* Almacenes - https://yopaseopor.github.io/osmpoismap/#map=12.226/4.65718/-74.0838/0
+* Establecimientos - https://ripollx.github.io/osmcatmap2/#map=12.509/4.64964/-74.09408/0
+* Accesibilidad de silla de ruedas - https://osm-catalan.github.io/osmcatmap/#map=12.092/4.64234/-74.11888/0
+* Luces públicas - https://yopaseopor.github.io/osmlitmap/#map=12.703/4.65719/-74.10688/0
+* 
 
 ## Buscadores 
 
-* Rutas y nivels - https://brouter.de/brouter-web/#map=14/4.6462/-74.0818/standard,route-quality&lonlats=-74.08374,4.676175;-74.08374,4.676175;-74.061824,4.659401;-74.066727,4.632699;-74.063543,4.623541;-74.04898,4.650415;-74.010412,4.662996;-74.058642,4.678743;-74.078499,4.642798&pois=-74.077558,4.649217,Estadio&nogos=-74.064497,4.644097,377
+* Rutas y niveles - https://brouter.de/brouter-web/#map=14/4.6462/-74.0818/standard,route-quality&lonlats=-74.08374,4.676175;-74.08374,4.676175;-74.061824,4.659401;-74.066727,4.632699;-74.063543,4.623541;-74.04898,4.650415;-74.010412,4.662996;-74.058642,4.678743;-74.078499,4.642798&pois=-74.077558,4.649217,Estadio&nogos=-74.064497,4.644097,377
 * Calcular ruta en diversos medios - https://brouter.damsy.net/latest/#map=15/4.6531/-74.0810/standard,route-quality&lonlats=-74.099865,4.659282;-74.087076,4.656587;-74.062057,4.650001&ringgo=-74.062314,4.679682,&profile=car-fast
 * Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
 * Servicios de cercanía - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
