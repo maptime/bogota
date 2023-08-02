@@ -9,10 +9,10 @@ En esta ocasión vamos a resolver notas registradas en OpenStreetMap, que fueron
 En este caso, pueden salir notas de cualquier tipo, por lo que podremos aprender de una diversidad de cosas del mundo de OpenStreetMap.
 
 La reunión durará una hora y se hará por medio de BigBlueButton de OSM (Link adjunto).
-No es necesario tener experiencia en OSM, pero si ganas de aprender cosas nuevas
+No es necesario tener experiencia en OSM, pero si ganas de aprender cosas nuevas.
 
-El objetivo es que todas estas notas se pasen a verde:
-[https://www.openstreetmap.org/#map=14/4.6522/-74.0821&layers=N](https://www.openstreetmap.org/#map=14/4.6522/-74.0821&layers=N)
+El objetivo es que todas las notas se vayan resolviendo mientras se actualiza el mapa:
+[https://www.openstreetmap.org/#map=9/4.4820/-74.0726&layers=N](https://www.openstreetmap.org/#map=9/4.4820/-74.0726&layers=N)
 
 Para el evento es recomendable tener listos los siguientes elementos:
 
@@ -29,10 +29,11 @@ El listado de las notas está en la siguiente página mantenida por Neil Pascal:
 
 Para una descripción de qué son las notas de OpenStreetMap, se pueden consultar los siguientes artículos:
 
-* https://www.openstreetmap.org/user/AngocA/diary/397138
-* https://www.openstreetmap.org/user/AngocA/diary/397284
+* [Las notas de OpenStreetMap](https://www.openstreetmap.org/user/AngocA/diary/397138)
+* Los demás artículos referenciado al comienzo del artículo anterior.
 
-También se puede visitar la página de esta iniciativa en el wiki de OSM: https://wiki.openstreetmap.org/wiki/ES:Colombia/Resoluci%C3%B3n_de_notas
+También se puede visitar la página de esta iniciativa en el wiki de OSM: 
+[ES:Colombia/Proyecto-Resolución de notas](https://wiki.openstreetmap.org/wiki/ES:Colombia/Resoluci%C3%B3n_de_notas)
 
 -----
 
@@ -59,3 +60,4 @@ Este mismo post se está usando para todos los eventos de resolución de Notas q
 * 2021-10-30
 * 2021-11-06
 * 2021-11-13
+* 2023-08-12
