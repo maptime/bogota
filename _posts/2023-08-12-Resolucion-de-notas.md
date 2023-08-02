@@ -30,7 +30,7 @@ El listado de las notas está en la siguiente página mantenida por Neil Pascal:
 Para una descripción de qué son las notas de OpenStreetMap, se pueden consultar los siguientes artículos:
 
 * [Las notas de OpenStreetMap](https://www.openstreetmap.org/user/AngocA/diary/397138)
-* Los demás artículos referenciado al comienzo del artículo anterior.
+* Los demás artículos referenciados al comienzo del artículo anterior.
 
 También se puede visitar la página de esta iniciativa en el wiki de OSM: 
 [ES:Colombia/Proyecto-Resolución de notas](https://wiki.openstreetmap.org/wiki/ES:Colombia/Resoluci%C3%B3n_de_notas)
