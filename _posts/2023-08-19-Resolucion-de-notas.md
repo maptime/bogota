@@ -61,3 +61,6 @@ Este mismo post se está usando para todos los eventos de resolución de Notas q
 * 2021-11-06
 * 2021-11-13
 * 2023-08-12
+* 2023-08-19
+* 2023-09-02
+
