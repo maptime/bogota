@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Resolución de Notas de Colombia
-rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/lwmtnsycclbcc/
+rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/295506810/
 ---
 
 En esta ocasión vamos a resolver notas registradas en OpenStreetMap, que fueron creadas en toda Colombia.
