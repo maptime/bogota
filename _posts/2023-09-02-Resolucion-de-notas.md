@@ -8,7 +8,7 @@ rsvp: https://www.meetup.com/maptime-bogota-colombia-osm/events/295506810/
 En esta ocasión vamos a resolver notas registradas en OpenStreetMap, que fueron creadas en toda Colombia.
 En este caso, pueden salir notas de cualquier tipo, por lo que podremos aprender de una diversidad de cosas del mundo de OpenStreetMap.
 
-La reunión durará una hora y se hará por medio de BigBlueButton de OSM: [https://osmvideo.cloud68.co/user/and-hrh-m5a-trl](https://osmvideo.cloud68.co/user/and-hrh-m5a-trl)
+La reunión durará una hora y se hará por medio de BigBlueButton de OSM: [https://osmvideo.cloud68.co/user/and-hrh-m5a-trl](https://osmvideo.cloud68.co/user/and-hrh-m5a-trl). Si no funciona, se usará: [https://t.me/osm_notes_latam?videochat=496f43038a7849a6bb](https://t.me/osm_notes_latam?videochat=496f43038a7849a6bb)
 No es necesario tener experiencia en OSM, pero si ganas de aprender cosas nuevas.
 
 El objetivo es que todas las notas se vayan resolviendo mientras se actualiza el mapa:
