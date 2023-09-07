@@ -114,6 +114,8 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Rutas sin nombre, o elementos sin dirección http://qa.poole.ch/?zoom=13&lat=4.6507&lon=-74.07256&layers=FFTFB0
 * Visor de QA de Nominatim - https://nominatim.org/qa/#map=11.59/4.65/-74.05&layer=addr_street_wrong_name
 * Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
+* Cambios recientes - https://tyrasd.github.io/latest-changes/#16/4.6529/-74.0831
+* Quíen lo hizo - https://simon04.dev.openstreetmap.org/whodidit/?zoom=15&lat=4.6544&lon=-74.08328&layers=BTT
 
 # Editores
 
