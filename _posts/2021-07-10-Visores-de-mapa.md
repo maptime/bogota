@@ -58,6 +58,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Reanimadores - https://openaedmap.org/#map=12/4.65383/-74.08878
 * Visor en Español (idioma del computador) - https://zelonewolf.github.io/openstreetmap-americana/#map=11.7/4.6467/-74.0909
 * Rutas de transporte - https://ptmap.plepe.at/#lat=4.65070&lon=-74.08285&zoom=15
+* Rutas de transporte - https://relatify.monicz.dev/#map=18/4.707935/-74.060715
 * Interpretación de notas - https://greymiche-lima--city-de.translate.goog/osm_notes/index.html?lat=4.6394458&lon=-74.07746214419605&zoom=11&_x_tr_sl=de&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 * Horario de establecimientos - https://openingh.openstreetmap.de/?zoom=14&lat=4.65293&lon=-74.08764&layers=B0T&filter=none&tags=opening_hours&lng=es
 * Topográficos - https://opentopomap.org/#map=13/4.65111/-74.06974
