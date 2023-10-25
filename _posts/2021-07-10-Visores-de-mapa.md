@@ -78,7 +78,8 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Accesibilidad de silla de ruedas - https://osm-catalan.github.io/osmcatmap/#map=12.092/4.64234/-74.11888/0
 * Luces públicas - https://yopaseopor.github.io/osmlitmap/#map=12.703/4.65719/-74.10688/0
 * Información de lactancia - https://yopaseopor.github.io/osmbabymap/#map=15.371/4.65193/-74.08367/0
-* Recursos de Wikimedia (wikipedia, wikidata) https://wikishootme.toolforge.org/#lat=4.6514885659310465&lng=-74.08227805048227&zoom=14
+* Recursos de Wikimedia (wikipedia, wikidata) - https://wikishootme.toolforge.org/#lat=4.6514885659310465&lng=-74.08227805048227&zoom=14
+* Recursos de Wikimedia - https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=4.64112&lon=-74.04159&zoom=13&lang=es&layers=00B0TT
 
 ## Buscadores 
 
