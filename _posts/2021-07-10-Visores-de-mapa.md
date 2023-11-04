@@ -80,7 +80,10 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Información de lactancia - https://yopaseopor.github.io/osmbabymap/#map=15.371/4.65193/-74.08367/0
 * Recursos de Wikimedia (wikipedia, wikidata) - https://wikishootme.toolforge.org/#lat=4.6514885659310465&lng=-74.08227805048227&zoom=14
 * Recursos de Wikimedia - https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=4.64112&lon=-74.04159&zoom=13&lang=es&layers=00B0TT
-* Opciones marítimas (algunas sirven en Bogotá) - https://map.openseamap.org/?zoom=12.3&lon=-74.08254&lat=4.65789&layers=TFTFFFTFFTTFFFFFFFFFFF
+* Opciones marítimas (algunas sirven en Bogotá, específicamente Wikipedia) - https://map.openseamap.org/?zoom=12.3&lon=-74.08254&lat=4.65789&layers=TFTFFFTFFTTFFFFFFFFFFF
+* Artículos de wikipedia - https://osmwd.dsantini.it/#-74.0841,4.6527,14.9,feature_source,overpass_wd+wd_base
+* Artículos de wikipedia - https://map.osm.wikidata.link/map/16/4.6493/-74.0617?radius=10
+* Artículos de wikipedia - https://wdlocator.toolforge.org/#map=17/4.65514/-74.08538
 
 ## Buscadores 
 
