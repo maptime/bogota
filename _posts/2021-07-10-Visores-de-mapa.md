@@ -94,7 +94,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 * Comparación de proveedores de mapas - http://tools.geofabrik.de/mc/#17/4.6534/-74.0835&num=4&mt0=mapnik&mt1=google-map&mt2=hike_bike&mt3=here-map
 * Densidad de nodos - https://tyrasd.github.io/osm-node-density/#6/4.353/-74.153/2021,places
-* Who's around me [https://wiki.openstreetmap.org/wiki/ES:Notas](http://resultmaps.neis-one.org/oooc?zoom=13&lat=4.65521&lon=-74.06823&layers=B0TFFFFFT)
+* Who's around me http://resultmaps.neis-one.org/oooc?zoom=13&lat=4.65521&lon=-74.06823&layers=B0TFFFFFT
 * Offsets de las imagenes satelitales - http://offsets.textual.ru/map#zoom=11&lat=4.653&lon=-74.0829
 * Datos históricos - https://ohsome.org/apps/dashboard/
 
