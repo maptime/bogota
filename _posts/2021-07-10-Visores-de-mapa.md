@@ -84,6 +84,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Artículos de wikipedia - https://osmwd.dsantini.it/#-74.0841,4.6527,14.9,feature_source,overpass_wd+wd_base
 * Artículos de wikipedia - https://map.osm.wikidata.link/map/16/4.6493/-74.0617?radius=10
 * Artículos de wikipedia - https://wdlocator.toolforge.org/#map=17/4.65514/-74.08538
+* Elementos actualizados - https://is-osm-uptodate.frafra.eu/#15/4.65312/-74.08399
 
 ## Buscadores 
 
