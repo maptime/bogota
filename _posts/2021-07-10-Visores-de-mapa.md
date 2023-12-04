@@ -85,6 +85,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Artículos de wikipedia - https://map.osm.wikidata.link/map/16/4.6493/-74.0617?radius=10
 * Artículos de wikipedia - https://wdlocator.toolforge.org/#map=17/4.65514/-74.08538
 * Elementos actualizados - https://is-osm-uptodate.frafra.eu/#15/4.65312/-74.08399
+* Elementos del mapa - https://www.whatiswhere.com/
 
 ## Buscadores 
 
