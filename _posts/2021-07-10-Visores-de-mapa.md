@@ -96,6 +96,10 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
 * POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 
+## Ruteadores
+
+* https://abetterrouteplanner.com/
+
 ## De datos relativos a OSM
 
 * Comparación de proveedores de mapas - http://tools.geofabrik.de/mc/#17/4.6534/-74.0835&num=4&mt0=mapnik&mt1=google-map&mt2=hike_bike&mt3=here-map
