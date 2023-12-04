@@ -61,6 +61,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Rutas de transporte - https://relatify.monicz.dev/#map=18/4.707935/-74.060715
 * Interpretación de notas - https://greymiche-lima--city-de.translate.goog/osm_notes/index.html?lat=4.6394458&lon=-74.07746214419605&zoom=11&_x_tr_sl=de&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 * Horario de establecimientos - https://openingh.openstreetmap.de/?zoom=14&lat=4.65293&lon=-74.08764&layers=B0T&filter=none&tags=opening_hours&lng=es
+* Horario de establecimientos - https://openingh.ypid.de/?zoom=13&lat=4.65168&lon=-74.07961&layers=B0T&filter=none&tags=opening_hours
 * Topográficos - https://opentopomap.org/#map=13/4.65111/-74.06974
 * Vectorial - https://tile.ourmap.us/data/v3/#14.22/4.65306/-74.08727
 * De vías - https://a-b-street.github.io/osm2streets/lane_editor.html#14.48/4.6536/-74.08161
@@ -89,6 +90,8 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * POIs sostenibles - https://sustainable.zottelig.ch/?location=4.597648%2C-74.0739886
 * Senderismo - https://hiking.waymarkedtrails.org/#?map=12.0/4.6623/-74.0889
 * De segunda mano y arreglos - https://demo.transformap.co/secondhand.html#13/4.7093/-74.0606
+* Cervecerías - https://brewpubs.openstreetmap.de/#12/4.6548/-74.0861/0/0/f
+* POIs - https://www.flosm.org/en/poimap.html?lat=4.65100390&lon=-74.0825193&r=6623.7375&st=1&sw=alpinehut,bbq,bench,campsite,caravansite,chalet,drinkingwater,hikingmap,huntingstand,park,peak,picnicsite,shelter,viewpoint,waysidecross,waysideshrine
 
 ## Buscadores 
 
