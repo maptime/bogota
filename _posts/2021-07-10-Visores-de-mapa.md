@@ -86,6 +86,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Artículos de wikipedia - https://wdlocator.toolforge.org/#map=17/4.65514/-74.08538
 * Elementos actualizados - https://is-osm-uptodate.frafra.eu/#15/4.65312/-74.08399
 * Elementos del mapa - https://www.whatiswhere.com/
+* POIs sostenibles - https://sustainable.zottelig.ch/?location=4.597648%2C-74.0739886
 
 ## Buscadores 
 
@@ -95,10 +96,12 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Servicios de cercanía - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
 * Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
 * POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+* Puntos de venta, cajeros y coins - https://coinmap.org/view/#/map/4.65218167/-74.08699036/14
 
 ## Ruteadores
 
 * https://abetterrouteplanner.com/
+* https://graphhopper.com/maps/?point=4.670017%2C-74.092024&point=4.648117%2C-74.081381&profile=car&layer=Omniscale
 
 ## De datos relativos a OSM
 
@@ -107,6 +110,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Who's around me http://resultmaps.neis-one.org/oooc?zoom=13&lat=4.65521&lon=-74.06823&layers=B0TFFFFFT
 * Offsets de las imagenes satelitales - http://offsets.textual.ru/map#zoom=11&lat=4.653&lon=-74.0829
 * Datos históricos - https://ohsome.org/apps/dashboard/
+* Evolución de datos - https://hex.ohsome.org/#/amenity_pharmacy_healthcare_pharmacy_ptpl/2023-09-01T00:00:00Z/10/4.681380886234763/-74.16921938388884
 
 ## 3d e interno
 
