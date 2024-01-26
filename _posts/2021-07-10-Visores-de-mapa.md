@@ -139,6 +139,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
 * Cambios recientes - https://tyrasd.github.io/latest-changes/#16/4.6529/-74.0831
 * Quíen lo hizo - https://simon04.dev.openstreetmap.org/whodidit/?zoom=15&lat=4.6544&lon=-74.08328&layers=BTT
+* Fin de ríos - [https://waterwaymap.org/ends/#map=4.64/4.25/-71.18](https://waterwaymap.org/ends/#map=10.18/4.6451/-74.0097)
 
 # Editores
 
