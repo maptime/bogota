@@ -92,6 +92,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * De segunda mano y arreglos - https://demo.transformap.co/secondhand.html#13/4.7093/-74.0606
 * Cervecerías - https://brewpubs.openstreetmap.de/#12/4.6548/-74.0861/0/0/f
 * POIs - https://www.flosm.org/en/poimap.html?lat=4.65100390&lon=-74.0825193&r=6623.7375&st=1&sw=alpinehut,bbq,bench,campsite,caravansite,chalet,drinkingwater,hikingmap,huntingstand,park,peak,picnicsite,shelter,viewpoint,waysidecross,waysideshrine
+* Publicidad - https://openadvertmap.pavie.info/#15/4.6176/-74.0836
 
 ## Buscadores 
 
