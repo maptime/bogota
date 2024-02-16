@@ -93,6 +93,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Cervecerías - https://brewpubs.openstreetmap.de/#12/4.6548/-74.0861/0/0/f
 * POIs - https://www.flosm.org/en/poimap.html?lat=4.65100390&lon=-74.0825193&r=6623.7375&st=1&sw=alpinehut,bbq,bench,campsite,caravansite,chalet,drinkingwater,hikingmap,huntingstand,park,peak,picnicsite,shelter,viewpoint,waysidecross,waysideshrine
 * Publicidad - https://openadvertmap.pavie.info/#15/4.6176/-74.0836
+* Varias cosas - https://tracesmap.com/#13/4.6588/-74.0860/bus/normal
 
 ## Buscadores 
 
