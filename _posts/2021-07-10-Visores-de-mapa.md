@@ -94,6 +94,9 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * POIs - https://www.flosm.org/en/poimap.html?lat=4.65100390&lon=-74.0825193&r=6623.7375&st=1&sw=alpinehut,bbq,bench,campsite,caravansite,chalet,drinkingwater,hikingmap,huntingstand,park,peak,picnicsite,shelter,viewpoint,waysidecross,waysideshrine
 * Publicidad - https://openadvertmap.pavie.info/#15/4.6176/-74.0836
 * Varias cosas - https://tracesmap.com/#13/4.6588/-74.0860/bus/normal
+* POIs - https://wikimap.wiki/?base=map&lat=-8247287.6480&lon=518610.6175&showAll=true&wiki=eswiki&zoom=13
+* POIs (de pronto no basado 100% en OSM) - https://wiki-atlas.org/
+* Artículos Wikipedia - https://es.nearbywiki.org/map/discover/4810590#14/4.6460/-74.0736
 
 ## Buscadores 
 
