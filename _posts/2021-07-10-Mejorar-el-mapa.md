@@ -38,4 +38,10 @@ Y pues la respuesta parece sencilla, pero la respuesta es bien compleja y aquí 
 * Respondiendo preguntas de Colombia en el Q&A de OpenStreetMap - https://help.openstreetmap.org/search/?csrfmiddlewaretoken=6aV29feNUfMmlOLvD1Jpo3pHvP00YumC&q=colombia&Submit=search&t=question
 * Respondiendo dudas de Colombia en el foto de OpenStreetMap - https://forum.openstreetmap.org/viewforum.php?id=92 y https://forum.openstreetmap.org/search.php?search_id=966857183
 * Apoyando las conversaciones que surjan de la lista de correo - https://lists.openstreetmap.org/listinfo/talk-co
-* Apoyar las redes sociales https://www.facebook.com/groups/98009745459 y https://twitter.com/OpenStreetMapCo
+* Apoyar las redes sociales:
+  * https://www.facebook.com/groups/98009745459
+  * https://twitter.com/OSM_Colombia
+  * https://www.instagram.com/osm_colombia/
+  * https://www.tiktok.com/@osm.colombia
+  * https://en.osm.town/@OSM_Colombia
+  * https://linktr.ee/osm_colombia
