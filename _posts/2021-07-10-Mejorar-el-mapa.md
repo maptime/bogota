@@ -42,6 +42,6 @@ Y pues la respuesta parece sencilla, pero la respuesta es bien compleja y aquí 
   * https://www.facebook.com/groups/98009745459
   * https://twitter.com/OSM_Colombia
   * https://www.instagram.com/osm_colombia/
-  * https://www.tiktok.com/@osm.colombia
+  * https://www.tiktok.com/@osm_colombia
   * https://en.osm.town/@OSM_Colombia
   * https://linktr.ee/osm_colombia
