@@ -98,6 +98,8 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * POIs (de pronto no basado 100% en OSM) - https://wiki-atlas.org/
 * Artículos Wikipedia - https://es.nearbywiki.org/map/discover/4810590#14/4.6460/-74.0736
 * Visor de calles - https://a-b-street.github.io/osm2streets/#14.43/4.65211/-74.0827/18.4/3
+* https://www.lokjo.com/#m=13:4.65383:-74.08532:0
+* Sombras - https://shademap.app/@4.65237,-74.08471,14.02788z,1717158035748t,11.99932b,0p,0m!1717152253632!1717196801543
 
 ## Buscadores 
 
