@@ -89,6 +89,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Elementos del mapa - https://www.whatiswhere.com/
 * POIs sostenibles - https://sustainable.zottelig.ch/?location=4.597648%2C-74.0739886
 * Senderismo - https://hiking.waymarkedtrails.org/#?map=12.0/4.6623/-74.0889
+* Senderismo - https://trailcatalog.org/?lat=4.6404982&lng=-74.0936099&zoom=10.977
 * De segunda mano y arreglos - https://demo.transformap.co/secondhand.html#13/4.7093/-74.0606
 * Cervecerías - https://brewpubs.openstreetmap.de/#12/4.6548/-74.0861/0/0/f - https://brewmap.openstreetmap.de/#12/4.6562/-74.0559/0/0/f
 * POIs - https://www.flosm.org/en/poimap.html?lat=4.65100390&lon=-74.0825193&r=6623.7375&st=1&sw=alpinehut,bbq,bench,campsite,caravansite,chalet,drinkingwater,hikingmap,huntingstand,park,peak,picnicsite,shelter,viewpoint,waysidecross,waysideshrine
