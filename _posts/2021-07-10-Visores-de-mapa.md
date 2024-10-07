@@ -114,6 +114,9 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
 * POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 * Puntos de venta, cajeros y coins - https://coinmap.org/view/#/map/4.65218167/-74.08699036/14
+* Mapas de aplicación - Gaia - https://www.gaiagps.com/map/?loc=11.0/-74.1070/4.6683
+* Mapas de aplicación - Osmand - https://osmand.net/map/#12/4.6575/-74.0848
+* Mapas de aplicación - LocusMap - https://web.locusmap.app/en/?lat=4.653755&lng=-74.067593&z=12&map=hikeBike
 
 ## Ruteadores
 
