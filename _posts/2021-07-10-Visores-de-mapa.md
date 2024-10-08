@@ -101,6 +101,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Visor de calles - https://a-b-street.github.io/osm2streets/#14.43/4.65211/-74.0827/18.4/3
 * https://www.lokjo.com/#m=13:4.65383:-74.08532:0
 * Sombras - https://shademap.app/@4.65237,-74.08471,14.02788z,1717158035748t,11.99932b,0p,0m!1717152253632!1717196801543
+* Posición del sol - https://app.shadowmap.org/?lat=4.61196&lng=-74.08461&zoom=14.42&azimuth=0.00000&basemap=map&elevation=nextzen&f=29.0&hud=true&polar=0.52360&time=1728445944026&vq=2
 * Uso del suelo - https://osmlanduse.org/#11.174608502820849/-74.0827/4.68527/0/
 * Vetustes de los límites de velocidad - https://maxspeeds.openstreetmap.rs/#12/4.6547/-74.0865
 * Paraderos - https://gauss.whz.de/ptsa/#11/4.6640/-74.1436
