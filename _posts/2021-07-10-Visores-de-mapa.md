@@ -104,6 +104,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Uso del suelo - https://osmlanduse.org/#11.174608502820849/-74.0827/4.68527/0/
 * Vetustes de los límites de velocidad - https://maxspeeds.openstreetmap.rs/#12/4.6547/-74.0865
 * Paraderos - https://gauss.whz.de/ptsa/#11/4.6640/-74.1436
+* Cantidad de detalles - http://test.osm2pgsql.org/#p=10.01/4.6434/-74.1123
 
 ## Buscadores 
 
