@@ -106,6 +106,8 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Vetustes de los límites de velocidad - https://maxspeeds.openstreetmap.rs/#12/4.6547/-74.0865
 * Paraderos - https://gauss.whz.de/ptsa/#11/4.6640/-74.1436
 * Cantidad de detalles - http://test.osm2pgsql.org/#p=10.01/4.6434/-74.1123
+* Infraestructura - https://www.flosm.org/en/powergrid.html?lat=4.68406813&lon=-74.0826222&r=47178.657&st=1&sw=cabledistributioncabinet,catenarymast,generator,powerbay,powerbiofuel,powerbiogas,powerbiomass,powerbusbar,powercable,powercoal,powercompensator,powerconverter,powergeothermal,powerhydro,powerline,powerline110k,powerline115k,powerline20k,powerline220k,powerline220v,powerline225k,powerline30k,powerline380k,powerline3k,powerline400k,powerline420k,powerline500v,powerline50k,powerline6k,powerline750k,powerline765k,powerlinedchigh,powerlinedclow,powerminordistribution,powernuclear,poweroil,powerpole,powersolar,powersolarphotovoltaic,powersolarthermal,powersubstation,powerswitch,powertidal,powertower,powerwaste,powerwind,transformer
+* Buses - https://www.flosm.org/en/publictransport.html?lat=4.62926967&lon=-74.1176583&r=16366.240&st=1&sw=busroute,busstation,busstop,ferryroute,ferrystop,ferryterminal,lightrailroute,lightrailstop,railstop,station,subwayentrance,subwayroute,subwaystop,trainroute,tramroute,tramstop,trolleyroute
 
 ## Buscadores 
 
