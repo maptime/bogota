@@ -179,4 +179,5 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 # Juegos
 
 * https://backofyourhand.com/4.65347,-74.08501
+* https://www.tripgeo.com/city/bogota-co/OZP70ZX0?lat=4.648322851&lng=-74.107807&zoom=10
 
