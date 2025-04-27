@@ -109,6 +109,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Infraestructura - https://www.flosm.org/en/powergrid.html?lat=4.68406813&lon=-74.0826222&r=47178.657&st=1&sw=cabledistributioncabinet,catenarymast,generator,powerbay,powerbiofuel,powerbiogas,powerbiomass,powerbusbar,powercable,powercoal,powercompensator,powerconverter,powergeothermal,powerhydro,powerline,powerline110k,powerline115k,powerline20k,powerline220k,powerline220v,powerline225k,powerline30k,powerline380k,powerline3k,powerline400k,powerline420k,powerline500v,powerline50k,powerline6k,powerline750k,powerline765k,powerlinedchigh,powerlinedclow,powerminordistribution,powernuclear,poweroil,powerpole,powersolar,powersolarphotovoltaic,powersolarthermal,powersubstation,powerswitch,powertidal,powertower,powerwaste,powerwind,transformer
 * Buses - https://www.flosm.org/en/publictransport.html?lat=4.62926967&lon=-74.1176583&r=16366.240&st=1&sw=busroute,busstation,busstop,ferryroute,ferrystop,ferryterminal,lightrailroute,lightrailstop,railstop,station,subwayentrance,subwayroute,subwaystop,trainroute,tramroute,tramstop,trolleyroute
 * Debud - https://github.com/deevroman/better-osm-org/
+* Vectorial en frances - https://cartes.app/#5.52/46.857/2.025
 
 ## Buscadores 
 
