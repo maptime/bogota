@@ -110,6 +110,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Buses - https://www.flosm.org/en/publictransport.html?lat=4.62926967&lon=-74.1176583&r=16366.240&st=1&sw=busroute,busstation,busstop,ferryroute,ferrystop,ferryterminal,lightrailroute,lightrailstop,railstop,station,subwayentrance,subwayroute,subwaystop,trainroute,tramroute,tramstop,trolleyroute
 * Debud - https://github.com/deevroman/better-osm-org/
 * Vectorial en frances - https://cartes.app/#5.52/46.857/2.025
+* Lugar de entierro de personas - https://burial.dsantini.it/#-74.10066,4.69555,10.4,feature_source,overpass_osm_all_wd+wd_indirect,stamen_toner_lite,burial,2025
 
 ## Buscadores 
 
