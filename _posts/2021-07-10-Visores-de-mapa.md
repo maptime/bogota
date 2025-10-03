@@ -112,6 +112,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Vectorial en frances - https://cartes.app/#5.52/46.857/2.025
 * Lugar de entierro de personas - https://burial.dsantini.it/#-74.10066,4.69555,10.4,feature_source,overpass_osm_all_wd+wd_indirect,stamen_toner_lite,burial,2025
 * Curvas de nivel - https://openclimbing.org/#8.56/4.6985/-74.3677
+* Acercas - https://www.opensidewalkmap.com/4.6552753/-74.0832399/14.52
 
 ## Buscadores 
 
