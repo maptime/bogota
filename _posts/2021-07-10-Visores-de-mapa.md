@@ -128,6 +128,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Mapas de aplicación - Gaia - https://www.gaiagps.com/map/?loc=11.0/-74.1070/4.6683
 * Mapas de aplicación - Osmand - https://osmand.net/map/#12/4.6575/-74.0848
 * Mapas de aplicación - LocusMap - https://web.locusmap.app/en/?lat=4.653755&lng=-74.067593&z=12&map=hikeBike
+* Todo tipo de infra - https://sightline-maps.vercel.app/?q=school+in+colombia
 
 ## Ruteadores
 
