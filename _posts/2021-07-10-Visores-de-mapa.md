@@ -41,58 +41,51 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 # Visores
 
-## De mapa
+## De mapa general
 
 * Bing OSM - https://www.bing.com/maps?osid=a5de04cb-a96d-4878-9a9a-9fce4c6095e7&cp=4.627493~-74.089655&lvl=12&v=2&sV=2&form=S00027
+* Lord of the rings style - https://www.maptiler.com/showcase/lotrmap/#11.41/4.6148/-74.0944/0/60
+* Visor en Español (idioma del computador) - https://zelonewolf.github.io/openstreetmap-americana/#map=11.7/4.6467/-74.0909
+* Topográficos - https://opentopomap.org/#map=13/4.65111/-74.06974
+* Mapz - https://www.mapz.com/permalink?zoom=15&lat=4.65272&lon=-74.08432&layers=mapz_multicolor_base
+* Vectorial (fallando 20260429) - https://tile.ourmap.us/inspect.html
+* Invidentes https://hapticke.mapy.com/?x=-74.09153&y=4.64809&z=14&lang=en
+* POIs - https://www.flosm.org/en/poimap.html?lat=4.65100390&lon=-74.0825193&r=6623.7375&st=1&sw=alpinehut,bbq,bench,campsite,caravansite,chalet,drinkingwater,hikingmap,huntingstand,park,peak,picnicsite,shelter,viewpoint,waysidecross,waysideshrine
+
+## Temáticos
+
 * Clasificación de áreas - https://hoodmaps.com/bogota
-* Monumentos - http://www.historic.place/themes/monuments/map.html?zoom=12&lat=4.62615&lon=-74.0616&layers=BTT
-* Parqueaderos - https://zlant.github.io/parking-lanes/#15/4.6507/-74.0754
+* Monumentos (en alemán) - http://www.historic.place/themes/monuments/map.html?zoom=12&lat=4.62615&lon=-74.0616&layers=BTT
+* Parqueaderos (fallando 20260429) - https://zlant.github.io/parking-lanes/#15/4.6507/-74.0754
 * Límites administrativos y códigos postales - https://osm-boundaries.com/Map
 * Infraestructura - https://openinframap.org/#11.38/4.6467/-74.0837/L,O,P,S,T,W
-* Lord of the rings style - https://labs.maptiler.com/showcase/lotrmap/#10.91/4.6368/-74.0816/12.4/24
 * Luces - http://osmstreetlight.bplaced.net/#15/4.6564/-74.0801
-* Hidrantes - https://www.osmhydrant.org/en/#zoom=14&lat=4.65393&lon=-74.0788
+* Hidrantes (fallando 20260429) - https://www.osmhydrant.org/en/#zoom=14&lat=4.65393&lon=-74.0788
 * Accesibilidad - https://www.cityaccessmap.com/
 * Restricciones de giro - https://morbz.github.io/restriction-validator/#15/4.64906/-74.08351
 * Restricciones de giro - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65414&lon=-74.08236&layer=Grayscale&overlays=TTT
-* Reanimadores - https://openaedmap.org/#map=12/4.65383/-74.08878
-* Visor en Español (idioma del computador) - https://zelonewolf.github.io/openstreetmap-americana/#map=11.7/4.6467/-74.0909
+* Reanimadores DEA - https://openaedmap.org/#map=12/4.65383/-74.08878
 * Rutas de transporte - https://ptmap.plepe.at/#lat=4.65070&lon=-74.08285&zoom=15
 * Rutas de transporte - https://relatify.monicz.dev/#map=18/4.707935/-74.060715
-* Interpretación de notas - https://greymiche-lima--city-de.translate.goog/osm_notes/index.html?lat=4.6394458&lon=-74.07746214419605&zoom=11&_x_tr_sl=de&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 * Horario de establecimientos - https://openingh.openstreetmap.de/?zoom=14&lat=4.65293&lon=-74.08764&layers=B0T&filter=none&tags=opening_hours&lng=es
-* Horario de establecimientos - https://openingh.ypid.de/?zoom=13&lat=4.65168&lon=-74.07961&layers=B0T&filter=none&tags=opening_hours
-* Topográficos - https://opentopomap.org/#map=13/4.65111/-74.06974
-* Vectorial - https://tile.ourmap.us/data/v3/#14.22/4.65306/-74.08727
+  * Horario de establecimientos - https://openingh.ypid.de/?zoom=13&lat=4.65168&lon=-74.07961&layers=B0T&filter=none&tags=opening_hours
 * De vías - https://a-b-street.github.io/osm2streets/lane_editor.html#14.48/4.6536/-74.08161
-* Todo - https://www.mapz.com/permalink?zoom=15&lat=4.65272&lon=-74.08432&layers=mapz_multicolor_base
+* Generador de vías para imprimir - https://anvaka.github.io/city-roads/?q=Bogota&areaId=3607426387
 * Ríos y quebradas https://amandasaurus.github.io/osm-river-basins/?tiles=planet-waterway-name-no-group#map=10.25/4.6056/-74.0883
 * Cámaras de vigilancia https://sunders.uber.space/?lat=4.65684401&lon=-74.01454926&zoom=12
-* Invidentes https://hapticke.mapy.cz/?x=-74.11894&y=4.61802&z=11&lang=en
-* Imprimir vías https://anvaka.github.io/city-roads/?q=Bogota&areaId=3607426387
 * Lugares de camping https://opencampingmap.org/es/#12/4.6436/-74.0972/3/1/bef
-* Cambios recientes https://osmlab.github.io/show-me-the-way/#bounds=4.42857%2C-74.31152%2C4.85015%2C-73.94348
 * Restaurantes vegetarianos https://www.veggiekarte.de/?lang=en#12.0000/4.6527/-74.0763
-* Fecha donde se revisó el elemento del mapa https://yopaseopor.github.io/osmvalidatormap/#map=12.986/4.64663/-74.08902/0
-* Almacenes - https://yopaseopor.github.io/osmpoismap/#map=12.226/4.65718/-74.0838/0
-* Establecimientos - https://ripollx.github.io/osmcatmap2/#map=12.509/4.64964/-74.09408/0
-* Accesibilidad de silla de ruedas - https://osm-catalan.github.io/osmcatmap/#map=12.092/4.64234/-74.11888/0
-* Luces públicas - https://yopaseopor.github.io/osmlitmap/#map=12.703/4.65719/-74.10688/0
-* Información de lactancia - https://yopaseopor.github.io/osmbabymap/#map=15.371/4.65193/-74.08367/0
-* Recursos de Wikimedia (wikipedia, wikidata) - https://wikishootme.toolforge.org/#lat=4.6514885659310465&lng=-74.08227805048227&zoom=14
-* Recursos de Wikimedia - https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=4.64112&lon=-74.04159&zoom=13&lang=es&layers=00B0TT
-* Opciones marítimas (algunas sirven en Bogotá, específicamente Wikipedia) - https://map.openseamap.org/?zoom=12.3&lon=-74.08254&lat=4.65789&layers=TFTFFFTFFTTFFFFFFFFFFF
-* Artículos de wikipedia - https://osmwd.dsantini.it/#-74.0841,4.6527,14.9,feature_source,overpass_wd+wd_base
-* Artículos de wikipedia - https://map.osm.wikidata.link/map/16/4.6493/-74.0617?radius=10
-* Artículos de wikipedia - https://wdlocator.toolforge.org/#map=17/4.65514/-74.08538
-* Elementos actualizados - https://is-osm-uptodate.frafra.eu/#15/4.65312/-74.08399
-* Elementos del mapa - https://www.whatiswhere.com/
-* POIs sostenibles - https://sustainable.zottelig.ch/?location=4.597648%2C-74.0739886
+* Almacenes (fallando 20260429) - https://yopaseopor.github.io/osmpoismap/#map=12.226/4.65718/-74.0838/0
+* Establecimientos (fallando 20260429) - https://ripollx.github.io/osmcatmap2/#map=12.509/4.64964/-74.09408/0
+* Accesibilidad de silla de ruedas (fallando 20260429) - https://osm-catalan.github.io/osmcatmap/#map=12.092/4.64234/-74.11888/0
+* Luces públicas (fallando 20260429) - https://yopaseopor.github.io/osmlitmap/#map=12.703/4.65719/-74.10688/0
+* Información de lactancia (fallando 20260429) - https://yopaseopor.github.io/osmbabymap/#map=15.371/4.65193/-74.08367/0
+* Elementos del mapa (fallando 20260429) - https://www.whatiswhere.com/
+* POIs sostenibles (fallando 20260429) - https://sustainable.zottelig.ch/?location=4.597648%2C-74.0739886
 * Senderismo - https://hiking.waymarkedtrails.org/#?map=12.0/4.6623/-74.0889
-* Senderismo - https://trailcatalog.org/?lat=4.6404982&lng=-74.0936099&zoom=10.977
+* Senderismo (fallando 20260429) - https://trailcatalog.org/?lat=4.6404982&lng=-74.0936099&zoom=10.977
 * De segunda mano y arreglos - https://demo.transformap.co/secondhand.html#13/4.7093/-74.0606
 * Cervecerías - https://brewpubs.openstreetmap.de/#12/4.6548/-74.0861/0/0/f - https://brewmap.openstreetmap.de/#12/4.6562/-74.0559/0/0/f
-* POIs - https://www.flosm.org/en/poimap.html?lat=4.65100390&lon=-74.0825193&r=6623.7375&st=1&sw=alpinehut,bbq,bench,campsite,caravansite,chalet,drinkingwater,hikingmap,huntingstand,park,peak,picnicsite,shelter,viewpoint,waysidecross,waysideshrine
 * Publicidad - https://openadvertmap.pavie.info/#15/4.6176/-74.0836
 * Varias cosas - https://tracesmap.com/#13/4.6588/-74.0860/bus/normal
 * POIs - https://wikimap.wiki/?base=map&lat=-8247287.6480&lon=518610.6175&showAll=true&wiki=eswiki&zoom=13
@@ -115,6 +108,23 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Acercas - https://www.opensidewalkmap.com/4.6552753/-74.0832399/14.52
 * Aeropuertos - https://openairportmap.org/SKBO#map=15/4.701596/-74.146999 o https://openairportmap.org/SKGY#map=16.75/4.814097/-74.064098
 * Nodos, ways y relaciones - https://spyglass.jochentopf.com/#p=13.69/4.65043/-74.0835
+
+## De datos de OSM
+
+* Interpretación de notas - https://greymiche.lima-city.de/osm_notes/index.html?lat=4.6394458&lon=-74.07746214419605&zoom=11&_x_tr_sl=de&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+* Cambios recientes - https://osmlab.github.io/show-me-the-way/#bounds=4.42857%2C-74.31152%2C4.85015%2C-73.94348
+* Fecha donde se revisó el elemento del mapa (fallando 20260429) - https://yopaseopor.github.io/osmvalidatormap/#map=12.986/4.64663/-74.08902/0
+* Elementos actualizados - https://is-osm-uptodate.frafra.eu/#15/4.65312/-74.08399
+
+## De wikimedia
+
+* Recursos de Wikimedia (wikipedia, wikidata) - https://wikishootme.toolforge.org/#lat=4.6514885659310465&lng=-74.08227805048227&zoom=14
+* Recursos de Wikimedia - https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=4.64112&lon=-74.04159&zoom=13&lang=es&layers=00B0TT
+* Opciones marítimas (algunas sirven en Bogotá, específicamente Wikipedia) - https://map.openseamap.org/?zoom=12.3&lon=-74.08254&lat=4.65789&layers=TFTFFFTFFTTFFFFFFFFFFF
+* Artículos de wikipedia - https://osmwd.dsantini.it/#-74.0841,4.6527,14.9,feature_source,overpass_wd+wd_base
+* Artículos de wikipedia - https://map.osm.wikidata.link/map/16/4.6493/-74.0617?radius=10
+* Artículos de wikipedia - https://wdlocator.toolforge.org/#map=17/4.65514/-74.08538
+
 
 ## Buscadores 
 
@@ -177,6 +187,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Editor de direcciones (Avatars sobre edificios, no puede editar en Colombia) - https://yuiseki.github.io/osm-address-editor-vite/#16.27/4.653732/-74.083798
 * Editor de lugares accequibles en silla de ruedas - https://wheelmap.org/nodes/889749361
 * Editor de calidad del mapeo de vías (no se puede ubicar en Bogotá, toca moverlo) - http://editor.osmsurround.org/
+* Editor temático - https://mapcomplete.osm.be/
 
 # Estadísticas
 
