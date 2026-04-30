@@ -51,6 +51,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Vectorial (fallando 20260429) - https://tile.ourmap.us/inspect.html
 * Invidentes https://hapticke.mapy.com/?x=-74.09153&y=4.64809&z=14&lang=en
 * POIs - https://www.flosm.org/en/poimap.html?lat=4.65100390&lon=-74.0825193&r=6623.7375&st=1&sw=alpinehut,bbq,bench,campsite,caravansite,chalet,drinkingwater,hikingmap,huntingstand,park,peak,picnicsite,shelter,viewpoint,waysidecross,waysideshrine
+* https://www.lokjo.com/#m=13:4.65383:-74.08532:0
 
 ## Temáticos
 
@@ -59,6 +60,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Parqueaderos (fallando 20260429) - https://zlant.github.io/parking-lanes/#15/4.6507/-74.0754
 * Límites administrativos y códigos postales - https://osm-boundaries.com/Map
 * Infraestructura - https://openinframap.org/#11.38/4.6467/-74.0837/L,O,P,S,T,W
+* Infraestructura - https://www.flosm.org/en/powergrid.html?lat=4.68406813&lon=-74.0826222&r=47178.657&st=1&sw=cabledistributioncabinet,catenarymast,generator,powerbay,powerbiofuel,powerbiogas,powerbiomass,powerbusbar,powercable,powercoal,powercompensator,powerconverter,powergeothermal,powerhydro,powerline,powerline110k,powerline115k,powerline20k,powerline220k,powerline220v,powerline225k,powerline30k,powerline380k,powerline3k,powerline400k,powerline420k,powerline500v,powerline50k,powerline6k,powerline750k,powerline765k,powerlinedchigh,powerlinedclow,powerminordistribution,powernuclear,poweroil,powerpole,powersolar,powersolarphotovoltaic,powersolarthermal,powersubstation,powerswitch,powertidal,powertower,powerwaste,powerwind,transformer
 * Luces - http://osmstreetlight.bplaced.net/#15/4.6564/-74.0801
 * Hidrantes (fallando 20260429) - https://www.osmhydrant.org/en/#zoom=14&lat=4.65393&lon=-74.0788
 * Accesibilidad - https://www.cityaccessmap.com/
@@ -67,6 +69,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Reanimadores DEA - https://openaedmap.org/#map=12/4.65383/-74.08878
 * Rutas de transporte - https://ptmap.plepe.at/#lat=4.65070&lon=-74.08285&zoom=15
 * Rutas de transporte - https://relatify.monicz.dev/#map=18/4.707935/-74.060715
+* Buses - https://www.flosm.org/en/publictransport.html?lat=4.62926967&lon=-74.1176583&r=16366.240&st=1&sw=busroute,busstation,busstop,ferryroute,ferrystop,ferryterminal,lightrailroute,lightrailstop,railstop,station,subwayentrance,subwayroute,subwaystop,trainroute,tramroute,tramstop,trolleyroute
 * Horario de establecimientos - https://openingh.openstreetmap.de/?zoom=14&lat=4.65293&lon=-74.08764&layers=B0T&filter=none&tags=opening_hours&lng=es
   * Horario de establecimientos - https://openingh.ypid.de/?zoom=13&lat=4.65168&lon=-74.07961&layers=B0T&filter=none&tags=opening_hours
 * De vías - https://a-b-street.github.io/osm2streets/lane_editor.html#14.48/4.6536/-74.08161
@@ -87,27 +90,18 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * De segunda mano y arreglos - https://demo.transformap.co/secondhand.html#13/4.7093/-74.0606
 * Cervecerías - https://brewpubs.openstreetmap.de/#12/4.6548/-74.0861/0/0/f - https://brewmap.openstreetmap.de/#12/4.6562/-74.0559/0/0/f
 * Publicidad - https://openadvertmap.pavie.info/#15/4.6176/-74.0836
-* Varias cosas - https://tracesmap.com/#13/4.6588/-74.0860/bus/normal
-* POIs - https://wikimap.wiki/?base=map&lat=-8247287.6480&lon=518610.6175&showAll=true&wiki=eswiki&zoom=13
-* POIs (de pronto no basado 100% en OSM) - https://wiki-atlas.org/
-* Artículos Wikipedia - https://es.nearbywiki.org/map/discover/4810590#14/4.6460/-74.0736
 * Visor de calles - https://a-b-street.github.io/osm2streets/#14.43/4.65211/-74.0827/18.4/3
-* https://www.lokjo.com/#m=13:4.65383:-74.08532:0
 * Sombras - https://shademap.app/@4.65237,-74.08471,14.02788z,1717158035748t,11.99932b,0p,0m!1717152253632!1717196801543
 * Posición del sol - https://app.shadowmap.org/?lat=4.61196&lng=-74.08461&zoom=14.42&azimuth=0.00000&basemap=map&elevation=nextzen&f=29.0&hud=true&polar=0.52360&time=1728445944026&vq=2
 * Uso del suelo - https://osmlanduse.org/#11.174608502820849/-74.0827/4.68527/0/
 * Vetustes de los límites de velocidad - https://maxspeeds.openstreetmap.rs/#12/4.6547/-74.0865
-* Paraderos - https://gauss.whz.de/ptsa/#11/4.6640/-74.1436
-* Cantidad de detalles - http://test.osm2pgsql.org/#p=10.01/4.6434/-74.1123
-* Infraestructura - https://www.flosm.org/en/powergrid.html?lat=4.68406813&lon=-74.0826222&r=47178.657&st=1&sw=cabledistributioncabinet,catenarymast,generator,powerbay,powerbiofuel,powerbiogas,powerbiomass,powerbusbar,powercable,powercoal,powercompensator,powerconverter,powergeothermal,powerhydro,powerline,powerline110k,powerline115k,powerline20k,powerline220k,powerline220v,powerline225k,powerline30k,powerline380k,powerline3k,powerline400k,powerline420k,powerline500v,powerline50k,powerline6k,powerline750k,powerline765k,powerlinedchigh,powerlinedclow,powerminordistribution,powernuclear,poweroil,powerpole,powersolar,powersolarphotovoltaic,powersolarthermal,powersubstation,powerswitch,powertidal,powertower,powerwaste,powerwind,transformer
-* Buses - https://www.flosm.org/en/publictransport.html?lat=4.62926967&lon=-74.1176583&r=16366.240&st=1&sw=busroute,busstation,busstop,ferryroute,ferrystop,ferryterminal,lightrailroute,lightrailstop,railstop,station,subwayentrance,subwayroute,subwaystop,trainroute,tramroute,tramstop,trolleyroute
-* Debud - https://github.com/deevroman/better-osm-org/
-* Vectorial en frances - https://cartes.app/#5.52/46.857/2.025
+* Paraderos (fallando 20260429) - https://gauss.whz.de/ptsa/#11/4.6640/-74.1436
+* Cantidad de detalles (fallando 20260429) - http://test.osm2pgsql.org/#p=10.01/4.6434/-74.1123
+* Vectorial en frances - https://cartes.app/?choix+du+style=oui#12.55/4.65799/-74.06885
 * Lugar de entierro de personas - https://burial.dsantini.it/#-74.10066,4.69555,10.4,feature_source,overpass_osm_all_wd+wd_indirect,stamen_toner_lite,burial,2025
 * Curvas de nivel - https://openclimbing.org/#8.56/4.6985/-74.3677
 * Acercas - https://www.opensidewalkmap.com/4.6552753/-74.0832399/14.52
 * Aeropuertos - https://openairportmap.org/SKBO#map=15/4.701596/-74.146999 o https://openairportmap.org/SKGY#map=16.75/4.814097/-74.064098
-* Nodos, ways y relaciones - https://spyglass.jochentopf.com/#p=13.69/4.65043/-74.0835
 
 ## De datos de OSM
 
@@ -115,6 +109,9 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Cambios recientes - https://osmlab.github.io/show-me-the-way/#bounds=4.42857%2C-74.31152%2C4.85015%2C-73.94348
 * Fecha donde se revisó el elemento del mapa (fallando 20260429) - https://yopaseopor.github.io/osmvalidatormap/#map=12.986/4.64663/-74.08902/0
 * Elementos actualizados - https://is-osm-uptodate.frafra.eu/#15/4.65312/-74.08399
+* Trazas GPX - https://tracesmap.com/#13/4.6588/-74.0860/bus/normal
+* Debud - https://github.com/deevroman/better-osm-org/
+* Nodos, ways y relaciones - https://spyglass.jochentopf.com/#p=13.69/4.65043/-74.0835
 
 ## De wikimedia
 
@@ -124,7 +121,9 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Artículos de wikipedia - https://osmwd.dsantini.it/#-74.0841,4.6527,14.9,feature_source,overpass_wd+wd_base
 * Artículos de wikipedia - https://map.osm.wikidata.link/map/16/4.6493/-74.0617?radius=10
 * Artículos de wikipedia - https://wdlocator.toolforge.org/#map=17/4.65514/-74.08538
-
+* POIs - https://wikimap.wiki/?base=map&lat=-8247287.6480&lon=518610.6175&showAll=true&wiki=eswiki&zoom=13
+* Artículos wikipedia - https://wiki-atlas.org/
+* Artículos Wikipedia - https://es.nearbywiki.org/map/discover/4810590#14/4.6460/-74.0736
 
 ## Buscadores 
 
