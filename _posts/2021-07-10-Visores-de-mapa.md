@@ -6,7 +6,7 @@ author: Andres Gomez
 
 Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
-* https://www.mapcontrib.xyz/
+*  (fallando 20260429) https://www.mapcontrib.xyz/
   * Mapa de desfibriladores https://www.mapcontrib.xyz/t/14710b-Les_defibrillateurs#position/14/4.65305117955817/-74.07772131264211
   * Hidrantes https://www.mapcontrib.xyz/t/s8c2d9-Les_bornes_a_incendie#position/14/4.648130492600328/-74.07746214419605
   * Puntos de reciclaje https://www.mapcontrib.xyz/t/18fa92-Les_equipements_lies_aux_dechets#position/14/4.6852205/-74.0641621
@@ -112,6 +112,15 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Trazas GPX - https://tracesmap.com/#13/4.6588/-74.0860/bus/normal
 * Debud - https://github.com/deevroman/better-osm-org/
 * Nodos, ways y relaciones - https://spyglass.jochentopf.com/#p=13.69/4.65043/-74.0835
+* Densidad de nodos - https://tyrasd.github.io/osm-node-density/#6/4.353/-74.153/2021,places
+
+## De datos relativos a OSM
+
+* Comparación de proveedores de mapas - http://tools.geofabrik.de/mc/#17/4.6534/-74.0835&num=4&mt0=mapnik&mt1=google-map&mt2=hike_bike&mt3=here-map
+* Who's around me http://resultmaps.neis-one.org/oooc?zoom=13&lat=4.65521&lon=-74.06823&layers=B0TFFFFFT
+* Offsets de las imagenes satelitales - http://offsets.textual.ru/map#zoom=11&lat=4.653&lon=-74.0829
+* Datos históricos - https://ohsome.org/apps/dashboard/
+* Evolución de datos - https://hex.ohsome.org/#/amenity_pharmacy_healthcare_pharmacy_ptpl/2023-09-01T00:00:00Z/10/4.681380886234763/-74.16921938388884
 
 ## De wikimedia
 
@@ -127,13 +136,11 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 ## Buscadores 
 
-* Rutas y niveles - https://brouter.de/brouter-web/#map=14/4.6462/-74.0818/standard,route-quality&lonlats=-74.08374,4.676175;-74.08374,4.676175;-74.061824,4.659401;-74.066727,4.632699;-74.063543,4.623541;-74.04898,4.650415;-74.010412,4.662996;-74.058642,4.678743;-74.078499,4.642798&pois=-74.077558,4.649217,Estadio&nogos=-74.064497,4.644097,377
-* Calcular ruta en diversos medios - https://brouter.damsy.net/latest/#map=15/4.6531/-74.0810/standard,route-quality&lonlats=-74.099865,4.659282;-74.087076,4.656587;-74.062057,4.650001&ringgo=-74.062314,4.679682,&profile=car-fast
 * Buscar cosas - https://www.openstreetbrowser.org/#historic/n4556364602&map=15/4.6556/-74.0840&categories=historic,religion
-* Servicios de cercanía - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
+* Servicios de cercanía (fallando 20260429) - https://www.qwant.com/maps/#map=11.85/4.6522074/-74.0648733
 * Servicios de cercanía - https://facilmap.org/#14/4.6515/-74.0924/Mpnk
 * POIs - http://openpoimap.org/?map=amenity&zoom=14&lat=4.65528&lon=-74.0912&layers=B00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
-* Puntos de venta, cajeros y coins - https://coinmap.org/view/#/map/4.65218167/-74.08699036/14
+* Puntos de venta, cajeros y coins (fallando 20260429) - https://coinmap.org/view/#/map/4.65218167/-74.08699036/14
 * Mapas de aplicación - Gaia - https://www.gaiagps.com/map/?loc=11.0/-74.1070/4.6683
 * Mapas de aplicación - Osmand - https://osmand.net/map/#12/4.6575/-74.0848
 * Mapas de aplicación - LocusMap - https://web.locusmap.app/en/?lat=4.653755&lng=-74.067593&z=12&map=hikeBike
@@ -141,17 +148,10 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 ## Ruteadores
 
+* Rutas y niveles - https://brouter.de/brouter-web/#map=14/4.6462/-74.0818/standard,route-quality&lonlats=-74.08374,4.676175;-74.08374,4.676175;-74.061824,4.659401;-74.066727,4.632699;-74.063543,4.623541;-74.04898,4.650415;-74.010412,4.662996;-74.058642,4.678743;-74.078499,4.642798&pois=-74.077558,4.649217,Estadio&nogos=-74.064497,4.644097,377
+* Calcular ruta en diversos medios - https://brouter.damsy.net/latest/#map=15/4.6531/-74.0810/standard,route-quality&lonlats=-74.099865,4.659282;-74.087076,4.656587;-74.062057,4.650001&ringgo=-74.062314,4.679682,&profile=car-fast
 * https://abetterrouteplanner.com/
 * https://graphhopper.com/maps/?point=4.670017%2C-74.092024&point=4.648117%2C-74.081381&profile=car&layer=Omniscale
-
-## De datos relativos a OSM
-
-* Comparación de proveedores de mapas - http://tools.geofabrik.de/mc/#17/4.6534/-74.0835&num=4&mt0=mapnik&mt1=google-map&mt2=hike_bike&mt3=here-map
-* Densidad de nodos - https://tyrasd.github.io/osm-node-density/#6/4.353/-74.153/2021,places
-* Who's around me http://resultmaps.neis-one.org/oooc?zoom=13&lat=4.65521&lon=-74.06823&layers=B0TFFFFFT
-* Offsets de las imagenes satelitales - http://offsets.textual.ru/map#zoom=11&lat=4.653&lon=-74.0829
-* Datos históricos - https://ohsome.org/apps/dashboard/
-* Evolución de datos - https://hex.ohsome.org/#/amenity_pharmacy_healthcare_pharmacy_ptpl/2023-09-01T00:00:00Z/10/4.681380886234763/-74.16921938388884
 
 ## 3d e interno
 
@@ -161,41 +161,40 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * OSMBuildings - https://osmbuildings.org/?lat=4.65333&lon=-74.08365&zoom=16.0&tilt=36&rotation=34
 * F4 demo - https://demo.f4map.com/#lat=4.6527057&lon=-74.0886429&zoom=16
 * mapy.cz - https://en.mapy.cz/turisticka?vlastni-body&x=-74.0841067&y=4.6532824&z=17&m3d=1&height=1020&yaw=0&pitch=-45&uc=
-* OpenStationMap - https://www.openstationmap.org/#16.29/4.598169/-74.077015/41.2/42
+* OpenStationMap (fallando 20260429) - https://www.openstationmap.org/#16.29/4.598169/-74.077015/41.2/42
 * 3D - https://streets.gl/#4.65295,-74.08356,45.00,0.00,1500.00
-* OpenStationMap - https://www.openstationmap.org/#18.04/4.597825/-74.075248/-15.2/35
 
 # Calidad
 
 * OSMmose - http://osmose.openstreetmap.fr/en/map/#zoom=13&lat=4.6496&lon=-74.08968&item=xxxx&level=1%2C2%2C3&fixable=josm
 * KeepRight - [https://keepright.at/report_map.php?zoom=14&lat=-23.58791&lon=-46.65713](https://keepright.at/report_map.php?zoom=14&lat=4.65495&lon=-74.07969&layers=B0T&ch=0%2C30%2C40%2C50%2C70%2C90%2C100%2C110%2C120%2C130%2C150%2C160%2C170%2C180%2C191%2C192%2C193%2C194%2C195%2C196%2C197%2C198%2C201%2C202%2C203%2C204%2C205%2C206%2C207%2C208%2C210%2C220%2C231%2C232%2C270%2C281%2C282%2C283%2C284%2C285%2C291%2C292%2C293%2C294%2C295%2C296%2C297%2C298%2C311%2C312%2C313%2C320%2C350%2C370%2C380%2C401%2C402&show_ign=1&show_tmpign=1)
-* Vías de TomTom - [https://mapmetrics-world.innovation.tomtom-global.com/#?](https://mapmetrics-world.innovation.tomtom-global.com/#?mapSource=OSM&metric=median_count&z=14&lat=4.649451&lon=-74.084293&ds=OSM202207&ds2=None&mapSource2=OSM)mapSource=OSM&metric=average&z=14&lat=4.651487&lon=-74.08748100000003&ds=OSM202202&ds2=None&mapSource2=SAT
+* Vías de TomTom (fallando 20260429) - [https://mapmetrics-world.innovation.tomtom-global.com/#?](https://mapmetrics-world.innovation.tomtom-global.com/#?mapSource=OSM&metric=median_count&z=14&lat=4.649451&lon=-74.084293&ds=OSM202207&ds2=None&mapSource2=OSM)mapSource=OSM&metric=average&z=14&lat=4.651487&lon=-74.08748100000003&ds=OSM202202&ds2=None&mapSource2=SAT
 * Rutas sin nombre, o elementos sin dirección http://qa.poole.ch/?zoom=13&lat=4.6507&lon=-74.07256&layers=FFTFB0
 * Visor de QA de Nominatim - https://nominatim.org/qa/#map=11.59/4.65/-74.05&layer=addr_street_wrong_name
 * Restricciones - https://ahorn.lima-city.de/tr/?zoom=15&lat=4.65329&lon=-74.08384&layer=Grayscale&overlays=TTT
 * Cambios recientes - https://tyrasd.github.io/latest-changes/#16/4.6529/-74.0831
 * Quíen lo hizo - https://simon04.dev.openstreetmap.org/whodidit/?zoom=15&lat=4.6544&lon=-74.08328&layers=BTT
-* Fin de ríos - [https://waterwaymap.org/ends/#map=4.64/4.25/-71.18](https://waterwaymap.org/ends/#map=10.18/4.6451/-74.0097)
+* Fin de ríos - https://waterwaymap.org/ends/#map=4.64/4.25/-71.18
 
 # Editores
 
 * Editor de etiquetas, en POIs - https://osmapp.org/relation/7426387#10.58/4.6522/-74.2114
-* https://osmybiz.osm.ch/#/14/4.64940/-74.08592
+* https://osmybiz.osm.ch/17/4.652978330249878/-74.08361077308656
 * Editor de indoor - https://osminedit.pavie.info/
 * Editor de POIs cercanos - https://poism.dev.openstreetmap.us/
 * Editor de direcciones (Avatars sobre edificios, no puede editar en Colombia) - https://yuiseki.github.io/osm-address-editor-vite/#16.27/4.653732/-74.083798
 * Editor de lugares accequibles en silla de ruedas - https://wheelmap.org/nodes/889749361
-* Editor de calidad del mapeo de vías (no se puede ubicar en Bogotá, toca moverlo) - http://editor.osmsurround.org/
+* Editor de calidad del mapeo de vías (no se puede ubicar en Bogotá, toca moverlo) (fallando 20260429) - http://editor.osmsurround.org/
 * Editor temático - https://mapcomplete.osm.be/
 
 # Estadísticas
 
-* Estadísticas de mapeo - https://streetcompleteness.haukauntrie.de/
-* Usuarios, apps, por país - https://osm-monitor.com/
+* Estadísticas de mapeo (fallando 20260429) - https://streetcompleteness.haukauntrie.de/
+* Usuarios, apps, por país (fallando 20260429) - https://osm-monitor.com/
 * Actividad cercana de usuarios - https://resultmaps.neis-one.org/oooc?zoom=12&lat=4.64937&lon=-74.08291&layers=B0TFFFFFT
 
 # Juegos
 
-* https://backofyourhand.com/4.65347,-74.08501
-* https://www.tripgeo.com/city/bogota-co/OZP70ZX0?lat=4.648322851&lng=-74.107807&zoom=10
+* (fallando 20260429) https://backofyourhand.com/4.65347,-74.08501
+* (fallando 20260429) https://www.tripgeo.com/city/bogota-co/OZP70ZX0?lat=4.648322851&lng=-74.107807&zoom=10
 
