@@ -102,6 +102,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Curvas de nivel - https://openclimbing.org/#8.56/4.6985/-74.3677
 * Acercas - https://www.opensidewalkmap.com/4.6552753/-74.0832399/14.52
 * Aeropuertos - https://openairportmap.org/SKBO#map=15/4.701596/-74.146999 o https://openairportmap.org/SKGY#map=16.75/4.814097/-74.064098
+* Construcciones - https://urbanistmap.org/#map=12.87/4.6541/-74.0781
 
 ## De datos de OSM
 
