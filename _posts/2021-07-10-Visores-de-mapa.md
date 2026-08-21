@@ -104,6 +104,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * Aeropuertos - https://openairportmap.org/SKBO#map=15/4.701596/-74.146999 o https://openairportmap.org/SKGY#map=16.75/4.814097/-74.064098
 * Construcciones - https://urbanistmap.org/#map=12.87/4.6541/-74.0781
 * Servicios a 1 KM de distancia - https://altilunium.github.io/terjangkau/
+* Camiones - http://maxheight.bplaced.net/overpass/map.html
 
 ## De datos de OSM
 
