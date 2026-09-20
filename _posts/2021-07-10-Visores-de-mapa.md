@@ -110,6 +110,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 
 * Interpretación de notas - https://greymiche.lima-city.de/osm_notes/index.html?lat=4.6394458&lon=-74.07746214419605&zoom=11&_x_tr_sl=de&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 * Cambios recientes - https://osmlab.github.io/show-me-the-way/#bounds=4.42857%2C-74.31152%2C4.85015%2C-73.94348
+* Cambios recientes - https://theplanetthinks.com/map
 * Fecha donde se revisó el elemento del mapa (fallando 20260429) - https://yopaseopor.github.io/osmvalidatormap/#map=12.986/4.64663/-74.08902/0
 * Elementos actualizados - https://is-osm-uptodate.frafra.eu/#15/4.65312/-74.08399
 * Trazas GPX - https://tracesmap.com/#13/4.6588/-74.0860/bus/normal
