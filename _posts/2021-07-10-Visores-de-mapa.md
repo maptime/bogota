@@ -167,6 +167,7 @@ Esta es una lista de visores del mapa de OpenStreetMap en la ciudad de Bogotá.
 * mapy.cz - https://en.mapy.cz/turisticka?vlastni-body&x=-74.0841067&y=4.6532824&z=17&m3d=1&height=1020&yaw=0&pitch=-45&uc=
 * OpenStationMap (fallando 20260429) - https://www.openstationmap.org/#16.29/4.598169/-74.077015/41.2/42
 * 3D - https://streets.gl/#4.65295,-74.08356,45.00,0.00,1500.00
+  Felispimeja - https://felispimeja.github.io/osm-simple3d-editor/?server=osm#15.93/4.64843/-74.077064/7.9/51
 
 # Calidad
 
